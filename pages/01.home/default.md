@@ -9,6 +9,5 @@ Public. Open. Participatory
 
 ![](pop.png)
 
-Moved all the welcome bumf to [Welcome Bumf](../bumf/default.md)
-
+This should be the very top page for the site.
 
