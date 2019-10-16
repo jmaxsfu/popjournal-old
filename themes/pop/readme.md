@@ -7,3 +7,5 @@ The **Pop** Theme is for [Grav CMS](http://github.com/getgrav/grav).  This READM
 Based on Pure.css as per the Grav theme tutorial
 
 This is for the Pop website at popjournal.ca
+
+Developed by jmax.
