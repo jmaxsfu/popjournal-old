@@ -1,0 +1,27 @@
+name: Pop
+version: 0.1.0
+description: Pop website
+icon: rebel
+author:
+  name: JMax
+  email: jmax@sfu.ca
+homepage: https://github.com/jmaxsfu/grav-theme-pop
+demo: http://popjournal.ca
+keywords: grav, theme, etc
+bugs: https://github.com/jmaxsfu/grav-theme-pop/issues
+readme: https://github.com/jmaxsfu/grav-theme-pop/blob/develop/README.md
+license: MIT
+
+form:
+  validation: loose
+  fields:
+    dropdown.enabled:
+        type: toggle
+        label: Dropdown in Menu
+        highlight: 1
+        default: 1
+        options:
+          1: PLUGIN_ADMIN.ENABLED
+          0: PLUGIN_ADMIN.DISABLED
+        validate:
+          type: bool
