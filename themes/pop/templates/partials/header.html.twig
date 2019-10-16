@@ -1,0 +1,14 @@
+<div class="header">
+    <div class="wrapper padding">
+        <a class="logo left" href="{{ home_url }}">
+            <!-- <i class="fa fa-rebel"></i> -->
+            {# <img src="{{ url('theme://images/logo.png') }}"> #}
+            {{ config.site.title }} <!-- THis is white -->
+        </a>
+        {% block header_navigation %}
+        <nav class="main-nav">
+            {% include 'partials/navigation.html.twig' %}
+        </nav>
+        {% endblock %}
+    </div>
+</div>

@@ -1,0 +1,30 @@
+{% extends 'partials/base.html.twig' %}
+
+
+{% block header %}
+    {% include 'partials/header.html.twig' %}
+    {% include 'partials/breadcrumbs.html.twig' %}
+{% endblock %}
+
+
+
+
+{% block content %}
+
+{{ page.content }}  {# ALLOWS ARBITRARY COMMENT BEFORE LISTING #}
+
+
+{% for art in page.collection %}
+    <div class="articlelink">
+       <a href="{{ art.url }}">{{ art.title }}</a>
+       <span class="authorname">
+
+     {% for au in art.header.author %}
+        {{ au.name|e('html') }}{% if not loop.last %},{% endif %}
+     {% endfor %}
+
+       </span>
+    </div>
+{% endfor %} 
+
+{% endblock %}

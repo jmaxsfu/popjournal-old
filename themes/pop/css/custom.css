@@ -1,0 +1,226 @@
+/* Core Stuff */
+
+ @import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600&display=swap&subset=latin-ext');
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Source Serif Pro', Georgia;
+    font-size: 1.1rem;
+    line-height: 1.75;
+    color: #220;
+   /*color: #606d6e;*/
+}
+
+.articlelink a {
+    font-size: 2rem;
+}
+
+.articlelink .authorname {text-transform: uppercase;}
+#metadata_block {
+    clear: all;
+    border: 1px solid #f50; padding: 1rem;
+}
+
+p.abstract {
+    font-size: .8rem; padding: 1rem;
+}
+p.abstract:before {
+    content: 'Abstract: ';
+    font-weight: 600;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #454B4D;
+}
+
+a {
+    color: #1F8CD6;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #175E91;
+}
+
+pre {
+    background: #F0F0F0;
+    margin: 1rem 0;
+    border-radius: 2px;
+}
+
+blockquote {
+    border-left: 10px solid #eee;
+    margin: 0;
+    padding: 0 2rem;
+}
+
+/* Utility Classes */
+.wrapper {
+    margin: 0 3rem;
+}
+
+.padding {
+    padding: 3rem 1rem;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+/* Content Styling */
+.header .padding {
+    padding: 1rem 0;
+}
+
+.header {
+    background: url(../images/logo.png) left top no-repeat;
+    background-position: 1rem 1rem;  
+        background-color: #fff;
+    border-bottom: 3px solid #f50;
+    color: #eee; 
+    padding-top: 2rem; padding-bottom: 2rem;
+}
+
+.header a {
+    color: #f50;
+}
+
+.header .logo {
+    
+    font-size: .1rem; color: white;
+    text-transform: normal;
+}
+
+.footer {
+    background-color: #eee;
+}
+
+/* Menu Settings */
+.main-nav ul {
+    text-align: center;
+    letter-spacing: -1em;
+    margin: 0;
+    padding: 0;
+}
+
+.main-nav ul li {
+    display: inline-block;
+    letter-spacing: normal;
+}
+
+.main-nav ul li a {
+    position: relative;
+    display: block;
+    line-height: 45px;
+    color: #f;
+    padding: 0 20px;
+    white-space: nowrap;
+}
+
+.main-nav > ul > li > a {
+    border-radius: 2px;
+}
+
+/*Active dropdown nav item */
+.main-nav ul li:hover > a {
+    color: #f50;
+    background-color: #eee;
+}
+
+/* Selected Dropdown nav item */
+.main-nav ul li.selected > a {
+    background-color: #f50;
+    color: #fff;
+}
+
+/* Dropdown CSS */
+.main-nav ul li {position: relative;}
+
+.main-nav ul li ul {
+    position: absolute;
+    background-color: #1F8DD6;
+    min-width: 100%;
+    text-align: left;
+    z-index: 999;
+
+    display: none;
+}
+.main-nav ul li ul li {
+    display: block;
+}
+
+/* Dropdown CSS */
+.main-nav ul li ul ul {
+    left: 100%;
+    top: 0;
+}
+
+/* Active on Hover */
+.main-nav li:hover > ul {
+    display: block;
+}
+
+/* Child Indicator */
+.main-nav .has-children > a {
+    padding-right: 30px;
+}
+.main-nav .has-children > a:after {
+    font-family: FontAwesome;
+    content: '\f107';
+    position: absolute;
+    display: inline-block;
+    right: 8px;
+    top: 0;
+}
+
+.main-nav .has-children .has-children > a:after {
+    content: '\f105';
+}
+
+/* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN COMMENTED OUT
+IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
+
+#breadcrumbs {
+    font-size: 0.9rem;
+    height: 2rem !important; 
+    line-height: 2rem;
+    padding-left: 4rem;
+}
+#breadcrumbs span {
+    display: inline-block;
+    padding: 0 0rem;
+}
+#breadcrumbs span:first-child {
+    padding-left: 0;
+}
+#breadcrumbs i {
+    display: inline-block;
+    width: 20px;
+    text-align: center;
+}
