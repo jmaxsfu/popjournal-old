@@ -1,10 +1,12 @@
 ---
 title: 'Breaking SFU Aldines Out of the Vaults: Aldus Manutius and Open Social Scholarship in the Sixteenth Century'
+author: 
+- 'Alessandra Bordini, Simon Fraser University, abordini@sfu.ca'
+- John Maxwell, Simon Fraser University, jmax@sfu.ca'
+date: 31-10-2019
+abstract: 'Aldus@SFU is the digital home of Simon Fraser University Library’s Wosk–McDonald Aldine Collection, making widely available selected volumes from the press of Renaissance Italy’s leading publisher, Aldus Manutius (ca. 1451–1515). The project aims to connect these important materials to wider, multiple audiences in an effort to turn the collection into a truly open resource for the public good. In pursuing this goal, a number of lessons about the practice of open social scholarship have become apparent, inspired by Aldus’s work and his long-lasting contribution to humanist learning. In this article, while avoiding overly simplistic historical parallels, we identify various points of alignment between today’s digital humanities projects and Aldus’s own ambitious “knowledge project”: the production and circulation of the major works of classical antiquity.'
 ---
 
-## Abstract
-
-Aldus@SFU is the digital home of Simon Fraser University Library’s Wosk–McDonald Aldine Collection, making widely available selected volumes from the press of Renaissance Italy’s leading publisher, Aldus Manutius (ca. 1451–1515). The project aims to connect these important materials to wider, multiple audiences in an effort to turn the collection into a truly open resource for the public good. In pursuing this goal, a number of lessons about the practice of open social scholarship have become apparent, inspired by Aldus’s work and his long-lasting contribution to humanist learning. In this article, while avoiding overly simplistic historical parallels, we identify various points of alignment between today’s digital humanities projects and Aldus’s own ambitious “knowledge project”: the production and circulation of the major works of classical antiquity.
 
 ## What Is Aldus@SFU?
 
@@ -48,35 +50,35 @@ Thankfully, we are not alone in this endeavour. Indeed, this move is a common th
 
 Today, we find ourselves in a similar place as Aldus at the dawn of the printing era, when the future of library collections relied on the distribution system of a “pan-European integrated \[book\] market.”[^23] Digging into the history, we learn that Aldus faced a set of challenges that, when listed, are remarkably similar to those discussed at an INKE meeting in midwinter. Let us consider these in turn:
 
-i\. Collaboration
+#### i. Collaboration
 
 Aldus wouldn’t have been able to achieve much on his own. As a printer-publisher-businessman, he needed to gather together and sustain a collection of editorial expertise, support and funding, craftsmanship and skilled labour, and social networks that would carry the intellectual, political, and social capital that he needed to make his business profitable. What digital humanities project is any different? Even though Aldus did understand and recognize the value of the work of all those who contributed to his publications, we must note that the Aldine editions do not feature long, comprehensive lists crediting all the individuals who worked on them.[^24]
 
-ii\. Technology standards
+#### ii. Technology standards
 
 Aldus wanted to get the Greek and Latin classics into wider circulation. The new technology of print allowed him to do so. Printing presses, papermaking, typecasting, binding, and the competencies to align these activities into a sustainable business were new (less than fifty years after Gutenberg), but robust enough to provide a stable model. Aldus didn’t need to invent paper, type metal, printer’s ink, or presses; he was able to rely on existing technology standards, making his press part of a larger, pan-European network of printers and booksellers.
 
-iii\. Prototyping
+#### iii. Prototyping
 
 Not all the technology that Aldus needed was readily available—or had even been invented—and this presented risks. To print the Greek classics, Aldus needed Greek type, and while this had been done before, it had not been done to his standards. During his lifetime, Aldus prototyped Greek printing characters over four iterations, to the point of being heralded as the key innovator in this area, despite the fact that Greek typography continued to evolve after his death.[^25] Some of the Aldine prototypes were more editorial than material innovations: the semicolon, for instance, as well as the standardized systems for page numbering that we all take for granted today. And, of course, we cannot overlook Aldus’s most important prototype of all: the small, portable, hand-sized volumes (the original “mobile device”) that allowed scholars to conveniently take books with them anywhere they wanted.[^26]
 
-iv\. UI and UX design
+#### iv. UI and UX design
 
 Aldus was one of the first printers to think instrumentally about the reading experience, from the form of the book itself to its typographic layout (Aldus’s typographic standards have been emulated ever since), to the role of the preface and other paratextual elements—most famously, his anchor-and-dolphin device—used as marketing stratagems to attract the readers’ attention and convince them to purchase the books.
 
-v\. Metadata
+#### v. Metadata
 
 By vocation, Aldus was a minimalist, as reflected both in the sober aesthetics of his most typical production and in the philological treatment of the text. Where the medieval manuscript tradition had been to layer a classical work with commentary and annotations, Aldus saw fit to package these works simply, in line with the humanist ideal of preserving the integrity of the original texts. In a way, even the metadata associated with his carefully edited volumes could be regarded as minimal, relying on nothing more than a title page and a preface (usually written in epistolary form and in a friendly tone) as primary access points to connect the reader to the resource.
 
-vi\. Search
+#### vi. Search
 
 Once one has standardized page numbering, the preparation of an alphabetical page index becomes possible. The early Aldine Press gave us not only one of the most extraordinary indexes ever created, but also the first paged index ever printed, allowing access to the contents of massive volumes such as Perottus’ *Thesaurus Cornucopia* (1499) in entirely new ways.[^27] This set the standard for search technology for hundreds of years.
 
-vii\. Digital Preservation and Management
+#### vii. Digital Preservation and Management
 
 How to ensure that the products of his ambitious educational and scholarly project would still be available centuries later? The answer from the age of print is well known to us now: “lots of copies keeps stuff safe.” This resulted in preserving not only the physical volumes, but also, by virtue of the network effects, the context and language they are written in. In the context of our Aldus@SFU project, addressing long-term preservation needs means, ideally, investing time and resources in a robust and widely supported digital repository. When SFU Library migrated its digital collections to a new open-source platform, Islandora, such significant undertaking was made on the promise of the new system offering greater flexibility and scalability, as well as better performance. Fittingly, Mark Leggot defines Islandora as a multi-layered ecosystem, describing it as “a number of separate open source systems that are brought together into a single software context to provide best-practice digital preservation services.”[^28] Combining the Drupal content management system with the Fedora Commons repository, the Islandora ecosystem offers an array of solutions for managing, preserving, and presenting digital assets in a single environment. That which can be considered Islandora’s greatest strength, however, is also a potential weakness. As Shea-Tinn Yeh et al. illustrate, the high level of complexity of Islandora’s back-end, consisting of a range of interdependent components (or “subsystems”), may generate a “domino effect” when an issue occurs in any of the systems, making it hard to identify the root cause of the failure(s) and, hence, find a solution.[^29] *In practice, despite its wealth of features and functions, Islandora’s complexity has meant that development—and support—are often slow and somewhat cumbersome.*
 
-viii\. Commitment to diversity and inclusivity
+#### viii. Commitment to diversity and inclusivity
 
 Admittedly, we have found virtually no evidence of this in early fifteenth-century Venice, as compared to most DH projects today. Indeed, the only woman directly mentioned in the Aldine story is Maria Torresani, the daughter of Aldus’s business partner Andrea Torresani; the two were wed in a marriage that consummated the business arrangement. In a typically uncredited role, Maria presumably brought into the world the sons who would later take over the Aldine press. Beyond that, the contributions of Maria Torresani, and everyone else not in Aldus’s circle of nobles and businessmen, are invisible.
 
@@ -84,57 +86,51 @@ Admittedly, we have found virtually no evidence of this in early fifteenth-centu
 
 The most powerful lesson that we—as both custodians of Aldus’s tradition and proponent of open social scholarship—can take from Aldus Manutius has little to do with this or that specific technological advancement, but has a great deal to do with the intellectual and ethical values that are behind those advancements and inspired his mission as a publisher. Aldus believed that, by offering access to the books he deemed key to learning, he could reach a wider public, serving the needs of a variety of readers, not just those who were already well-read in classical studies. Aldus wanted to unlock the wealth of knowledge contained in the books he treasured the most and make them available for the present and future generations. He successfully created a vibrant scholarly environment of intellectual exchange, fellowship, and co-operation. His painstaking efforts were continually sustained by an unwavering faith in the “public quality of learning”: the idea of knowledge as a common good that needs to be shared.[^30]
 
-This lesson calls for a broader reflection on the role and impact of specials collections on individuals and society at large. What Aldus’s pioneering example of open social scholarship can teach us today, in the twenty-first century, is that treating cultural heritage materials as precious treasures *shouldn’t necessarily mean* keeping them locked or hidden away from the public. What we need to do, in essence, is to break or, better, to reverse what could be called the *treasure paradigm* that still informs perceptions of value commonly associated with special collections. Instead of defining the “special” in special collections solely in terms of exclusiveness and inaccessibility, we need to articulate it (also) in terms of *openness* and *accessibility*. In other words, the paradigm, from “the more hidden, the more special (hence, valuable),” needs to be recast to “the more accessible, the more special”—this is the lesson that Aldus’s success teaches us.[^31]
+This lesson calls for a broader reflection on the role and impact of specials collections on individuals and society at large. What Aldus’s pioneering example of open social scholarship can teach us today, in the twenty-first century, is that treating cultural heritage materials as precious treasures *shouldn’t necessarily mean* keeping them locked or hidden away from the public. What we need to do, in essence, is to break or, better, reverse what could be called the *treasure paradigm* that still informs perceptions of value commonly associated with special collections. Instead of defining the “special” in special collections solely in terms of exclusiveness and inaccessibility, we need to articulate it (also) in terms of *openness* and *accessibility*. In other words, the paradigm, from “the more hidden, the more special (hence, valuable),” needs to be recast to “the more accessible, the more special”—this is the lesson that Aldus’s success teaches us.[^31]
 
 In planning and designing Aldus@SFU, we have increasingly been aware of Aldus’s presence in our practice; his example has, in many ways, inspired us to think more broadly about this project and the legacies that it represents. At first, this worked for us on the level of detail: the Aldine example in typography and layout has been an important source of inspiration. But as we have moved forward, it has become clear to us that the most important lessons from the history of the Aldine Press were not just about design and aesthetics; they were also about architecture, strategy, and, ultimately, a social project. We came to a deeper understanding that Aldus’s achievement wasn’t just in running a canny printing shop, but rather in being a critical node in an emerging network of learning and literacy that spread across the early modern world in the decades that followed. In this sense, the scope of our initiative transcends the specific needs of our individual holdings and becomes part of a larger, action-oriented conversation about making special collections interconnected, interactive, and globally accessible in the age of the decentralized web.
 
 ##  Works Cited
 
-#### Barker, Nicolas. *Aldus Manutius: Mercantile Empire of the Intellect*. Los Angeles: Department of Special Collections, University Research Library, University of California, 1989.
+Barker, Nicolas. *Aldus Manutius: Mercantile Empire of the Intellect*. Los Angeles: Department of Special Collections, University Research Library, University of California, 1989.
 
-#### ———.Aldus Manutius and the Development of Greek Script and Type in the Fifteenth Century.
+———.Aldus Manutius and the Development of Greek Script and Type in the Fifteenth Century. New York: Fordham University Press, 1992.
 
-#### New York: Fordham University Press, 1992.
+Bessarion, Basilius. “The Origin of St. Mark’s Library: Cardinal Bessarion’s Gift, 1468.” In *Venice: A Documentary History (1450–1630)*, edited by Chambers, David, et al. Oxford: Blackwell Publishers, 1992.
 
-#### 
+Bordini, Alessandra. “From the Aldine Press to Aldus@SFU: Showcasing Simon Fraser University Library’s Aldines Online,” Master of Publishing Project Report, 2017. <http://summit.sfu.ca/item/16989>.
 
-#### Bessarion, Basilius. “The Origin of St. Mark’s Library: Cardinal Bessarion’s Gift, 1468.” In *Venice: A Documentary History (1450–1630)*, edited by Chambers, David, et al. Oxford: Blackwell Publishers, 1992.
+Dempsey, Lorcan. “The Inside Out Library: Scale, Learning, Engagement.” Keynote address at the BOBCATSSS Conference in Ankara, Turkey, 23 January, 2013.
 
-#### Bordini, Alessandra. “From the Aldine Press to Aldus@SFU: Showcasing Simon Fraser University Library’s Aldines Online,” Master of Publishing Project Report, 2017. http://summit.sfu.ca/item/16989.
+Erasmus, Desiderius. *Erasmus on His Times: A Shortened Version of the “Adages” of Erasmus*. Edited and translated by Margaret Mann Phillips. Cambridge: Cambridge University Press, 1967.
 
-#### Dempsey, Lorcan. “The Inside Out Library: Scale, Learning, Engagement.” Keynote address at the BOBCATSSS Conference in Ankara, Turkey, 23 January, 2013.
+Fletcher, Henry George. New Aldine Studies: Documentary Essays on the Life and Works of Aldus Manutius. San Francisco: Bernard M. Rosenthal, 1988.
 
-#### Erasmus, Desiderius. *Erasmus on His Times: A Shortened Version of the “Adages” of Erasmus*. Edited and translated by Margaret Mann Phillips. Cambridge: Cambridge University Press, 1967.
+Galey, Alan, and Stan Ruecker. “How a Prototype Argues.” *Literary and Linguistic Computin*g, 25, no. 4 (2010): 405–424.
 
-#### Fletcher, Henry George. New Aldine Studies: Documentary Essays on the Life and Works of Aldus Manutius. San Francisco: Bernard M. Rosenthal, 1988.
+Geanakoplos, Deno J. Greek Scholars in Venice: Studies in the Dissemination of Greek Learning from Byzantium to Western Europe. Cambridge, Ma: Harvard University Press, 1962.
 
-#### Galey, Alan, and Stan Ruecker. “How a Prototype Argues.” *Literary and Linguistic Computin*g, 25, no. 4 (2010): 405–424.
+———. “Erasmus and the Aldine Academy of Venice: A Neglected Chapter in the Transmission of Greco- Byzantine Learning to the West.” *Greek, Roman, and Byzantine Studies 3* (1960): 107–34.
 
-#### Geanakoplos, Deno J. Greek Scholars in Venice: Studies in the Dissemination of Greek Learning from Byzantium to Western Europe. Cambridge, Ma: Harvard University Press, 1962.
+Harris, Neil. “Aldus and the Making of the Myth (Or What Did Aldus Really Do?).” In *Aldo Manuzio. La costruzione del mito*, 346–85. Venice: Marsilio, 2016.
 
-#### ———. “Erasmus and the Aldine Academy of Venice: A Neglected Chapter in the Transmission of Greco- Byzantine Learning to the West.” *Greek, Roman, and Byzantine Studies 3* (1960): 107–34.
+Huculak, Matt. “Developing Tools for Open Social Scholarship in the Library: Project Spotlight as a Model for Augmented Collection Description.” Presentation at the annual INKE gathering, Victoria, BC, 17 January, 2017.
 
-#### Harris, Neil. “Aldus and the Making of the Myth (Or What Did Aldus Really Do?).” In *Aldo Manuzio. La costruzione del mito*, 346–85. Venice: Marsilio, 2016.
+Lowry, Martin. The World of Aldus Manutius. Business and Scholarship in Renaissance Venice. Oxford: Blackwell, 1979.
 
-#### Huculak, Matt. “Developing Tools for Open Social Scholarship in the Library: Project Spotlight as a Model for Augmented Collection Description.” Presentation at the annual INKE gathering, Victoria, BC, 17 January, 2017.
+Manutius, Aldus, *The Greek Classics*. Translated and edited by N.G. Wilson. Cambridge, Ma: Harvard University Press, 2016.
 
-#### Lowry, Martin. The World of Aldus Manutius. Business and Scholarship in Renaissance Venice. Oxford: Blackwell, 1979.
+Overholt, John H. “Five Theses on the Future of Special Collections.” *RBM: A Journal of Rare Books, Manuscripts, and Cultural Heritage* 14, no. 1 (2013): 15–20.
 
-#### Manutius, Aldus, *The Greek Classics*. Translated and edited by N.G. Wilson. Cambridge, Ma: Harvard University Press, 2016.
+Owens, Trevor. “Islandora’s Open Source Ecosystem and Digital Preservation: An Interview with Mark Leggott.” *Library of Congress* (blog), March 4, 2013. https://blogs.loc.gov/thesignal/2013/03/islandoras-open-source-ecosystem-and-digital-preservation-an-interview-with-mark-leggott/.
 
-#### Overholt, John H. “Five Theses on the Future of Special Collections.” *RBM: A Journal of Rare Books, Manuscripts, and Cultural Heritage* 14, no. 1 (2013): 15–20.
+Pettegree, Andrew. “Renaissance Library and the Challenge of Print.” In *The Meaning of the Library: A Cultural History*, edited by Alice Crawford. Princeton, Oxford: Princeton University Press, 2015.
 
-#### Owens, Trevor. “Islandora’s Open Source Ecosystem and Digital Preservation: An Interview with Mark Leggott.” *Library of Congress* (blog), March 4, 2013. https://blogs.loc.gov/thesignal/2013/03/islandoras-open-source-ecosystem-and-digital-preservation-an-interview-with-mark-leggott/.
+Staikos, Konstantinos. *The Greek Editions of Aldus Manutius and His Greek Collaborators*. Translated by Katerina Spathi. New Castle, Delaware: Oak Knoll Press, 2016.
 
-#### Pettegree, Andrew. “Renaissance Library and the Challenge of Print.” In *The Meaning of the Library: A Cultural History*, edited by Alice Crawford. Princeton, Oxford: Princeton University Press, 2015.
+Willinsky, John. The Intellectual Properties of Learning: A Prehistory from Saint Jerome to John Locke. Chicago, London: University of Chicago Press, 2017.
 
-#### Staikos, Konstantinos. *The Greek Editions of Aldus Manutius and His Greek Collaborators*. Translated by Katerina Spathi. New Castle, Delaware: Oak Knoll Press, 2016.
-
-#### Willinsky, John. The Intellectual Properties of Learning: A Prehistory from Saint Jerome to John Locke. Chicago, London: University of Chicago Press, 2017.
-
-#### Yeh, Shea-Tinn, Fernando Reyes, Jeff Rynhart, and Philip Bain. “Deploying Islandora as a Digital Repository Platform: a Multifaceted Experience at the University of Denver Libraries.” *D-Lib Magazine* 22, no. 2 (2016). doi: 10.1045/july2016-yeh.
-
-#### 
+Yeh, Shea-Tinn, Fernando Reyes, Jeff Rynhart, and Philip Bain. “Deploying Islandora as a Digital Repository Platform: a Multifaceted Experience at the University of Denver Libraries.” *D-Lib Magazine* 22, no. 2 (2016). doi: 10.1045/july2016-yeh.
 
 [^1]: Lorcan Dempsey, “The Inside Out Library: Scale, Learning, Engagement,” keynote address at the BOBCATSSS Conference in Ankara, Turkey, 23 January, 2013.
 
@@ -196,4 +192,4 @@ In planning and designing Aldus@SFU, we have increasingly been aware of Aldus’
 
 [^30]: Willinsky, 194.
 
-[^31]: It is important to clarify that this “call to action” can never be interpreted as universal, and that there are contexts—especially in the legacy of colonialism that Renaissance Venice contributed to—in which issues of access need to be weighed in fuller cultural context. We note, for instance, Kim Christen’s recent “We Have Never Been Neutral: Search, Discovery, and the Politics of Access,” presentation at the OCLC Distinguished Seminar Series, Dublin, Ohio, July 13, 2017. https://www.youtube.com/watch?v=rMd6-IS3cmU.
+[^31]: It is important to clarify that this “call to action” can never be interpreted as universal, and that there are contexts—especially in the legacy of colonialism that Renaissance Venice contributed to—in which issues of access need to be weighed in fuller cultural context. We note, for instance, Kim Christen’s recent “We Have Never Been Neutral: Search, Discovery, and the Politics of Access,” presentation at the OCLC Distinguished Seminar Series, Dublin, Ohio, July 13, 2017. <https://www.youtube.com/watch?v=rMd6-IS3cmU>.
