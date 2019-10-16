@@ -1,6 +1,9 @@
 ---
 title: 'Dispersed/Networked Open Social Discovery Research: Applications for Humanistic Machine Learning & Topic Modelling'
-author: 'Richard J. Lane, MeTA Digital Humanities Lab, Vancouver Island University, <https://research.viu.ca/meta-digital-humanities-lab>'
+author: 
+- name: 'Richard J. Lane'
+  affil: 'MeTA Digital Humanities Lab, Vancouver Island University' 
+  email: 'https://research.viu.ca/meta-digital-humanities-lab'
 date: 31-10-2019
 abstract: 'One of the benefits of open social scholarship also presents researchers with a challenge: the dispersed nature of the knowledge breakthroughs presented by a diverse network of scholars inside and outside of the academy. Accessibility enhances the broad reach of open social scholarship, leading to a democratic engagement across a culturally rich spectrum of participants. But such processes do not necessarily provide coherent critical constellations or knowledge clusters from the perspective of the broad audience. Further, due to the positive benefits of functioning as a group, open social scholarship groups may ignore or simply not register potential discovery research breakthroughs that do not meet the criteria for the groups’ success. In all three instances (knowledge dispersal; lack of knowledge development coherence for all of the community and non-community members across a network; parallel knowledge breakthroughs that remain dispersed/unrecognized), machine learning and topic modelling can provide a methodology for recognizing and understanding open social knowledge creation.'
 ---

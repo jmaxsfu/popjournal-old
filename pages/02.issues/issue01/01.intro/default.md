@@ -1,9 +1,15 @@
 ---
 title: 'Introduction: Open Scholarship in Action'
 author: 
-- 'Alyssa Arbuckle, University of Victoria, alyssaa@uvic.ca'
-- 'Luis Meneses, University of Victoria, ldmm@uvic.ca'
-- 'Ray Siemens, University of Victoria, siemens@uvic.ca'
+- name: 'Alyssa Arbuckle'
+  affil: 'University of Victoria'
+  email: 'alyssaa@uvic.ca'
+- name: 'Luis Meneses'
+  affil: 'University of Victoria'
+  email: 'ldmm@uvic.ca'
+- name: 'Ray Siemens'
+  affil: 'University of Victoria'
+  email: 'siemens@uvic.ca'
 date: 31-10-2019
 ---
 

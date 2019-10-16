@@ -1,6 +1,8 @@
 ---
-title: Enacting Open Scholarship in Transnational Contexts'
-author: 'David Joseph Wrisley, NYU Abu Dhabi'
+title: 'Enacting Open Scholarship in Transnational Contexts'
+author: 
+- name: 'David Joseph Wrisley'
+  affil: 'NYU Abu Dhabi'
 date: 31-10-2019
 keywords: 'open scholarship, knowledge infrastructure, Arab countries, transnational, higher education development, globalized university, digital humanities'
 abstract: 'This essay addresses emerging open scholarly practices in transnational contexts, in particular in the Eastern Arab countries. It also describes some of the larger contours of the globalization in higher education in the regions of Middle East/North Africa (MENA) and Asia. Drawing upon work in the field in Lebanon and the Gulf States, it discusses some of the opportunities and challenges for open scholarship in the region, notably a gap in knowledge infrastructure. Finally, it argues that an important opportunity has emerged for the region’s globally connected institutions of higher education to shape and enact new knowledge environments.'

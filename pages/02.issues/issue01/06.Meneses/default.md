@@ -1,15 +1,18 @@
 ---
 title: 'Social Media Engine: Extending our Methodology into other Objects of Scholarship' 
 author:
-- 'Luis Meneses'
-- 'Alyssa Arbuckle'
-- 'Hector Lopez'
-- 'Belaid Moa'
-- 'Ray Siemens'
-- 'Richard Furuta'
-affiliations: 
-- 'Electronic Textual Cultures Lab, University of Victoria'
-- 'Center for the Study of Digital Libraries, Texas A&M University'
+- name: 'Luis Meneses'
+  affil: 'Electronic Textual Cultures Lab, University of Victoria'
+- name: 'Alyssa Arbuckle'
+  affil: 'Electronic Textual Cultures Lab, University of Victoria'
+- name: 'Hector Lopez'
+  affil: 'Electronic Textual Cultures Lab, University of Victoria'
+- name: 'Belaid Moa'
+  affil: 'Electronic Textual Cultures Lab, University of Victoria'
+- name: 'Ray Siemens'
+  affil: 'Electronic Textual Cultures Lab, University of Victoria'
+- name: 'Richard Furuta'
+  affil: 'Center for the Study of Digital Libraries, Texas A&M University'
 date: 31-10-2019
 abstract: 'In this paper we describe our efforts towards building a framework that extends the functionality of an Open Access Repository by implementing processes that integrate the ongoing trends in social media into the context of a digital collection—while taking into account the potential of social media, the relevance of open infrastructures and the accessibility of open knowledge. We refer to these processes collectively as the Social Media Engine. The purpose of this paper is twofold: first, we propose to challenge some of the preconceived notions of digital libraries by making repositories more dynamic; and second, by challenging this notion we want to promote public engagement and open scholarship. As a work in progress, we believe that a real challenge lies in emphasizing the connections between documents that can be treated as objects of study as well.'
 ---

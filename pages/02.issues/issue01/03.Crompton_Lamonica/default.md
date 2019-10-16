@@ -1,8 +1,12 @@
 ---
 title: 'Who’s There? Developing a Toolkit to Model People, Places, and Concepts in the Rijeka in Flux Map'
 author: 
-- 'Constance Crompton, University of Ottawa, constance.crompton@uottawa.ca'
-- 'Tristan Lamonica, University of Ottawa, tlamo041@uottawa.ca[^1]'
+- name: 'Constance Crompton'
+  affil: 'University of Ottawa'
+  email: 'constance.crompton@uottawa.ca'
+- name: 'Tristan Lamonica'
+  affil: 'University of Ottawa'
+  email: 'tlamo041@uottawa.ca[^1]'
 date: 31-10-2019
 abstract: 'Imagine yourself standing on the Trsat hill in the Croatian coastal town of Rijeka, facing the ocean. This article explores the tools and resources that make it possible to aggregate data about the entities (people, places, things, and concepts) that make up the history of the place where you imagine yourself standing. Working with the concept of deep mapping, the article outlines how the techniques are being used to enrich a digital map that captures the history of Rijeka, one of the European Union’s 2020 cultural capitals.'
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'CRKN: Enhancing and Expanding the Digital Scholarship Services of Canadiana'
-author: 'CRKN Staff'
+author: 
+- name 'CRKN Staff'
 date: 31-10-2019
 ---
 

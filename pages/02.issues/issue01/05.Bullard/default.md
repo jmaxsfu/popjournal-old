@@ -1,6 +1,8 @@
 ---
 title: 'Knowledge Organization For Open Scholarship'
-author: 'Julia Bullard, UBC iSchool'
+author: 
+- name: 'Julia Bullard'
+  affil: 'UBC iSchool'
 date: 31-10-2019
 abstract: 'This introductory piece explores the role that subject description—the work of determining an object’s aboutness and assigning relevant terms—has in creating infrastructures for open scholarship. Of particular concern is the potential to adopt the dominant, universalist systems common across North American libraries and databases, or to shift to situated and accountable systems that take care to describe objects consistent with the values of local communities of creators and readers.'
 ---

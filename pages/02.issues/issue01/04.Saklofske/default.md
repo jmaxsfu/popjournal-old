@@ -1,6 +1,8 @@
 ---
 title: 'MMOmuseums: A Proposal for the Creation of Experiential Memory Archives'
-author: 'Jon Saklofske, Acadia University'
+author: 
+- name: 'Jon Saklofske'
+  affil: 'Acadia University'
 date: 31-10-2019
 abstract: 'The visibility and longevity of popular and well-known massively multiplayer online (MMO) communities (World of Warcraft, Second Life) eclipse a greater number of virtual worlds that have been abandoned. While hundreds of inactive and closed-down massively multiplayer online role playing games (MMORPGs) have been documented, most online virtual worlds are not included in archival and preservation initiatives due to issues relating to intellectual property and proprietary technologies, and most MMORPG ghost towns are not even accessible online. Their evaporated geographies live on only in the memories and stories posted by players to archived message forums. What if these worlds could be booted up once again, not to play in, but to explore as virtual archeology sites, sites redesigned to host stories and memories from the players that once inhabited and originally populated these architectures with action, conflict, cooperation, and event? Such virtual archive spaces would feature player experiences and emergent narratives, represented as embedded narratives in a simulated recreation of the computer-generated geographies that they took place in, so that visitors to such sites experience a sense of presence as they receive a combination of both experience and story that preserves these spaces as lived worlds. Using the now-defunct City of Heroes MMO as an example, this paper discusses ways of directly involving diasporic communities of players in the memorialization of virtual spaces that they once inhabited.'
 ---

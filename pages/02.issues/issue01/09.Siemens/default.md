@@ -1,6 +1,8 @@
 ---
 title: 'Building and Supporting Humanities-Based University–industry Partnerships: View from the Academics'
-author: 'Lynne Siemens, University of Victoria'
+author: 
+- name: 'Lynne Siemens'
+  affil: 'University of Victoria'
 date: 31-10-2019
 abstract: 'University–industry partnerships are rare on the humanities side of campus in contrast to the sciences. As a result, little is known about these partnerships, which tend to be with libraries and other not-for-profit organizations. Using the Implementing New Knowledge Environments: Network Open Social Scholarship (INKE:NOSS) as a case study, this research examines a humanities-based university–industry partnership from the academics’ perspective. It explores the nature of the collaboration, associated benefits and challenges, and measures of success and desired outcomes. Overall, building upon several years of working with the partners, the interviewed researchers found that the benefits of collaborating outweighed the challenges. The benefits included the potential to move research towards production-orientated results. Among the many challenges, there was some hesitation about the ability to achieve publications and presentations needed for tenure and promotion. The academics contributed students, and in-kind and cash resources from their own research funds and those of the university to the partnership. At this point, the measures of success and desirable outcomes have not been quantified and instead focus on policy intervention and movement towards open social scholarship. These understandings about the nature of such a university–industry collaboration should provide a good foundation if partnership is funded.'
 ---
