@@ -49,9 +49,7 @@ Overall, the researchers are positive about this partnership. They see value in 
 
 The interviewees articulated a basic definition of collaboration. As one stated, a collaboration is two or more individuals or groups working together towards both common goals and individual ones that create benefit for each party (AL4)[^3]. In these cases, the team members are like-minded people who hold similar goals (AL1). This overlap between research interests and those of the partners around networked open social scholarship can be seen in Figure 1 (AL3).
 
-![](media/image1.png){width="5.0in" height="2.125in"}
-
-Figure 1: Overlapping research interests
+![Figure 1](figure1.png "Figure 1: Overlapping research interests")
 
 A collaboration of this nature creates a decentralized way of approaching problems by bringing together research interests with industry and public interests in two-way active conversation. This is contrast to the typical way of working with industry where academics often undertake research and then approach industry (AL1). In this case, the relationship is subtle with a focus on co-creation within an engaged stakeholder community (AL3, AL4). There is focus on what each member brings to the partnership (AL3).
 

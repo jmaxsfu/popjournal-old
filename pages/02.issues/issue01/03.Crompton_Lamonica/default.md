@@ -18,9 +18,7 @@ If you cannot picture the train station, synagogue, and cemetery, there is an on
 
 We joined the project in March 2018 to augment the map and to enrich the information in the unstructured text that comprises each pop-up place marker on the map (see figure 1). What follows is an outline of our experimental workflow and tool kit, as we develop a framework for next steps to make the most of the connections between entities (people, places, things, events, and concepts) represented in the map. While this piece outlines the pleasures and pitfalls of enriching the *Rijeka in Flux* map, we hope that these tools and processes we discuss below may prove useful to you too—anywhere you have text about people, places, and things about which you, or perhaps an even broader audience if you are making a website, art piece, poster or more, might try in order to create an information-rich interlinked version of any text. There are open tools out there, and most importantly there is open knowledge repository on Wikipedia, that are worth putting to good use.
 
-![](media/image1.png){width="6.5in" height="4.215277777777778in"}
-
-Figure 1: The current *Rijeka in Flux* map https://rijekafiume.geolive.ca
+![Figure 1](figure1.png "Figure 1: The current *Rijeka in Flux* map <https://rijekafiume.geolive.ca>")
 
 ### Project Contexts
 
@@ -32,11 +30,11 @@ Le Normand and her team are looking to refresh the map, add citizen scholar anno
 
 The project is taking a three-pronged approach to social knowledge creation:
 
-1\) Le Normand is leading a team of historians located in Italy, Canada, and Croatia through the process of archival research and of collecting oral testimony,
+1) Le Normand is leading a team of historians located in Italy, Canada, and Croatia through the process of archival research and of collecting oral testimony,
 
-2\) Le Normand is leading a team in Rijeka that will encourage people on the street as well as members of partnering NGOs to contribute place and event descriptions to the map, and
+2) Le Normand is leading a team in Rijeka that will encourage people on the street as well as members of partnering NGOs to contribute place and event descriptions to the map, and
 
-3\) a digital humanities team—including Constance Crompton and Tristan Lamonica (University of Ottawa), Jon Corbett (University of British Columbia Okanagan), Benedikt Perak (University of Rijeka), and others—are augmenting the map using the social knowledge created by online communities, like those who contribute to the Wikimedia suite of projects. The digital humanities team is working at the hinge point between unstructured data synthesized by people and the structured data readily processed by computers. Historians on the project comb through documentary evidence and oral testimony to create unstructured text for each marker. The digital humanities team uses an API (application programming interface) for entity extraction, augments the text with information about the extracted entities, and then adds structure by moving all that material into a structured SQL database (which underpins the map—a tool for human readers). Our long-term goal, outlined in the final section below, is to formally model the project data for connection dissemination on the semantic web. Our choice of text cleaning tools (OpenRefine), entity extraction tool (the publicly funded Dandelion API), and knowledge base for new information (Wikipedia and DBpedia) are all shaped by the INKE principles.
+3) a digital humanities team—including Constance Crompton and Tristan Lamonica (University of Ottawa), Jon Corbett (University of British Columbia Okanagan), Benedikt Perak (University of Rijeka), and others—are augmenting the map using the social knowledge created by online communities, like those who contribute to the Wikimedia suite of projects. The digital humanities team is working at the hinge point between unstructured data synthesized by people and the structured data readily processed by computers. Historians on the project comb through documentary evidence and oral testimony to create unstructured text for each marker. The digital humanities team uses an API (application programming interface) for entity extraction, augments the text with information about the extracted entities, and then adds structure by moving all that material into a structured SQL database (which underpins the map—a tool for human readers). Our long-term goal, outlined in the final section below, is to formally model the project data for connection dissemination on the semantic web. Our choice of text cleaning tools (OpenRefine), entity extraction tool (the publicly funded Dandelion API), and knowledge base for new information (Wikipedia and DBpedia) are all shaped by the INKE principles.
 
 ### Drawing on the Web’s Social Knowledge
 
@@ -46,31 +44,29 @@ That said, there is always some pre-processing required when it comes to working
 
 Text cleaning is the process of splitting up a large quantity of text into separate words in order to perform operations such as the removal of unnecessary spaces, duplicates, punctuation, and the stripping of non-uniform encoding like emoji characters. Text cleaning is much like a universal “find and replace” for large datasets. Starting with the .csv version of the Rijeka map marker text we used OpenRefine to:
 
-1\) Combine all columns that included text relevant for API parsing,
+1) Combine all columns that included text relevant for API parsing,
 
-2\) Associate a unique identifier (in our case a unique number) with each entry, and ensure it corresponds to the original ID used by the map’s SQL database,
+2) Associate a unique identifier (in our case a unique number) with each entry, and ensure it corresponds to the original ID used by the map’s SQL database,
 
-3\) Prepare additional columns for parsing each entry though the Dandelion API, and
+3) Prepare additional columns for parsing each entry though the Dandelion API, and
 
-4\) Create unique URLs that contain the API call (used to gather data from Dandelion), key (a unique string of characters and numbers provided to us by Dandelion to track our usage), and confidence levels (the degree of certainty we would like Dandelion to return us results). In this case, a higher confidence level meant that the API returned to us fewer results, but the results it did return were deemed higher relevant and of higher quality.
+4) Create unique URLs that contain the API call (used to gather data from Dandelion), key (a unique string of characters and numbers provided to us by Dandelion to track our usage), and confidence levels (the degree of certainty we would like Dandelion to return us results). In this case, a higher confidence level meant that the API returned to us fewer results, but the results it did return were deemed higher relevant and of higher quality.
 
 In order to parse each text entry through the Dandelion API while maintaining the uniqueness of every ID, we needed individual API calls for each map marker’s text. The parameters of the API call included the confidence level chosen, the language of the text, the text to be parsed, our Dandelion access key, and the request that the API return the Wikipedia abstract, categories, and images. We decided what we wanted to get back from the Dandelion API in order to create a more information rich map of Rijeka’s history. Here, in plain language, is an example of an Dandelion API call:
 
-Language of the text: English
+>	Language of the text: English
 
-Text: Gruppo atletico del Carnaro was an athletic association under the Italian rule in Rijeka. The club was renamed multiple times after 1945 and it is currently named Atletski klub Kvarner-Autotrans. The most famous athletics discipline under the Italian rule were street
+>	Text: Gruppo atletico del Carnaro was an athletic association under the Italian rule in Rijeka. The club was renamed multiple times after 1945 and it is currently named Atletski klub Kvarner-Autotrans. The most famous athletics discipline under the Italian rule were street races
 
-Minimum confidence of having found an entity in the text: 85% certain
+>	Minimum confidence of having found an entity in the text: 85% certain
 
 The following is the specific API call that would gather our desired information from the Dandelion API :
 
-https://api.dandelion.eu/datatxt/nex/v1/?lang=en%20&top\_entities=5&text=Gruppo atletico del Carnaro was an athletic association under the Italian rule in Rijeka. The club was renamed multiple times after 1945 and it is currently named Atletski klub Kvarner-Autotrans. The most famous athletics discipline under the Italian rule were street races.&min\_confidence=0.85&include=types%2Cabstract%2Ccategories%2Cimage%2Clod&token=02001296388bdtr24asf43243242423342312da
+>	https://api.dandelion.eu/datatxt/nex/v1/?lang=en%20&top\_entities=5&text=Gruppo atletico del Carnaro was an athletic association under the Italian rule in Rijeka. The club was renamed multiple times after 1945 and it is currently named Atletski klub Kvarner-Autotrans. The most famous athletics discipline under the Italian rule were street races.&min\_confidence=0.85&include=types%2Cabstract%2Ccategories%2Cimage%2Clod&token=02001296388bdtr24asf43243242423342312da
 
 The API provides a list of entities it found, abstracts about the entities, and links to related pictures and Wikipedia articles in a format called JSON (JavaScript Object Notation).
 
-![](media/image2.png){width="6.5in" height="2.0833333333333335in"}
-
-Figure 2: The JSON returned by the Dandelion API
+![Figure 2](figure2.png "Figure 2: The JSON returned by the Dandelion API")
 
 Since JSON files are an efficient way to format and organize information in both machine- and human-readable formats, it was the logical choice for parsing entity information containing contextual data from Wikipedia.
 

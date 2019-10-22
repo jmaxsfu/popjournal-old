@@ -1,7 +1,8 @@
 ---
 title: 'CRKN: Enhancing and Expanding the Digital Scholarship Services of Canadiana'
 author: 
-- name 'CRKN Staff'
+- name: 'CRKN Staff'
+  affil: 'Canadian Research Knowledge Network'
 date: 31-10-2019
 ---
 
@@ -25,19 +26,54 @@ As a merged organization, CRKN is developing Canadiana services by:
 
 ## Canadiana Collections Overview 
 
-+---------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
-| Canadiana Online (2018-present)                                                                         | Héritage (2013-present)                                                                                                                                    | Early Canadiana Online (ECO) (1999-2017)                                        |
-+---------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
-| -   95,000 titles (19 million pages) of published materials-                                            | -   Partnership between CRKN members and LAC                                                                                                               | -   5.8 million pages                                                           |
-|                                                                                                         |                                                                                                                                                            |                                                                                 |
-| -   Monographs (13 million pages)                                                                       | -   900 collections (41 million pages)                                                                                                                     | -   Monographs, serials and government publications                             |
-|                                                                                                         |                                                                                                                                                            |                                                                                 |
-| -   Serials (3 million pages of periodicals, 1.1 million pages of newspapers, 200,000 pages of annuals) | -   Archival material, including large collections from Federal - Government departments such as agriculture, defense, Indigenous affairs, and immigration | -   Arranged in thematic sub-collections                                        |
-|                                                                                                         |                                                                                                                                                            |                                                                                 |
-| -   Government publications (1.7 million pages)                                                         | -   Majority (approximately 60%) is handwritten                                                                                                            | -   No new items being added. All ECO material is available in Canadiana Online |
-|                                                                                                         |                                                                                                                                                            |                                                                                 |
-| -   Includes 5.8 million pages from Early Canadiana Online (ECO)                                        |                                                                                                                                                            |                                                                                 |
-+---------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+
+<tbody>
+<tr>
+<th>
+Canadiana Online (2018-present)</th>
+<th>
+Héritage (2013-present)
+</th>
+<th>
+Early Canadiana Online (ECO) (1999-2017)
+</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li>95,000 titles (19 million pages) of published materials-</li>
+<li>Monographs (13 million pages)</li>
+<li>Serials (3 million pages of periodicals, 1.1 million pages of newspapers, 200,000 pages of annuals) </li>
+<li>Government publications (1.7 million pages)</li>
+<li>Includes 5.8 million pages from Early Canadiana Online (ECO) </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Partnership between CRKN members and LAC</li>
+<li>900 collections (41 million pages) </li>
+<li>Archival material, including large collections from Federal - Government departments such as agriculture, defense, Indigenous affairs, and immigration </li>
+<li>Majority (approximately 60%) is handwritten </li>
+</ul>
+</td>
+<td>
+<ul>
+<li>5.8 million pages</li>
+<li>Monographs, serials and government publications</li>
+<li>Arranged in thematic sub-collections</li>
+<li>No new items being added. All ECO material is available in Canadiana Online </li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Significance of the Canadiana Collections 
 

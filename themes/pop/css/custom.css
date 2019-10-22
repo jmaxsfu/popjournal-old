@@ -8,6 +8,20 @@
     box-sizing: border-box;
 }
 
+figure {
+    width:80%;
+}
+
+img {
+    max-width: 80%;
+    object-fit: contain;
+}
+
+figcaption {
+   width: 80%;
+   font-size: .9rem;
+}
+
 body {
     font-family: 'Source Serif Pro', Georgia;
     font-size: 1.1rem;
@@ -201,6 +215,16 @@ blockquote {
 
 .main-nav .has-children .has-children > a:after {
     content: '\f105';
+}
+
+table {
+    font-size: .8rem;
+}
+th {
+    text-align: left;
+    font-size: .9rem; font-weight: 600;
+}
+td {    vertical-align: top;
 }
 
 /* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN COMMENTED OUT

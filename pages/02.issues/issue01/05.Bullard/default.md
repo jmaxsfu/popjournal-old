@@ -17,9 +17,7 @@ The group of scholars and practitioners among Implementing New Knowledge Environ
 
 Determining what something is *about* is a fascinating question with elusive answers. One could spend a career, for example, making a case for the aboutness of *Moby Dick*, where aboutness refers to the subjects inherent to the intellectual and creative work. The idea that subjects are essential to an intellectual and creative work is itself a matter for debate and invites questions about authorial intent and readers’ agency. In information studies, however, the task of determining aboutness is less an invitation to interrogate the nature of metaphor, narrative, or meaning than an ongoing and urgent concern: How can we connect items to subjects, subjects to terminology, and terminology to a community of readers who seek items about, say, mental illness? Subject access—the ability to discover items through the particular property of aboutness—is one of the key ways library services make the library more than just a collection of books or an index more than a list of articles. Ideally, our systems represent the subjects of their collections in such a way that they are authentic to the items themselves, comprehensible to the user, and are consistent with the values of the community (Beghtol 1986). For INKE’s development of open access platforms, it is necessary to examine how this last quality can be enacted with regards to accountability, transparency, and responsiveness to the community.
 
-![](media/image1.png){width="3.4791666666666665in" height="1.0034656605424321in"}
-
-Figure 1 Catalogued subject headings for Herman MelvillE's *Moby Dick* in the University of British Columbia Library System
+![Figure 1](figure1.png "Figure 1: Catalogued subject headings for Herman MelvillE's *Moby Dick* in the University of British Columbia Library System")
 
 The study, critique, and improvement of subject access systems are primary concerns for the field of knowledge organization. Knowledge organization is, in general, concerned with how we represent items such as books in systems such as libraries and how features of similarity and difference (e.g., the names of creators, disciplinary context, and aboutness) can facilitate searching, browsing, and selecting items. Traditionally, practitioners and scholars in knowledge organization have created and studied systems of centralized control of subject terminology: controlled vocabularies and classification systems. In controlled vocabularies, such as LCSH in Figure 1, there is a centrally managed approved list of terms, relationships among these terms (e.g., “mentally ill” has the broader term “sick” and the related term “people with mental disabilities”), and rules for how to apply these terms to items. Even with the advent of full-text search capabilities through digital collections, these systems are still vitally relevant to the user’s ability to find and sort a collection. Given the impact of subject access systems on the organization of the collection and the ability to connect users to items, we constantly seek to improve the rigour of the process by which practitioners build, revise, and maintain these systems.
 
@@ -43,15 +41,11 @@ CSH covers with two different headings the topics for which LCSH would use **Ita
 
 This example, indicative of Canada’s approach to multiculturalism, is more subtle than the difference between “First Nations” and “Native Americans” as terms in each system. The relationship between the two systems, with CSH being an appendix to LCSH, means that objects of Canadian scholarship will still carry the subject heading “Indians of North America--Canada” as in this record for the book *Indigenous Writes: A guide to First Nations, Métis & Inuit issues in Canada* (Vowel 2016) in Figure 2.
 
-![](media/image2.png){width="3.0568186789151355in" height="0.5527427821522309in"}
-
-Figure 2 LCSH for *Indigenous Writes* In the University of British Columbia Library System
+![Figure 2](figure2.png "Figure 2: LCSH for *Indigenous Writes* In the University of British Columbia Library System")
 
 Alternatively, local and situationally appropriate approaches to subject description can depart from Library of Congress’s universalist approach and adopt terminology that gives the same sense of aboutness while respecting and being more consistent with relevant community values. Figure 3 shows this contrast in the record for the same book, *Indigenous Writes*, as catalogued for the Xwi7xwa Library using the First Nations House of Learning Thesaurus, instead of LCSH.
 
-![](media/image3.png){width="2.9621216097987753in" height="0.9588221784776902in"}
-
-Figure 3 First Nations House of Learning Thesaurus terms for *Indigenous Writes* In the University of British Columbia Library System
+![Figure 3](figure3.png "Figure 3: First Nations House of Learning Thesaurus terms for *Indigenous Writes* In the University of British Columbia Library System")
 
 ## Next Steps
 

@@ -27,19 +27,13 @@ Through our research, we have developed our own methodology to analyze a documen
 
 The fundamental concepts behind the Social Media Engine can be explained using three points, which are illustrated in Figure 1. First, our framework yields a list of topics related to individual entries and articles in the Érudit.org corpus by applying textual analysis techniques and topic modelling; Érudit.org is a digital repository of social sciences and humanities publications (Érudit Consortium 2017). The documents are diverse in their language: English or French; their content: including scholarly and cultural journals, theses, books, proceedings, and technical reports; and their discipline: including arts, engineering, education, cinema, demography, law, theology, history, sociology, women studies, among others. Our corpus is a snapshot of the entire Érudit corpus containing 174,269 XML documents. Second, our engine connects readers and publications by monitoring social media for trending topics and returning links to OA publications that can be used to feed and enrich the discussion. Finally, our engine identifies trending papers on social media by looking at the number of times that papers on social science topics are shared, saved, liked, or commented on. Figure 2 shows a user scenario that outlines the processes and workflow of the Social Media Engine. In this scenario, search results are reorganized according to their references in social media.
 
-![](media/image1.png){width="5.407380796150481in" height="2.83030949256343in"}
+![Figure 1](figure1.png "Figure 1: Fundamental concepts behind the Social Media Engine.")
 
-Figure 1: Fundamental concepts behind the Social Media Engine.
-
-![](media/image2.png){width="5.420956911636045in" height="3.4795909886264216in"}
-
-Figure 2: User scenario outlining the processes and workflow of the Social Media Engine.
+![Figure 2](figure2.png "Figure 2: User scenario outlining the processes and workflow of the Social Media Engine.")
 
 To achieve these three points, our framework employs three main components, which are illustrated in figure 3: first, a keyword extraction module; second, a social media mining component; and third, a search engine. These components and their corresponding interactions are illustrated in Figure 3. The implications and impact of our framework towards the implementation of data mining and discovery tools and will be described in more detail in the following sections.
 
-![](media/image3.png){width="3.1177941819772528in" height="3.1734689413823274in"}
-
-Figure 3: System diagram for the Social Media Engine.
+![Figure 3](figure3.png "Figure 3: System diagram for the Social Media Engine.")
 
 ## The keyword extraction component
 
@@ -75,9 +69,7 @@ Our framework affords a multidisciplinary crossover of information through searc
 
 We used Apache Solr (Apache Software Foundation 2017b) as the search engine for our framework; Solr is a robust open source enterprise search platform that is based on Apache Lucene (Apache Software Foundation 2011). Ingesting the document corpus into Solr is done through XML files and by defining a schema, which defines the fields and metadata that will be used for searching. Solr has a component that is particularly important to our objectives: the Query Elevation component allowed us to boost specific search results depending on their mentions in social media. In other words, the rankings of the documents are altered and boosted using sets of keywords that match both social media and the documents in our corpus. Figure 4 shows a screenshot of the Social Media Engine user interface for our Solr instance. In this sense, Solr is crucial towards the operation of our framework. Considering the modular nature of our framework, we do not discard the possibility of using a different search engine in future versions of our framework.
 
-![](media/image4.png){width="4.976470909886264in" height="3.3793219597550306in"}
-
-Figure 4: Screenshot of the Social Media Engine user interface.
+![Figure 4](figure4.png "Figure 4: Screenshot of the Social Media Engine user interface.")
 
 ## Conclusions
 
