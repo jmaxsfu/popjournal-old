@@ -1,12 +1,33 @@
 /* Core Stuff */
 
- @import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600&display=swap&subset=latin-ext');
+@import url("https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css");
 
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+html, button, input, select, textarea,
+    .pure-g [class *= "pure-u"] {
+    font-family: 'Source Serif Pro', Georgia, serif;
+}
+
+body {
+    font-size: 1.1rem;
+    line-height: 1.75;
+    color: #220;
+   /*color: #606d6e;*/
+}
+
+ /* LAYOUT */
+
+.pure-u-md-7-12 {border: 1px green solid;}
+.pure-u-md-5-12 {border: 1px blue solid;}
+
+
+/* Specific things */
 
 figure {
     width:80%;
@@ -22,13 +43,6 @@ figcaption {
    font-size: .9rem;
 }
 
-body {
-    font-family: 'Source Serif Pro', Georgia;
-    font-size: 1.1rem;
-    line-height: 1.75;
-    color: #220;
-   /*color: #606d6e;*/
-}
 
 .articlelink a {
     font-size: 2rem;
@@ -170,7 +184,7 @@ blockquote {
 /* Selected Dropdown nav item */
 .main-nav ul li.selected > a {
     background-color: #f50;
-    color: #fff;
+    color: #fff;        
 }
 
 /* Dropdown CSS */
