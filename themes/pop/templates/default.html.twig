@@ -12,7 +12,8 @@
 {% block content %}
 
 <div id="metadata_block">
-	<h1>{{ header.title|e('html') }}</h1>
+	<h1 class="title">{{ header.title|e('html') }}{% if array_key_exists('subtitle', header) %}: {% endif %}</h1>
+    {% if array_key_exists('subtitle', header) %} <h1 class="subtitle">{{ header.subtitle|e('html') }}</h1>{% endif %}
 
 	 {% for au in header.author %}
         <p class="author">

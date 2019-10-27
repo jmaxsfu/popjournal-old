@@ -149,6 +149,10 @@ blockquote {
     background-color: #eee;
 }
 
+
+h1.title {}
+h1.subtitle { margin-top:-.5em;}
+
 /* Menu Settings */
 .main-nav ul {
     text-align: center;

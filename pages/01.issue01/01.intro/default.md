@@ -1,5 +1,6 @@
 ---
-title: 'Introduction: Open Scholarship in Action'
+title: 'Introduction'
+subtitle: 'Open Scholarship in Action'
 author: 
 - name: 'Alyssa Arbuckle'
   affil: 'University of Victoria'

@@ -1,5 +1,6 @@
 ---
-title: 'Social Media Engine: Extending our Methodology into other Objects of Scholarship' 
+title: 'Social Media Engine'
+subtitle: 'Extending our Methodology into other Objects of Scholarship' 
 author:
 - name: 'Luis Meneses'
   affil: 'Electronic Textual Cultures Lab, University of Victoria'

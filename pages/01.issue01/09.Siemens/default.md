@@ -1,5 +1,6 @@
 ---
-title: 'Building and Supporting Humanities-Based University–industry Partnerships: View from the Academics'
+title: 'Building and Supporting Humanities-Based University–industry Partnerships'
+subtitle: 'View from the Academics'
 author: 
 - name: 'Lynne Siemens'
   affil: 'University of Victoria'

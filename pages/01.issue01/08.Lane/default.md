@@ -1,5 +1,6 @@
 ---
-title: 'Dispersed/Networked Open Social Discovery Research: Applications for Humanistic Machine Learning & Topic Modelling'
+title: 'Dispersed/Networked Open Social Discovery Research'
+subtitle: 'Applications for Humanistic Machine Learning & Topic Modelling'
 author: 
 - name: 'Richard J. Lane'
   affil: 'MeTA Digital Humanities Lab, Vancouver Island University' 

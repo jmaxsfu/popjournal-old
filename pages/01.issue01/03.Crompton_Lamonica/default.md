@@ -6,11 +6,13 @@ author:
   email: 'constance.crompton@uottawa.ca'
 - name: 'Tristan Lamonica'
   affil: 'University of Ottawa'
-  email: 'tlamo041@uottawa.ca[^1]'
+  email: 'tlamo041@uottawa.ca'
 date: 31-10-2019
 abstract: 'Imagine yourself standing on the Trsat hill in the Croatian coastal town of Rijeka, facing the ocean. This article explores the tools and resources that make it possible to aggregate data about the entities (people, places, things, and concepts) that make up the history of the place where you imagine yourself standing. Working with the concept of deep mapping, the article outlines how the techniques are being used to enrich a digital map that captures the history of Rijeka, one of the European Union’s 2020 cultural capitals.'
 ---
 
+
+*(A note on authorship[^1])*
 
 We would like to invite you to imagine yourself standing on the Trsat hill in the Croatian coastal town of Rijeka, facing the ocean. There’s a large cemetery to your left, and down the coast to your right is the former site of Rijeka’s Great Synagogue, beyond that the train station, and beyond that the site of a nineteenth-century torpedo manufactory. Rijeka is a very particular city: as European borders were redrawn, political systems changed, and the modern concept of the nation state developed, the city has been variously part of the Habsburg Empire, a free state, divided between Italy and Yugoslavia, part of Yugoslavia alone, and, since 1991, part of Croatia. A political testing ground for years, the city carries in its streets and in its past a rich cultural history (Berrini 2004, Pupinni 2005). The city’s cultural significance has recently been recognized through one of Europe’s highest municipal honours: Rijeka is slated to be the cultural capital of the EU in 2020.
 
@@ -76,35 +78,23 @@ Setting Dandelion’s confidence level was a challenge. A confidence value is a 
 
 was returning 11 entities:
 
-Continuous testing
-
-Explosive
-
-Giovanni Luppis
-
-Interwar period
-
-Inventor
-
-Prototype
-
-Rijeka
-
-Robert Whitehead
-
-Shell
-
-Ship
-
-Torpedo
+- Continuous testing
+- Explosive
+- Giovanni Luppis
+- Interwar period
+- Inventor
+- Prototype
+- Rijeka
+- Robert Whitehead
+- Shell
+- Ship
+- Torpedo
 
 Turning up the confidence level to .85 shrinks the list down to proper names:
 
-Giovanni Luppis
-
-Robert Whitehead
-
-Rijeka
+- Giovanni Luppis
+- Robert Whitehead
+- Rijeka
 
 More user testing needs to be done to find out if the target users will want more information about, for example, the architectural features, languages, concepts (such as Interwar Period), and conceptual places (such as Heaven) that come back with broader named entity recognition, or if the narrower results better meet their expectations.
 
