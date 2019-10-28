@@ -160,6 +160,11 @@ ul li {list-style: circle;}
     margin: 0rem 2.6rem;
     border: 1px white solid;
 }
+@media  (max-width: 640px) {     /* COLLAPSE OUTER MARGINS ON MOBILE */
+  .wrapper {
+    margin: 0;
+  }
+}
 
 .padding {
     padding: 0rem 0rem;
