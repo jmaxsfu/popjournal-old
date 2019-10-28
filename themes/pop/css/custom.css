@@ -70,6 +70,15 @@ h1.title {
 h1.subtitle { font-size: 2rem; font-weight: normal; line-height: 1.1em;
     margin:0em;}
 
+@media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
+    h1.title {
+        font-size: 2rem; font-weight: 400; line-height: 2.25rem; 
+        margin-bottom: .25rem; margin-top: 2.6rem;}
+    h1.subtitle { font-size: 1.3rem; font-weight: normal; line-height: 1.1em;
+        margin:0em;}
+}
+
+
 .authorblock p {
     font-size: 1rem; line-height: 1.3em; 
     margin: 0em; text-indent: 0;
@@ -102,6 +111,12 @@ hr {color: #f50;}
 }
 
 
+@media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
+  .articlelink {
+    font-size: 2rem; line-height: 1.2em;
+    margin-top: 0rem;
+  }
+}
 
 /* GENERICS */
 
