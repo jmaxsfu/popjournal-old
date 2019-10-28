@@ -304,11 +304,17 @@ td {    vertical-align: top;
 /* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
 IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
 
+
 #breadcrumbs {
     font-size: 0.9rem;
     height: 2rem !important; 
     line-height: 2rem;
 }
+
+@media  (max-width: 640px) {     /* SCRAP BREADCRUMBS ON MOBILE */
+ #breadcrumbs {display: none;}
+}
+
 #breadcrumbs span {
     display: inline-block;
     padding: 0 0rem;
