@@ -8,7 +8,7 @@ date: 31-10-2019
 
 Content comes to *Pop!* typically as Word files. Once peer review and copyediting are complete, we convert all content to [markdown](https://en.wikipedia.org/wiki/Markdown), using the excellent [Pandoc](https://pandoc.org) conversion tool.
 
-The *Pop!* website uses the [Grav](https://getgrav.org) flat-file CMS, hosted at the fabulous [Reclaim Hosting](https://reclaimhosting.com). Grav makes websites out of markdown content and twig templates; an entire Grav site is just a collection of text files, which makes development, migration, and backup really easily.
+The *Pop!* website uses the [Grav](https://getgrav.org) flat-file CMS, hosted at the fabulous [Reclaim Hosting](https://reclaimhosting.com). Grav makes websites out of markdown content and twig templates; an entire Grav site is just a collection of text files, which makes development, migration, and backup really easily.  *Pop!* makes use of Grav plugs: [Img Captions](https://github.com/olevik/grav-plugin-imgcaptions), [Bigfoot](https://github.com/CPPL/grav-bigfootjs), and [Breadcrumbs](https://github.com/getgrav/grav-plugin-breadcrumbs/blob/master/README.md). Thanks to their authors!
 
 As each issue is finalized, we push the local development version of the site up to [Github](https://github.com/jmaxsfu/popjournal). The Pop! website is sync'ed with the Github repository via Paul Hibbits' GitSync plugin for Grav.
 
