@@ -51,16 +51,16 @@ html, body {
 
 figure {
     margin-top: 2.6rem;
-    width:95%;
+    width:100%;
 }
 
 img {
-    max-width: 95%;
+    max-width: 100%;
     object-fit: contain;
 }
 
 figcaption {
-   width: 95%;
+   width: 100%;
    font-size: .95rem;
 }
 
@@ -100,6 +100,13 @@ hr {color: #f50;}
     font-size: 2.6rem; line-height: 1.2em;
     margin-top: 0rem;
 }
+@media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
+  .articlelink {
+    font-size: 2rem; line-height: 1.2em;
+    margin-top: 0rem;
+  }
+}
+
 .articlelink .authorname {
     display: block;
     text-transform: uppercase; font-size: 1rem; letter-spacing: .09em; 
@@ -111,12 +118,6 @@ hr {color: #f50;}
 }
 
 
-@media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
-  .articlelink {
-    font-size: 2rem; line-height: 1.2em;
-    margin-top: 0rem;
-  }
-}
 
 /* GENERICS */
 
@@ -171,14 +172,10 @@ ul li {list-style: circle;}
 .vpad {padding: 1.3rem 0;}
 .hpad {padding: 0 2.6rem;}
 
-.wrapper {
-    margin: 0rem 2.6rem;
-    border: 1px white solid;
-}
+.wrapper { margin: 0rem 2.6rem; }
+
 @media  (max-width: 640px) {     /* COLLAPSE OUTER MARGINS ON MOBILE */
-  .wrapper {
-    margin: 0;
-  }
+  .wrapper { margin: .2rem; }
 }
 
 .padding {
