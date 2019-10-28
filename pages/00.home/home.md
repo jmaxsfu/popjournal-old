@@ -13,7 +13,7 @@ content:
 
 # Current Issue (#1):
 
-[Proceedings from the January 2019 INKE Meeting, "Understanding and Enacting Open Scholarship"](/issue01) – Oct 31, 2019
+## [Proceedings from the January 2019 INKE Meeting, <br /> "Understanding and Enacting Open Scholarship"](/issue01) – Oct 31, 2019
 
 <h2>Contents:</h2>
 
