@@ -10,9 +10,10 @@
 
 {% block content %}
 
+
 {{ page.content }}  {# ALLOWS ARBITRARY COMMENT BEFORE LISTING #}
 
-
+<div id-"toc"
 {% for art in page.collection %}
     <div class="articlelink">
        <a href="{{ art.url }}">{{ art.title }}</h1>{% if array_key_exists('subtitle', art.header) %}: {{ art.header.subtitle|e('html') }}{% endif %}</a>
@@ -25,5 +26,10 @@
        </span>
     </div>
 {% endfor %} 
+</div> 
 
+{% endblock %}
+
+{% block footer %}
+    {% include 'partials/footer.html.twig' %}
 {% endblock %}

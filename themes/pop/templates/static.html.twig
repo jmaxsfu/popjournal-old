@@ -18,15 +18,6 @@
   <div class="pure-u-1 pure-u-md-3-4">
     {% if array_key_exists('subtitle', header) %} <h1 class="subtitle">{{ header.subtitle|e('html') }}</h1>{% endif %}
 
-    <div class="authorblock vpad">
-     {% for au in header.author %}
-            <p class="author">
-            {{ au.name|e('html') }}{% if array_key_exists('affil', au) %}, <i>{{ au.affil|e('html') }}</i>{% endif %}{% if array_key_exists('email', au) %}, <i>{{ au.email|e('html') }}</i>{% endif %}
-            </p>
-      {% endfor %}
-      </div>
-
-
     {% if array_key_exists('deck', header) %} <div class="deck">{{ header.deck|e('html') }}</div>{% endif %}
 
     {{ page.content }}

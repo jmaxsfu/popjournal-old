@@ -1,66 +1,109 @@
 /* Core Stuff */
 
-@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600&display=swap');
 @import url("https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css");
 
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    padding: 0; margin: 0;
 }
 
 html, button, input, select, textarea,
     .pure-g [class *= "pure-u"] {
-    font-family: 'Source Serif Pro', Georgia, serif;
+    font-family: 'Crimson Text', Georgia, serif;
 }
 
-body {
-    font-size: 1.1rem;
-    line-height: 1.75;
+html, body {
+    font-size: 1.15rem;
+    line-height: 1.3em;
     color: #220;
    /*color: #606d6e;*/
 }
 
  /* LAYOUT */
+}
 
-.pure-u-md-7-12 {border: 1px green solid;}
-.pure-u-md-5-12 {border: 1px blue solid;}
+.pure-u-md-3-4 {border: 0px green solid;}
+.pure-u-md-1-4 {border: 0px blue solid;}
+
+/* Content Styling */
+.header .padding {
+    padding: 1.3rem 0;
+}
+
+.header a {
+    color: #f50;
+}
+.header .logo {
+    font-size: 1.6rem; color: #f50;
+    text-transform: normal;
+}
+.header .logo img {vertical-align: bottom;}
+
+.footer { margin: 2.6rem 0; border-top: 2px #f50 solid; 
+          clear: both;  font-size: .9rem;
+      }
 
 
-/* Specific things */
+/* Pop-Specific things */
 
 figure {
-    width:80%;
+    margin-top: 2.6rem;
+    width:95%;
 }
 
 img {
-    max-width: 80%;
+    max-width: 95%;
     object-fit: contain;
 }
 
 figcaption {
-   width: 80%;
-   font-size: .9rem;
+   width: 95%;
+   font-size: .95rem;
+}
+
+h1.title {
+    font-size: 4rem; font-weight: 400; line-height: 4.5rem; 
+    margin-bottom: .25rem; margin-top: 2.6rem;}
+h1.subtitle { font-size: 2rem; font-weight: normal; line-height: 1.1em;
+    margin:0em;}
+
+.authorblock p {
+    font-size: 1rem; line-height: 1.3em; 
+    margin: 0em; text-indent: 0;
+    border: 0px blue solid;
+}    
+.metadata-block { margin-left: 2.6rem; color: #b83d00;}
+.metadata-block p {
+    font-size: .9rem; line-height: 1.2em;
+    margin-bottom: 1rem; text-indent: 0; 
+}
+
+hr {color: #f50;}
+
+/* ISSUE TABLE OF CONTENTS */ 
+
+.articlelink {
+    /*border: 1px orange solid;*/
+    display: block; float: left;  text-overflow: wrap;
+    font-size: 2.6rem; line-height: 1.2em;
+    margin-top: 0rem;
+}
+.articlelink .authorname {
+    display: block;
+    text-transform: uppercase; font-size: 1rem; letter-spacing: .09em; 
+    position: relative; bottom: .3em;
+}
+.articlelink .authorname:before {
+    content: "\25a0"; color: orange;
+    position: relative; bottom: .05em;
 }
 
 
-.articlelink a {
-    font-size: 2rem;
-}
 
-.articlelink .authorname {text-transform: uppercase;}
-#metadata_block {
-    clear: all;
-    border: 1px solid #f50; padding: 1rem;
-}
-
-p.abstract {
-    font-size: .8rem; padding: 1rem;
-}
-p.abstract:before {
-    content: 'Abstract: ';
-    font-weight: 600;
-}
+/* GENERICS */
 
 h1,
 h2,
@@ -68,9 +111,22 @@ h3,
 h4,
 h5,
 h6 {
+    font-weight: 400;
     color: #454B4D;
+    margin-top: 1em; margin-bottom: 0;
+    line-height: 1.1em;
 }
 
+h1 {font-size: 4rem; font-weight: 400; line-height: 4.5rem;}
+
+p { margin-top: 1rem; text-indent: 0; }
+p+p { margin-top: 0rem; text-indent: 1.3rem; }
+
+p {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
 a {
     color: #1F8CD6;
     text-decoration: none;
@@ -92,13 +148,21 @@ blockquote {
     padding: 0 2rem;
 }
 
+ul {margin-top: 1.3em;}
+ul li {list-style: circle;}
+
 /* Utility Classes */
+
+.vpad {padding: 1.3rem 0;}
+.hpad {padding: 0 2.6rem;}
+
 .wrapper {
-    margin: 0 3rem;
+    margin: 0rem 2.6rem;
+    border: 1px white solid;
 }
 
 .padding {
-    padding: 3rem 1rem;
+    padding: 0rem 0rem;
 }
 
 .left {
@@ -121,42 +185,17 @@ blockquote {
     text-align: left;
 }
 
-/* Content Styling */
-.header .padding {
-    padding: 1rem 0;
-}
-
-.header {
-    background: url(../images/logo.png) left top no-repeat;
-    background-position: 1rem 1rem;  
-        background-color: #fff;
-    border-bottom: 3px solid #f50;
-    color: #eee; 
-    padding-top: 2rem; padding-bottom: 2rem;
-}
-
-.header a {
-    color: #f50;
-}
-
-.header .logo {
-    
-    font-size: .1rem; color: white;
-    text-transform: normal;
-}
-
-.footer {
-    background-color: #eee;
-}
 
 
-h1.title {}
-h1.subtitle { margin-top:-.5em;}
+
 
 /* Menu Settings */
+.main-nav {    
+    padding-top: 3.75rem; /* HOW ELSE TO GET THE BOTTOM TO ALIGN? */
+    text-align: right;
+}
 .main-nav ul {
-    text-align: center;
-    letter-spacing: -1em;
+    /*letter-spacing: -1em;*/
     margin: 0;
     padding: 0;
 }
@@ -169,8 +208,8 @@ h1.subtitle { margin-top:-.5em;}
 .main-nav ul li a {
     position: relative;
     display: block;
-    line-height: 45px;
-    color: #f;
+    line-height: 1.8rem;
+    color: #f50;
     padding: 0 20px;
     white-space: nowrap;
 }
@@ -245,14 +284,13 @@ th {
 td {    vertical-align: top;
 }
 
-/* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN COMMENTED OUT
+/* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
 IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
 
 #breadcrumbs {
     font-size: 0.9rem;
     height: 2rem !important; 
     line-height: 2rem;
-    padding-left: 4rem;
 }
 #breadcrumbs span {
     display: inline-block;

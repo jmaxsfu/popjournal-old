@@ -1,10 +1,11 @@
 <div class="header">
     <div class="wrapper padding">
-        <a class="logo left" href="{{ home_url }}">
-            <!-- <i class="fa fa-rebel"></i> -->
-            {# <img src="{{ url('theme://images/logo.png') }}"> #}
-            {{ config.site.title }} <!-- THis is white -->
+        <a class="logo left" alt="Pop!" href="{{ home_url }}">
+            <img src="{{ url('theme://images/logo.png') }}" /> 
+                Public. Open. Participatory
+
         </a>
+
         {% block header_navigation %}
         <nav class="main-nav">
             {% include 'partials/navigation.html.twig' %}

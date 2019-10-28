@@ -1,8 +1,8 @@
 ---
-title: 'Issue 1'
-sitemap:
-    changefreq: monthly
-show_breadcrumbs: true
+title: 'Issue #1'
+subtitle: 'Proceedings from the January 2019 INKE Meeting, "Understanding and Enacting Open Scholarship."'
+pubdate: 31-10-2019
+issuenum: 1
 content:
     items: '@self.children'
     order:
@@ -14,8 +14,7 @@ content:
 
 ---
 
-# Issue #1
 
-Proceedings from the January 2019 INKE Meeting, "Understanding and Enacting Open Scholarship.
+<h2>Contents:</h2>
 
-## Table of Contents
+---

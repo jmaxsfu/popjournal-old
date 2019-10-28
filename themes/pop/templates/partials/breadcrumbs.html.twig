@@ -3,7 +3,7 @@
 {% set divider = breadcrumbs_config.icon_divider_classes %}
 
 {% if crumbs|length > 1 or breadcrumbs_config.show_all %}
-<div id="breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<div id="breadcrumbs" class="wrapper" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
     {% if breadcrumbs_config.icon_home %}
     <i class="{{ breadcrumbs_config.icon_home }}"></i>
     {% endif %}
