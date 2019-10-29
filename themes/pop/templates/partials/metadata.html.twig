@@ -1,0 +1,23 @@
+{% for meta in page.metadata %}
+    <meta {% if meta.name %}name="{{ meta.name }}" 
+    {% endif %}{% if meta.http_equiv %}http-equiv="{{ meta.http_equiv }}" {% endif %}
+    {% if meta.charset %}charset="{{ meta.charset }}" {% endif %}
+    {% if meta.property %}property="{{ meta.property }}" {% endif %}
+    {% if meta.content %}content="{{ meta.content }}" {% endif %}/>
+{% endfor %}
+
+<meta name="dc.title" content="{{header.title}}{% if header.subtitle %}: {{header.subtitle}}{% endif %}" />
+{% for au in header.author %}
+<meta name="dc.creator" content="{{ au.name|e('html') }}" />
+{% endfor %}
+<meta name="dc.description" content="{% if header.abstract %}{{header.abstract}}{% endif %}" />
+<meta name="dc.source" content="Pop! Public. Open. Participatory" />
+<meta name="dc.citation.issue" content="{{page.parent.header.issuenum}}" />
+<meta name="citation_issue" content="{{page.parent.header.issuenum}}" />
+<meta name="dc.format" content="text/html" />
+<meta name="dc.publisher" content="CISP Press" />
+<meta name="dc.date" content="{% if header.date %}{{ header.date|date("Y-m-d") }}{% else %}{{page.parent.header.pubdate|date("Y-m-d")}}{% endif %}" />
+<meta name="dc.type" content="article" />
+<meta name="dc.identifier" content="" />
+<meta name="dc.language" content="en" />
+<meta property="og:type" content="article">
