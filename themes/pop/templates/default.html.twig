@@ -39,12 +39,12 @@
 
       <p class="date"><i>Published:</i> {{ header.date|date("M d, Y") }}</p>
   
-      {% if array_key_exists('abstract', header) %}<p class="abstract"><i>Abstract:</i> {{ header.abstract|e('html') }}</p>{% endif %}
-
       <p><i>Citation:</i> <br />
       {% for au in header.author %}{{ au.name|e('html') }}, {% endfor %}{{header.date|date("Y")}}. "{{header.title}}{% if header.subtitle %}: {{header.subtitle}}{% endif %}." <i>Pop! Public. Open. Participatory.</i> no. {{page.parent.header.issuenum}} ({{page.parent.header.pubdate|date("Y-m-d")}}). {{base_url_absolute}}{{page.url}}
       </p>
-    </div>
+ 
+       {% if array_key_exists('abstract', header) %}<p class="abstract"><i>Abstract:</i> {{ header.abstract|e('html') }}</p>{% endif %}
+   </div>
   </div>
 
 </div>
