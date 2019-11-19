@@ -96,6 +96,7 @@ h1.subtitle { font-size: 2rem; font-weight: normal; font-style: italic; line-hei
 
 .authorblock p.author {
    text-transform: uppercase; letter-spacing: .09em;
+   font-size: 90%; font-weight: bold;
    border-bottom: 2px #FC671F solid;
 }
 .authorblock p.authoraffil {
