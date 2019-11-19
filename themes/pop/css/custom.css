@@ -16,9 +16,9 @@ html, button, input, select, textarea,
 }
 
 html, body {
-    font-size: 1.15rem;
+    /*font-size: 1.15rem;*/
     line-height: 1.3em;
-    color: #220;
+    color: #330;
    /*color: #606d6e;*/
 }
 
@@ -29,20 +29,24 @@ html, body {
 .pure-u-md-1-4 {border: 0px blue solid;}
 
 /* Content Styling */
-.header .padding {
-    padding: 1.3rem 0;
+.padding {
+    padding: 0 0;    /*                   NEED?*/
 }
 
-.header a {
-    color: #f50;
+.header {
+    background-color: #FC671F; /*F50*/
+    color: white;
+    height: 143px;    /*Height of the POPorange.png*/
+    padding: 0 1.2rem;
+    margin-bottom: 4rem;
 }
-.header .logo {
-    font-size: 1.6rem; color: #f50;
-    text-transform: normal;
-}
+
 .header .logo img {vertical-align: bottom;}
 
-.footer { margin: 2.6rem 0; border-top: 2px #f50 solid; 
+
+
+
+.footer { margin: 2.6rem 0; border-top: 2px #FC671F solid; 
           clear: both;  font-size: .9rem;
       }
 
@@ -64,33 +68,50 @@ figcaption {
    font-size: .95rem;
 }
 
+
+
 h1.title {
     font-size: 4rem; font-weight: 400; line-height: 4.5rem; 
-    margin-bottom: .25rem; margin-top: 2.6rem;}
-h1.subtitle { font-size: 2rem; font-weight: normal; line-height: 1.1em;
+    margin-bottom: .25rem; margin-top: 1.6rem;}
+h1.subtitle { font-size: 2rem; font-weight: normal; font-style: italic; line-height: 1.1em;
     margin:0em;}
-
 @media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
     h1.title {
         font-size: 2rem; font-weight: 400; line-height: 2.25rem; 
         margin-bottom: .25rem; margin-top: 2.6rem;}
-    h1.subtitle { font-size: 1.3rem; font-weight: normal; line-height: 1.1em;
+    h1.subtitle { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
         margin:0em;}
 }
 
 
+.authorblock {
+    /*border: 1px #FC671F solid ;*/
+    margin: 2rem 1rem 2rem 0;
+}
 .authorblock p {
-    font-size: 1rem; line-height: 1.3em; 
+    font-family: helvetica; 
+    font-size: 1rem; line-height: 1.3em; padding-top: .2em; 
     margin: 0em; text-indent: 0;
-    border: 0px blue solid;
 }    
-.metadata-block { margin-left: 2.6rem; color: #b83d00;}
+
+.authorblock p.author {
+   text-transform: uppercase; letter-spacing: .09em;
+   border-bottom: 2px #FC671F solid;
+}
+.authorblock p.authoraffil {
+   font-style: italic; 
+}
+
+.metadata-block { margin-left: 3.6rem; color: #b83d00;}
 .metadata-block p {
     font-size: .9rem; line-height: 1.2em;
     margin-bottom: 1rem; text-indent: 0; 
 }
 
-hr {color: #f50;}
+hr {color: #FC671F;}
+
+
+
 
 /* ISSUE TABLE OF CONTENTS */ 
 
@@ -113,7 +134,7 @@ hr {color: #f50;}
     position: relative; bottom: .3em;
 }
 .articlelink .authorname:before {
-    content: "\25a0"; color: orange;
+    content: "\25a0"; color: #FC671F;
     position: relative; bottom: .05em;
 }
 
@@ -172,7 +193,7 @@ ul li {list-style: circle;}
 .vpad {padding: 1.3rem 0;}
 .hpad {padding: 0 2.6rem;}
 
-.wrapper { margin: 0rem 2.6rem; }
+.wrapper { margin: 0rem 6rem; }
 
 @media  (max-width: 640px) {     /* COLLAPSE OUTER MARGINS ON MOBILE */
   .wrapper { margin: .2rem; }
@@ -208,8 +229,10 @@ ul li {list-style: circle;}
 
 /* Menu Settings */
 .main-nav {    
-    padding-top: 3.75rem; /* HOW ELSE TO GET THE BOTTOM TO ALIGN? */
-    text-align: right;
+    /*padding-top: 3.75rem;  HOW ELSE TO GET THE BOTTOM TO ALIGN? */
+    position: absolute; top: 115px; right: 0;
+    float: right;
+    font-family: Helvetica; font-size: 1rem;
 }
 .main-nav ul {
     /*letter-spacing: -1em;*/
@@ -226,7 +249,7 @@ ul li {list-style: circle;}
     position: relative;
     display: block;
     line-height: 1.8rem;
-    color: #f50;
+    color: white;
     padding: 0 20px;
     white-space: nowrap;
 }
@@ -235,16 +258,16 @@ ul li {list-style: circle;}
     border-radius: 2px;
 }
 
-/*Active dropdown nav item */
+/* Non-Active dropdown nav item */
 .main-nav ul li:hover > a {
-    color: #f50;
+    color: #FC671F;
     background-color: #eee;
 }
 
 /* Selected Dropdown nav item */
 .main-nav ul li.selected > a {
-    background-color: #f50;
-    color: #fff;        
+    background-color: white;
+    color: #333;        
 }
 
 /* Dropdown CSS */
@@ -301,15 +324,18 @@ th {
 td {    vertical-align: top;
 }
 
+
+
 /* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
 IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
 
 
 #breadcrumbs {
-    font-size: 0.9rem;
+    font-family: helvetica; font-size: 0.9rem;
     height: 2rem !important; 
     line-height: 2rem;
 }
+#breadcrumbs .itemprop {font-weight: bold;}
 
 @media  (max-width: 640px) {     /* SCRAP BREADCRUMBS ON MOBILE */
  #breadcrumbs {display: none;}
@@ -323,7 +349,10 @@ IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
     padding-left: 0;
 }
 #breadcrumbs i {
-    display: inline-block;
-    width: 20px;
-    text-align: center;
+    display: inline-block; font-size: 75%;
+    width: 20px; text-align: center;
 }
+#breadcrumbs i.dot:before {content: "\25a0"; color: #FC671F;
+    position: relative; bottom: .05em;}
+
+/*fa fa-angle-right*/
