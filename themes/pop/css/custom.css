@@ -122,7 +122,7 @@ section.articlecontent {
 }
 
 @media  (max-width: 640px) {     /* SMALLER MARGINS ON MOBILE */
-section.articlecontent { margin: .4em;}
+section.articlecontent { margin: 0em;}
 
 }
 .metadata-block { 
@@ -227,7 +227,7 @@ ul li {list-style: circle;}
 .wrapper { margin: 0rem 8rem; }
 
 @media  (max-width: 640px) {     /* COLLAPSE OUTER MARGINS ON MOBILE */
-  .wrapper { margin: .2rem; }
+  .wrapper { margin: .5rem; }
 }
 
 .padding {
