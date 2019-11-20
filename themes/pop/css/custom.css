@@ -16,7 +16,6 @@ html, button, input, select, textarea,
 }
 
 html, body {
-    /*font-size: 1.15rem;*/
     line-height: 1.3em;
     color: #330;
    /*color: #606d6e;*/
@@ -30,14 +29,13 @@ html, body {
 #authordate {border: 0px blue solid;}
 #maincontent {border: 0px green solid;}
 
-
 /* Content Styling */
 .padding {
     padding: 0 0;    /*                   NEED?*/
 }
 
 .header {
-    background-color: #FC671F; /*F50*/
+    background-color: #FC671F; /* was F50 */
     color: white;
     height: 143px;    /*Height of the POPorange.png*/
     padding: 0 1.2rem;
@@ -45,7 +43,6 @@ html, body {
 }
 
 .header .logo img {vertical-align: bottom;}
-
 
 
 
@@ -72,6 +69,8 @@ figcaption {
 }
 
 
+div.deck { color: #FC671F; font-size: 2rem; font-weight: normal; font-style: italic; line-height: 1.1em;
+    margin:0em;}
 
 h1.title {
     font-size: 4rem; font-weight: 400; line-height: 4.5rem; 
@@ -84,6 +83,9 @@ h1.subtitle { font-size: 2rem; font-weight: normal; font-style: italic; line-hei
         margin-bottom: .25rem; margin-top: 2.6rem;}
     h1.subtitle { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
         margin:0em;}
+    div.deck { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
+        margin:0em;}
+
 }
 
 
