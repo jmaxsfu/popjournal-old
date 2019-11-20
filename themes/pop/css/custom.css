@@ -117,7 +117,7 @@ p.pubdate span { border-bottom: 2px #FC671F solid;}
 
 
 section.articlecontent {
-    font-weight: 400; font-size: 1.2rem; line-height: 1.55em;
+    font-weight: 400; font-size: 1.2rem; line-height: 1.65rem;
     margin-right: 5rem;    /*GUTTER*/
 }
 
@@ -126,7 +126,7 @@ section.articlecontent { margin: .4em;}
 
 }
 .metadata-block { 
-    margin-top: 0rem; line-height: 1.55rem;
+    margin-top: 0rem; line-height: 1.65rem;
     font-family: motiva-sans; font-size: 85%; color: #666;
 }
 .metadata-block p {
