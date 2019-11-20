@@ -23,10 +23,13 @@ html, body {
 }
 
  /* LAYOUT */
-}
 
-.pure-u-md-3-4 {border: 0px green solid;}
-.pure-u-md-1-4 {border: 0px blue solid;}
+
+.pure-u-md-1-4 {border: 0px red solid;}
+.pure-u-md-3-4 {border: 0px purple solid;}
+#authordate {border: 0px blue solid;}
+#maincontent {border: 0px green solid;}
+
 
 /* Content Styling */
 .padding {
@@ -54,9 +57,9 @@ html, body {
 /* Pop-Specific things */
 
 figure {
-    margin-top: 2.6rem;
-    width:100%;
+    margin: 2.6rem 0; width:100%;
 }
+figure figcaption {padding: 0 2em;}
 
 img {
     max-width: 100%;
@@ -90,24 +93,41 @@ h1.subtitle { font-size: 2rem; font-weight: normal; font-style: italic; line-hei
 }
 .authorblock p {
     font-family: helvetica; 
-    font-size: 1rem; line-height: 1.3em; padding-top: .2em; 
+    font-size: 1rem; line-height: 1.5em; padding-top: .2em; 
     margin: 0em; text-indent: 0;
 }    
 
 .authorblock p.author {
    text-transform: uppercase; letter-spacing: .09em;
-   font-size: 90%; font-weight: bold;
+   font-size: 90%; line-height: 1.3em; font-weight: bold;
    border-bottom: 2px #FC671F solid;
 }
 .authorblock p.authoraffil {
    font-style: italic; 
 }
-
-.metadata-block { margin-left: 3.6rem; color: #b83d00;}
-.metadata-block p {
-    font-size: .9rem; line-height: 1.2em;
-    margin-bottom: 1rem; text-indent: 0; 
+p.pubdate {
+    margin-top: 2rem;
+    margin-left: 5rem;   /*GUTTER*/
+    font-family: Helvetica; font-size: 90%; font-weight: bold;
+    text-transform: uppercase; letter-spacing: .09em;
+    border-bottom: 2px #FC671F solid;
 }
+
+
+.metadata-block { 
+    margin-top: 0rem;
+    margin-left: 5rem;    /*GUTTER*/
+    font-family: Helvetica; font-size: 90%; line-height: 1.5em;
+}
+.metadata-block p {
+    margin-bottom: 2rem; text-indent: 0; 
+}
+.metadata-block p.metahead {
+   font-weight: bold;
+   border-bottom: 2px #FC671F solid;
+   margin-bottom: 0.5rem;
+}
+
 
 hr {color: #FC671F;}
 
@@ -194,7 +214,7 @@ ul li {list-style: circle;}
 .vpad {padding: 1.3rem 0;}
 .hpad {padding: 0 2.6rem;}
 
-.wrapper { margin: 0rem 6rem; }
+.wrapper { margin: 0rem 8rem; }
 
 @media  (max-width: 640px) {     /* COLLAPSE OUTER MARGINS ON MOBILE */
   .wrapper { margin: .2rem; }
@@ -230,7 +250,6 @@ ul li {list-style: circle;}
 
 /* Menu Settings */
 .main-nav {    
-    /*padding-top: 3.75rem;  HOW ELSE TO GET THE BOTTOM TO ALIGN? */
     position: absolute; top: 115px; right: 0;
     float: right;
     font-family: Helvetica; font-size: 1rem;
@@ -336,6 +355,8 @@ IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
     height: 2rem !important; 
     line-height: 2rem;
 }
+
+#breadcrumbs a {color: #999;}
 #breadcrumbs .itemprop {font-weight: bold;}
 
 @media  (max-width: 640px) {     /* SCRAP BREADCRUMBS ON MOBILE */
