@@ -22,7 +22,7 @@
 
      {% for au in header.author %}
          <div class="authorblock  pure-u-1 pure-u-md-7-24">
-            <p class="author">{{ au.name|e('html') }}</p>
+            <p class="author"><span>{{ au.name|e('html') }}&nbsp;</span></p>
 
             <p class="authoraffil">{% if array_key_exists('affil', au) %} {{ au.affil|e('html') }}{% endif %}</p>
 
@@ -33,7 +33,7 @@
 
     <div class="pure-u-1 pure-u-md-1-4">
 
-   <p class="pubdate">{{ header.date|date("F d, Y") }}</p>
+   <p class="pubdate"><span>{{ header.date|date("F d, Y") }}&nbsp;</span></p>
 
     </div>  
   </div> 
@@ -45,17 +45,17 @@
     {{ page.content }}
   </section>
   </div>
-  
+
   <div class="pure-u-1 pure-u-md-1-4">
     <div class="metadata-block">
 
   
-      <p class="metahead">Citation:</p>
+      <p class="metahead"><span>Citation:&nbsp;</span></p>
       <p>
       {% for au in header.author %}{{ au.name|e('html') }}, {% endfor %}{{header.date|date("Y")}}. "{{header.title}}{% if header.subtitle %}: {{header.subtitle}}{% endif %}." <i>Pop! Public. Open. Participatory.</i> no. {{page.parent.header.issuenum}} ({{page.parent.header.pubdate|date("Y-m-d")}}). {{base_url_absolute}}{{page.url}}
       </p>
  
-       {% if array_key_exists('abstract', header) %}<p class="metahead">Abstract:</p><p>{{ header.abstract|e('html') }}</p>{% endif %}
+       {% if array_key_exists('abstract', header) %}<p class="metahead"><span>Abstract:&nbsp;</span></p><p>{{ header.abstract|e('html') }}</p>{% endif %}
    </div>
   </div>
 
