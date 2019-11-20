@@ -84,8 +84,7 @@ h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height
     h1.subtitle { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
         margin:0em;}
     div.deck { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
-        margin:0em;}
-
+        margin:0em; color: #FC671F;}
 }
 
 
@@ -95,13 +94,13 @@ h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height
 }
 .authorblock p {
     font-family: motiva-sans; 
-    font-size: 1rem; line-height: 1.5em; padding-top: .2em; 
-    margin: 0em; text-indent: 0;
+    font-size: 1rem; line-height: 1.5em;  
+    margin: 0em; text-indent: 0;  /* para styling */
 }    
 
 .authorblock p.author {
-   text-transform: uppercase; letter-spacing: .09em;
-   font-size: 90%; line-height: 1.3em; font-weight: bold;
+   text-transform: lowercase; font-variant: small-caps; letter-spacing: .09em;
+   line-height: 1.3em; font-weight: 400;
 }
 .authorblock p.author span { border-bottom: 2px #FC671F solid;}
 
@@ -111,27 +110,30 @@ h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height
 p.pubdate {
     margin-top: 2rem;
     text-align: left; margin-right: 5em;
-    font-family: motiva-sans; font-size: 90%; font-weight: bold;
-    text-transform: uppercase; letter-spacing: .09em;
+    font-family: motiva-sans; line-height: 1.3em; font-weight: 400;
+    text-transform: lowercase; font-variant-caps: small-caps; font-variant-numeric: oldstyle-nums; letter-spacing: .09em;
 }
 p.pubdate span { border-bottom: 2px #FC671F solid;}
 
 
 section.articlecontent {
-    font-weight: 400; font-size: 1.2rem; line-height: 1.6em;
+    font-weight: 400; font-size: 1.2rem; line-height: 1.55em;
     margin-right: 5rem;    /*GUTTER*/
-
 }
 
+@media  (max-width: 640px) {     /* SMALLER MARGINS ON MOBILE */
+section.articlecontent { margin: .4em;}
+
+}
 .metadata-block { 
-    margin-top: 0rem;
-    font-family: motiva-sans; font-size: 85%; line-height: 1.6rem;
+    margin-top: 0rem; line-height: 1.55rem;
+    font-family: motiva-sans; font-size: 85%; color: #666;
 }
 .metadata-block p {
     margin-bottom: 2rem; text-indent: 0; 
 }
 .metadata-block p.metahead {
-   font-weight: bold;
+   font-weight: 500;
    margin-bottom: 0.5rem;
 }
 .metadata-block p.metahead span { border-bottom: 2px #FC671F solid;} 
