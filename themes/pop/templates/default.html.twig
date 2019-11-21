@@ -55,7 +55,7 @@
       {% for au in header.author %}{{ au.name|e('html') }}, {% endfor %}{{header.date|date("Y")}}. "{{header.title}}{% if header.subtitle %}: {{header.subtitle}}{% endif %}." <i>Pop! Public. Open. Participatory.</i> no. {{page.parent.header.issuenum}} ({{page.parent.header.pubdate|date("Y-m-d")}}). {{base_url_absolute}}{{page.url}}
       </p>
  
-       {% if array_key_exists('abstract', header) %}<p class="metahead"><span>Abstract:&nbsp;</span></p><p>{{ header.abstract|e('html') }}</p>{% endif %}
+       {% if array_key_exists('abstract', header) %}<p class="metahead"><span>Abstract:&nbsp;</span></p>{{ header.abstract|markdown }}{% endif %}
    </div>
   </div>
 
