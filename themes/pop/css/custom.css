@@ -37,7 +37,7 @@ html, body {
 .header {
     background-color: #FC671F; /* was F50 */
     color: white;
-    height: 143px;    /*Height of the POPorange.png*/
+    height: 145px;    /*Height of the POPorange.png*/
     padding: 0 1.2rem;
     margin-bottom: 4rem;
 }
