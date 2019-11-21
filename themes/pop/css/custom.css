@@ -260,7 +260,7 @@ ul li {list-style: circle;}
 
 /* Menu Settings */
 .main-nav {    
-    position: absolute; top: 115px; right: 0;
+    position: absolute; top: 117px; right: 0;
     float: right;
     font-family: motiva-sans; font-size: 1rem;
 }
