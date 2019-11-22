@@ -5,6 +5,8 @@ author:
 - name: 'Alessandra Bordini'
   affil: 'Simon Fraser University'
   email: 'abordini@sfu.ca'
+  orcid: '0000-0002-2790-2640'
+  bio: '**Alessandra Bordini** is a research associate with the Canadian Institute for Studies in Publishing at Simon Fraser University. Her primary research areas are the history of the book, the history of publishing, and the digital humanities. She is particularly interested in data collection and curation for digital special collections, and the history of book production, distribution, and reception in Early Modern Europe. Alessandra holds a Master of Publishing (MPub) from Simon Fraser University and a Master of Arts (MA) in Translation Studies from the University of Siena.'
 - name: 'John Maxwell'
   affil: 'Simon Fraser University'
   email: 'jmax@sfu.ca'
