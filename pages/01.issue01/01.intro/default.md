@@ -5,12 +5,15 @@ author:
 - name: 'Alyssa Arbuckle'
   affil: 'University of Victoria'
   email: 'alyssaa@uvic.ca'
+  orcid: '0000-0002-7286-3054'
 - name: 'Luis Meneses'
   affil: 'University of Victoria'
   email: 'ldmm@uvic.ca'
+  orcid: '0000-0001-8165-3545'
 - name: 'Ray Siemens'
   affil: 'University of Victoria'
   email: 'siemens@uvic.ca'
+  orcid: '0000-0002-9599-8795'
 date: 31-10-2019
 ---
 

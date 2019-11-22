@@ -8,6 +8,7 @@ author:
 - name: 'John Maxwell'
   affil: 'Simon Fraser University'
   email: 'jmax@sfu.ca'
+  orcid: '0000-0002-5987-578X'
 date: 31-10-2019
 abstract: 'Aldus@SFU is the digital home of Simon Fraser University Library’s Wosk–McDonald Aldine Collection, making widely available selected volumes from the press of Renaissance Italy’s leading publisher, Aldus Manutius (ca. 1451–1515). The project aims to connect these important materials to wider, multiple audiences in an effort to turn the collection into a truly open resource for the public good. In pursuing this goal, a number of lessons about the practice of open social scholarship have become apparent, inspired by Aldus’s work and his long-lasting contribution to humanist learning. In this article, while avoiding overly simplistic historical parallels, we identify various points of alignment between today’s digital humanities projects and Aldus’s own ambitious “knowledge project”: the production and circulation of the major works of classical antiquity.'
 ---

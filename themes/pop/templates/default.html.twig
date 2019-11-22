@@ -8,13 +8,12 @@
 
 
 
-
 {% block content %}
 
-{% if array_key_exists('deck', header) %} <div class="deck">{{ header.deck|e('html') }}</div>{% endif %}
+{% if header.deck %} <div class="deck">{{ header.deck|e('html') }}</div>{% endif %}
 
 <h1 class="title">{{ header.title|e('html') }}</h1>
-{% if array_key_exists('subtitle', header) %} <h1 class="subtitle">{{ header.subtitle|e('html') }}</h1>{% endif %}
+{% if header.subtitle %} <h1 class="subtitle">{{ header.subtitle|e('html') }}</h1>{% endif %}
 
 <div class="pure-g" id="authordate">  
 
@@ -22,11 +21,11 @@
 
      {% for au in header.author %}
          <div class="authorblock  pure-u-1 pure-u-md-7-24">
-            <p class="author"><span>{{ au.name|e('html') }}&nbsp;</span></p>
+            <p class="author"><span>{% if au.orcid %}<a href="https://orcid.org/{{au.orcid}}" target="_blank">{% endif %} {{ au.name|e('html') }}{% if au.orcid %}</a>{% endif %}&nbsp;</span></p>
 
-            <p class="authoraffil">{% if array_key_exists('affil', au) %} {{ au.affil|e('html') }}{% endif %}</p>
+            <p class="authoraffil">{% if au.affil %} {{ au.affil|e('html') }}{% endif %}</p>
 
-            <p class="authoremail">{% if array_key_exists('email', au) %} {{ au.email|e('html') }}</i>{% endif %}</p>
+            <p class="authoremail">{% if au.email %} {{ au.email|e('html') }}</i>{% endif %}</p>
          </div>
       {% endfor %}
     </div>
@@ -55,7 +54,7 @@
       {% for au in header.author %}{{ au.name|e('html') }}, {% endfor %}{{header.date|date("Y")}}. "{{header.title}}{% if header.subtitle %}: {{header.subtitle}}{% endif %}." <i>Pop! Public. Open. Participatory.</i> no. {{page.parent.header.issuenum}} ({{page.parent.header.pubdate|date("Y-m-d")}}). {{base_url_absolute}}{{page.url}}
       </p>
  
-       {% if array_key_exists('abstract', header) %}<p class="metahead"><span>Abstract:&nbsp;</span></p>{{ header.abstract|markdown }}{% endif %}
+       {% if header.abstract %}<p class="metahead"><span>Abstract:&nbsp;</span></p>{{ header.abstract|markdown }}{% endif %}
    </div>
   </div>
 
