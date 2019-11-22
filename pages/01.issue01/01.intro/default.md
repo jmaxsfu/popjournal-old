@@ -6,14 +6,17 @@ author:
   affil: 'University of Victoria'
   email: 'alyssaa@uvic.ca'
   orcid: '0000-0002-7286-3054'
+  bio: '**Alyssa Arbuckle** is the Associate Director of the Electronic Textual Cultures Lab (ETCL) at the University of Victoria. In this role, she works with the Implementing New Knowledge Environments (INKE) Partnership and assists with the coordination of the Digital Humanities Summer Institute (DHSI). She is also an interdisciplinary PhD Candidate at the University of Victoria, studying open social scholarship and its implementation, and holds a BA Honours in English from the University of British Columbia and an MA in English from the University of Victoria. Please see <alyssaarbuckle.com> for more information.'
 - name: 'Luis Meneses'
   affil: 'University of Victoria'
   email: 'ldmm@uvic.ca'
   orcid: '0000-0001-8165-3545'
+  bio: '**Luis Meneses** is a Postdoctoral Fellow at the University of Victoria. He is a Fulbright scholar, and currently serves on the Board of the Text Encoding Initiative Consortium and on the IEEE Technical Committee on Digital Libraries. His research interests include digital humanities, digital libraries, information retrieval and human-computer interaction.'
 - name: 'Ray Siemens'
   affil: 'University of Victoria'
   email: 'siemens@uvic.ca'
   orcid: '0000-0002-9599-8795'
+  bio: '**Raymond G. Siemens** is Distinguished Professor in the Faculty of Humanities at the University of Victoria, in English and Computer Science, where he previously served as Canada Research Chair in Humanities Computing. He is founding editor of the electronic scholarly journal Early Modern Literary Studies, and has edited, among others, Blackwell’s Companion to Digital Humanities (with Schreibman and Unsworth), Blackwell’s Companion to Digital Literary Studies (with Schreibman), A Social Edition of the Devonshire MS (with Armstrong, Crompton, et al.), and Literary Studies in the Digital Age (with Price). He directs the Implementing New Knowledge Environments (INKE) Partnership, the Digital Humanities Summer Institute (DHSI), and the Electronic Textual Cultures Lab (ETCL) at the University of Victoria. Siemens has served as Vice President of the Canadian Federation of the Humanities and Social Sciences for Research Dissemination, Chair of the international Alliance of Digital Humanities Organisations’ Steering Committee, and Chair of the MLA Committee on Information Technology, and currently serves as co­chair of the MLA Committee on Scholarly Editions. Please see <web.uvic.ca/~siemens> for more information.'
 date: 31-10-2019
 ---
 

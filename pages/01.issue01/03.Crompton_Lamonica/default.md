@@ -4,9 +4,11 @@ author:
 - name: 'Constance Crompton'
   affil: 'University of Ottawa'
   email: 'constance.crompton@uottawa.ca'
+  bio: '**Constance Crompton** is a Canada Research Chair in Digital Humanities and Director of the Humanities Data Lab at the University of Ottawa. An INKE researcher, she is the vice-president (English) of the Canadian Society for Digital Humanities/Société canadienne des humanités numériques and an associate director of the Digital Humanities Summer Institute (University of Victoria).'
 - name: 'Tristan Lamonica'
   affil: 'University of Ottawa'
   email: 'tlamo041@uottawa.ca'
+  bio: '**Tristan Lamonica** is a Master’s student in Communication at the University of Ottawa with a thesis focused on a peer-to-peer decentralized internet infrastructure. He has a background in data science, analytics, and content analysis through his employment at the Parliament of Canada. He has also worked as a teaching assistant, social media manager, research assistant, and served in an advisory role for blockchain enabled AI startups.'
 date: 31-10-2019
 abstract: 'Imagine yourself standing on the Trsat hill in the Croatian coastal town of Rijeka, facing the ocean. This article explores the tools and resources that make it possible to aggregate data about the entities (people, places, things, and concepts) that make up the history of the place where you imagine yourself standing. Working with the concept of deep mapping, the article outlines how the techniques are being used to enrich a digital map that captures the history of Rijeka, one of the European Union’s 2020 cultural capitals.'
 ---

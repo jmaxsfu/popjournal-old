@@ -3,6 +3,7 @@ title: 'Knowledge Organization For Open Scholarship'
 author: 
 - name: 'Julia Bullard'
   affil: 'UBC iSchool'
+  bio: '**Julia Bullard** is an Assistant Professor at the University of British Columbia iSchool, where she researches and teaches on knowledge organization, classification theory, and information systems. She holds an MA in Cultural Studies and Critical Theory (McMaster), an MLIS from UBC iSchool, and a Ph.D. from the Information School at the University of Texas at Austin. Bullard has published extensively in classification and knowledge organization systems, and the design of organizing systems such as metadata schemas and controlled vocabularies.'
 date: 31-10-2019
 abstract: 'This introductory piece explores the role that subject description—the work of determining an object’s aboutness and assigning relevant terms—has in creating infrastructures for open scholarship. Of particular concern is the potential to adopt the dominant, universalist systems common across North American libraries and databases, or to shift to situated and accountable systems that take care to describe objects consistent with the values of local communities of creators and readers.'
 ---
