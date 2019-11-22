@@ -3,14 +3,17 @@
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600&display=swap');
 @import url("https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css");
 
-/* COLOUR SCHEME 
+/* COLOUR and TYPE SCHEME 
 
     The Orange #FC671F
     The Blue links: #1F8CD6
-    The body text: #333
+    The body text: #220
     The sidebar text: #666
     The grey nav: #999
     The white bits: white
+
+    Serif: albertan-pro
+    Sans: motiva-sans
 */
 
 
@@ -31,7 +34,7 @@ html, button, input, select, textarea,
 
 html, body {
     line-height: 1.3em;
-    color: #330;
+    color: #220;
    /*color: #606d6e;*/
 }
 
@@ -50,28 +53,24 @@ html, body {
     color: white;
     height: 152px;    /*Height of the logo plus some*/
     padding: 0 2.5rem;
-    margin-bottom: 4rem;
+    margin-bottom: 5rem;
 }
 
 .header .logo img { margin-top: 4px;}
 
 
-.footer { margin: 2.6rem 0; border-top: 2px #FC671F solid; 
-          clear: both;  font-size: .9rem;
-      }
 
-
-
-
-
-div.deck { color: #FC671F; font-size: 2rem; font-weight: normal; font-style: italic; line-height: 1.1em;
-    margin:0em;}
+div.deck { color: #FC671F; 
+    font-family: motiva-sans; font-weight: 300;
+    font-size: 1.5rem; line-height: 1.3em;
+    margin: 1rem 0rem 0rem 0;
+}
 
 h1.title {
     font-size: 4rem; font-weight: 300; line-height: 4.5rem; 
-    margin-bottom: .25rem; margin-top: 1.6rem;}
+    margin-bottom: .25rem; margin-top: 1rem;}
 h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height: 1.1em;
-    margin:0em;}
+    margin: 1rem 0;}
 @media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
     h1.title {
         font-size: 2rem; font-weight: 300; line-height: 2.25rem; 
@@ -82,10 +81,14 @@ h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height
         margin:0em; color: #FC671F;}
 }
 
+#authordate {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
 
 .authorblock {
     /*border: 1px #FC671F solid ;*/
-    margin: 2rem 1rem 2rem 0;
+    margin-right: 1rem; margin-bottom: 1rem;
 }
 .authorblock p {
     font-family: motiva-sans; 
@@ -94,22 +97,21 @@ h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height
 }    
 .authorblock p.author {
    text-transform: lowercase; font-variant: small-caps; letter-spacing: .09em;
-   line-height: 1.3em; font-weight: 400;
+   line-height: 1.8em; font-weight: 400;
 }
-.authorblock p.author span { border-bottom: 2px #FC671F solid;}
-.authorblock p.author span a { color: #333;}
+.authorblock p.author span {  padding-bottom: 2px; border-bottom: 2px #FC671F solid;}
+.authorblock p.author span a { color: #220;}
 .authorblock p.author span a:hover { color: #1F8CD6;}
 
 .authorblock p.authoraffil {
    font-style: italic; 
 }
 p.pubdate {
-    margin-top: 2rem;
-    text-align: left; margin-right: 5em;
+    text-align: left; margin-right: 5em; margin-top: 0;
     font-family: motiva-sans; line-height: 1.3em; font-weight: 400;
     text-transform: lowercase; font-variant-caps: small-caps; font-variant-numeric: oldstyle-nums; letter-spacing: .09em;
 }
-p.pubdate span { border-bottom: 2px #FC671F solid;}
+p.pubdate span { padding-bottom: 2px; border-bottom: 2px #FC671F solid;}
 
 
 section.articlecontent {
@@ -132,10 +134,14 @@ section.articlecontent { margin: 0em;}
    font-weight: 500;
    margin-bottom: 0.5rem;
 }
-.metadata-block p.metahead span { border-bottom: 2px #FC671F solid;} 
+.metadata-block p.metahead span { padding-bottom: 2px; border-bottom: 2px #FC671F solid;} 
 
 
 hr {color: #FC671F;}
+
+.footer { margin: 2.6rem 0; border-top: 2px #FC671F solid; 
+          clear: both;  font-size: .9rem;
+      }
 
 
 
@@ -307,7 +313,7 @@ ul li {list-style: circle;}
 /* Selected Dropdown nav item */
 .main-nav ul li.selected > a {
     background-color: white;
-    color: #333;        
+    color: #220;        
 }
 
 /* Dropdown CSS */
