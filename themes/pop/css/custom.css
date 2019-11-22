@@ -37,7 +37,7 @@ html, body {
 .header {
     background-color: #FC671F; /* was F50 */
     color: white;
-    height: 145px;    /*Height of the POPorange.png*/
+    height: 151px;    /*Height of the logo plus some*/
     padding: 0 2.5rem;
     margin-bottom: 4rem;
 }
@@ -258,7 +258,7 @@ ul li {list-style: circle;}
 
 /* Menu Settings */
 .main-nav {    
-    position: absolute; top: 117px; right: 0;
+    position: absolute; top: 124px; right: 0;
     float: right;
     font-family: motiva-sans; font-size: 1rem;
 }
