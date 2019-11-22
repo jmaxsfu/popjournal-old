@@ -89,6 +89,7 @@ h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height
 .authorblock {
     /*border: 1px #FC671F solid ;*/
     margin-right: 1rem; margin-bottom: 1rem;
+    position: relative;
 }
 .authorblock p {
     font-family: motiva-sans; 
@@ -99,9 +100,22 @@ h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height
    text-transform: lowercase; font-variant: small-caps; letter-spacing: .09em;
    line-height: 1.8em; font-weight: 400;
 }
-.authorblock p.author span {  padding-bottom: 2px; border-bottom: 2px #FC671F solid;}
-.authorblock p.author span a { color: #220;}
-.authorblock p.author span a:hover { color: #1F8CD6;}
+.authorblock p.author span.auname {  padding-bottom: 2px; border-bottom: 2px #FC671F solid;}
+
+.authorblock p.author:hover + div.aubio p {   visibility: visible;} 
+
+.authorblock .aubio p {
+    visibility: hidden; 
+    background-color: #f8f8f0; padding: 1em;
+    border: 1px #d8d8d0 solid;
+    font-size: .8rem; width: 20rem;
+    position: absolute; top: 2em; left: 2em; z-index: 1;
+}
+
+/*MOVE THESE TO CITATION TO HIDE ORCID LINKS?
+.authorblock p.author span.auname a { color: #220;}
+.authorblock p.author span.auname a:hover { color: #1F8CD6;}
+*/
 
 .authorblock p.authoraffil {
    font-style: italic; 

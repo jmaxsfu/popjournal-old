@@ -27,7 +27,7 @@
 
      {% for au in header.author %}
          <div class="authorblock  pure-u-1 pure-u-md-7-24">
-            <p class="author"><span>{{ au.name|e('html') }}&nbsp;</span></p>
+            <p class="author"><span class="auname">{{ au.name|e('html') }}&nbsp;</span><div class="aubio">{{ au.bio|markdown }}</div></p>
 
             <p class="authoraffil">{% if au.affil %} {{ au.affil|e('html') }}{% endif %}</p>
 
@@ -55,6 +55,9 @@
     <div class="metadata-block">
 
   
+     <p class="metahead"><span>DOI:&nbsp;</span></p>
+     <p>{{ header.doi|defined('TBA') }}</p>
+
       <p class="metahead"><span>Citation:&nbsp;</span></p>
       <p>
       {% for au in header.author %}{% if au.orcid %}<a href="https://orcid.org/{{au.orcid}}" target="_blank">{% endif %}{{ au.name|e('html') }}{% if au.orcid %}</a>{% endif %}, {% endfor %}{{header.date|date("Y")}}. "{{header.title}}{% if header.subtitle %}: {{header.subtitle}}{% endif %}." <i>Pop! Public. Open. Participatory.</i> no. {{page.parent.header.issuenum}} ({{page.parent.header.pubdate|date("Y-m-d")}}). {{base_url_absolute}}{{page.url}}
