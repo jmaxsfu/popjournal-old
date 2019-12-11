@@ -56,7 +56,8 @@
 
   
      <p class="metahead"><span>DOI:&nbsp;</span></p>
-     <p>{{ header.doi|defined('TBA') }}</p>
+     <!-- <p>{{ header.doi|defined('TBA') }}</p> -->
+          <p>Pending</p>
 
       <p class="metahead"><span>Citation:&nbsp;</span></p>
       <p>
@@ -72,5 +73,7 @@
 
 
 {% block footer %}
+<!-- include 'partials/crossRefdata.html.twig'  -->
+
     {% include 'partials/footer.html.twig' %}
 {% endblock %}

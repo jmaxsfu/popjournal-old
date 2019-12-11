@@ -1,6 +1,7 @@
 ---
 title: 'MMOmuseums'
 subtitle: 'A Proposal for the Creation of Experiential Memory Archives'
+doi: '10.21810/pop.2019.004'
 author: 
 - name: 'Jon Saklofske'
   affil: 'Acadia University'

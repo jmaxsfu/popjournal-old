@@ -1,5 +1,6 @@
 ---
 title: 'Knowledge Organization For Open Scholarship'
+doi: '10.21810/pop.2019.005'
 author: 
 - name: 'Julia Bullard'
   affil: 'UBC iSchool'

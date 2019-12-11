@@ -1,6 +1,7 @@
 ---
 title: 'Introduction'
 subtitle: 'Open Scholarship in Action'
+doi: '10.21810/pop.2019.001'
 author: 
 - name: 'Alyssa Arbuckle'
   affil: 'University of Victoria'

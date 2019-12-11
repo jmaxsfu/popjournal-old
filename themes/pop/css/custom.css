@@ -152,6 +152,8 @@ section.articlecontent { margin: 0em;}
 }
 .metadata-block p.metahead span { padding-bottom: 2px; border-bottom: 2px #FC671F solid;} 
 
+/*hide crossref data when the xml-building code is in place*/
+journal_article {display: none;}
 
 hr {color: #FC671F;}
 

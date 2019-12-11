@@ -1,5 +1,6 @@
 ---
 title: 'CRKN: Enhancing and Expanding the Digital Scholarship Services of Canadiana'
+doi: '10.21810/pop.2019.010'
 author: 
 - name: 'CRKN Staff'
   affil: 'Canadian Research Knowledge Network'
