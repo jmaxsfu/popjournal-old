@@ -56,8 +56,8 @@ html, body {
     height: 152px;    /*Height of the logo plus some*/
     padding: 0 2.5rem;
     margin-bottom: 5rem;
-    border-top: 3px #220 solid;
-    margin-top: 2px;
+    border-top: 7px #454B4D solid;
+    margin-top: 0px;
 }
 
 .header .logo img { margin-top: 4px;}
