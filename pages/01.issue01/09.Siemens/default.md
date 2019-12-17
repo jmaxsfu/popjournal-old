@@ -105,25 +105,69 @@ This paper explores the humanities researchers’ view of this type of partnersh
 
 ## References
 
-<http://dx.doi.org/10.1016/j.scaman.2015.02.003>
 
-<https://doi.org/10.1016/j.respol.2010.03.006>
 
-<https://doi.org/10.1016/j.respol.2007.05.002>
 
-<https://doi.org/10.1016/j.jengtecman.2015.05.002>
 
-<http://inke.ca/projects/future-directions/>
+Ankrah, Samuel, and Omar Al-Tabbaa. 2015. "Universities–Industry Collaboration: A Systematic Review." *Scandinavian Journal of Management* 31(3):387-408. doi: doi: <http://dx.doi.org/10.1016/j.scaman.2015.02.003>
 
-<http://inke.ca/projects/whistler-gathering-2014/>
 
-<http://www.wohlin.eu/Phillips_Report.pdfAccessed>
+Barbolla, Ana M. Bernardos, and José R. Casar Corredera. 2009. "Critical Factors for Success in University–Industry Research Projects." *Technology Analysis & Strategic Management* 21(5):599-616. doi: <http://dx.doi.org/10.1080/09537320902969133>
 
-<http://researchdirect.westernsydney.edu.au/islandora/object/uws:11648Accessed>
+Bruneel, Johan, Pablo D’Este, and Ammon Salter. 2010. "Investigating the Factors That Diminish the Barriers to University–Industry Collaboration." *Research Policy* 39(7):858-868. doi: <https://doi.org/10.1016/j.respol.2010.03.006>.
 
-<http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx>
+Cassity, Elizabeth, and Ien Ang. 2006. "Humanities–Industry Partnerships and the ‘Knowledge Society’: The Australian Experience." *Minerva* 44(1):47-63. doi: <https://doi.org/10.1007/s11024-005-5412-9>
 
-Ankrah, Samuel, and Omar Al-Tabbaa. 2015. "Universities–Industry Collaboration: A Systematic Review." *Scandinavian Journal of Management* 31(3):387-408. doi: .Barbolla, Ana M. Bernardos, and José R. Casar Corredera. 2009. "Critical Factors for Success in University–Industry Research Projects." *Technology Analysis & Strategic Management* 21(5):599-616. doi: 10.1080/09537320902969133.Bruneel, Johan, Pablo D’Este, and Ammon Salter. 2010. "Investigating the Factors That Diminish the Barriers to University–Industry Collaboration." *Research Policy* 39(7):858-868. doi: .Cassity, Elizabeth, and Ien Ang. 2006. "Humanities–Industry Partnerships and the ‘Knowledge Society’: The Australian Experience." *Minerva* 44(1):47-63. doi: 10.1007/s11024-005-5412-9.Chedid, Marcello Fernandes, and Leonor Teixeira. 2018. "The University-Industry Collaboration." In *Advanced Methodologies and Technologies in Modern Education Delivery*, edited by D.B.A. M. Khosrow-Pour, 701-715. Hershey, Pennsylvia.D’Este, P., and P. Patel. 2007. "University–Industry Linkages in the Uk: What Are the Factors Underlying the Variety of Interactions with Industry?" *Research Policy* 36(9):1295-1313. doi: .de Wit-de Vries, Esther, Wilfred A. Dolfsma, Henny J. van der Windt, and M. P. Gerkema. 2018. "Knowledge Transfer in University–Industry Research Partnerships: A Review." *The Journal of Technology Transfer*. doi: 10.1007/s10961-018-9660-x.Franco, Mário, and Heiko Haase. 2015. "University–Industry Cooperation: Researchers’ Motivations and Interaction Channels." *Journal of Engineering and Technology Management* 36:41-51. doi: .Garrett-Jones, Sam, Tim Turpin, Peter Burns, and Kieren Diment. 2005. "Common Purpose and Divided Loyalties: The Risks and Rewards of Cross-Sector Collaboration for Academic and Government Researchers." *R&D Management* 35(5):535-544. doi: 10.1111/j.1467-9310.2005.00410.x.INKE. 2014a. "Future Directions." accessed November 3, 2014. .INKE. 2014b. "Whistler Gathering 2014." accessed January 9, 2015. .Kauppila, Osmo, Anu Mursula, Janne Harkonen, and Jaakko Kujala. 2015. "Evaluating University–Industry Collaboration: The European Foundation of Quality Management Excellence Model-Based Evaluation of University–Industry Collaboration." *Tertiary Education and Management* 21(3):229-244. doi: 10.1080/13583883.2015.1045550.Kaymaz, Kurtuluş, and Kadir Yasin Eryiğit. 2011. "Determining Factors Hindering University-Industry Collaboration: An Analysis from the Perspective of Academicians in the Context of Entrepreneurial Science Paradigm." *International Journal of Social Inquiry* 4(1):185-213.Marshall, Catherine, and Gretchen B. Rossman. 1999. *Designing Qualitative Research*. 3rd ed. Thousand Oaks, CA: SAGE.McCracken, Grant. 1988. *The Long Interview*. Vol. 13, *Qualitative Research Methods*. Newbury Park, California: SAGE Publications.Muscio, Alessandro, and Giovanna Vallanti. 2014. "Perceived Obstacles to University–Industry Collaboration: Results from a Qualitative Survey of Italian Academic Departments." *Industry and Innovation* 21(5):410-429. doi: 10.1080/13662716.2014.969935.Nemati-Anaraki, Leila, and Azadeh Heidari. 2016. "Knowledge Sharing for Improving Effectiveness of University-Industry Collaborations." In *Business Intelligence: Concepts, Methodologies, Tools, and Applications*, 955-972. Hershey, PA, USA: IGI Global.Nielsen, Christian, Jesper Chrautwald Sort, and Martin Juul Bentsen. 2013. "Levers of Management in University–Industry Collaborations: How Project Management Affects Value Creation at Different Life-Cycle Stages of a Collaboration Au - Nielsen, Christian." *Tertiary Education and Management* 19(3):246-266. doi: 10.1080/13583883.2013.795603.Owens, Alastair, Eleanor John, and Alison Bllunt. 2017. "At Home with Collaboration: Building and Sustaining a Successful University–Museum Partnership." In *Cultural Policy, Innovation and the Creative Economy*, edited by Morag. Shiach and Virani Tarck. London: Palgrave Macmillan.Philbin, Simon. 2008. "Process Model for University‐Industry Research Collaboration." *European Journal of Innovation Management* 11(4):488-521. doi: doi:10.1108/14601060810911138.Phillips, Laura. 2009. "Success Factors Powering University – Industry Collaboration in Australia" Retrieved from )Pitman, Tim, and Judith E. Berman. 2009. "Of What Benefit and to Whom? Linking Australian Humanities Research with Its ‘End Users’." *Journal of Higher Education Policy and Management* 31(4):315-326. doi: 10.1080/13600800903191955.Ramos-Vielba, Irene, Mabel Sánchez-Barrioluengo, and Richard Woolley. 2016. "Scientific Research Groups’ Cooperation with Firms and Government Agencies: Motivations and Barriers." *The Journal of Technology Transfer* 41(3):558-585.Roshani, Mona, Nadia Lehoux, and Jean-Marc Frayret. 2015. "University-Industry Collaborations and Open Innovations: An Integrated Methodology for Mutually Beneficial Relationships" Retrieved from Accessed)Rubin, Herbert J., and Irene S. Rubin. 1995. *Qualitative Interviewing: The Art of Hearing Data*. Thousand Oaks, CA: SAGE Publications.Siemens, Lynne, and INKE Research Group. 2019. "Joining Voices: University – Industry Partnerships in the Humanities." *KULA: knowledge creation, dissemination, and preservation studies* 3(1).Siemens, Raymond G., Claire Warwick, Richard Cunningham, Teresa Dobson, Alan Galey, Stan Ruecker, Susan Schreibman, and INKE Research Group. 2009. "Codex Ultor: Toward a Conceptual and Theoretical Foundation for New Research on Books and Knowledge Environments." *Digital Studies/Le champ numerique* 1(2).Sofoulis, A. 2011. "Cross-Connections : Linking Urban Water Managers with Humanities, Arts and Social SciencesResearchers" Retrieved from )SSHRC. 2015. "Partnership Grants: An Overview." accessed November 28, 2017. .
+Chedid, Marcello Fernandes, and Leonor Teixeira. 2018. "The University-Industry Collaboration." In *Advanced Methodologies and Technologies in Modern Education Delivery*, edited by D.B.A. M. Khosrow-Pour, 701-715. Hershey, Pennsylvia.
+
+D’Este, P., and P. Patel. 2007. "University–Industry Linkages in the Uk: What Are the Factors Underlying the Variety of Interactions with Industry?" *Research Policy* 36(9):1295-1313. doi: <https://doi.org/10.1016/j.respol.2007.05.002>
+
+de Wit-de Vries, Esther, Wilfred A. Dolfsma, Henny J. van der Windt, and M. P. Gerkema. 2018. "Knowledge Transfer in University–Industry Research Partnerships: A Review." *The Journal of Technology Transfer*. doi: <https://doi.org/10.1007/s10961-018-9660-x>
+
+Franco, Mário, and Heiko Haase. 2015. "University–Industry Cooperation: Researchers’ Motivations and Interaction Channels." *Journal of Engineering and Technology Management* 36:41-51. doi: <https://doi.org/10.1016/j.jengtecman.2015.05.002>
+
+Garrett-Jones, Sam, Tim Turpin, Peter Burns, and Kieren Diment. 2005. "Common Purpose and Divided Loyalties: The Risks and Rewards of Cross-Sector Collaboration for Academic and Government Researchers." *R&D Management* 35(5):535-544. doi: <https://doi.org/10.1111/j.1467-9310.2005.00410.x>
+
+INKE. 2014a. "Future Directions." accessed November 3, 2014. <http://inke.ca/projects/future-directions/>
+
+INKE. 2014b. "Whistler Gathering 2014." accessed January 9, 2015. <http://inke.ca/projects/whistler-gathering-2014/>
+
+Kauppila, Osmo, Anu Mursula, Janne Harkonen, and Jaakko Kujala. 2015. "Evaluating University–Industry Collaboration: The European Foundation of Quality Management Excellence Model-Based Evaluation of University–Industry Collaboration." *Tertiary Education and Management* 21(3):229-244. doi: <https://doi.org/10.1080/13583883.2015.1045550>
+
+Kaymaz, Kurtuluş, and Kadir Yasin Eryiğit. 2011. "Determining Factors Hindering University-Industry Collaboration: An Analysis from the Perspective of Academicians in the Context of Entrepreneurial Science Paradigm." *International Journal of Social Inquiry* 4(1):185-213.
+
+Marshall, Catherine, and Gretchen B. Rossman. 1999. *Designing Qualitative Research*. 3rd ed. Thousand Oaks, CA: SAGE.
+
+McCracken, Grant. 1988. *The Long Interview*. Vol. 13, *Qualitative Research Methods*. Newbury Park, California: SAGE Publications.
+
+Muscio, Alessandro, and Giovanna Vallanti. 2014. "Perceived Obstacles to University–Industry Collaboration: Results from a Qualitative Survey of Italian Academic Departments." *Industry and Innovation* 21(5):410-429. doi: <https://doi.org/10.1080/13662716.2014.969935>
+
+Nemati-Anaraki, Leila, and Azadeh Heidari. 2016. "Knowledge Sharing for Improving Effectiveness of University-Industry Collaborations." In *Business Intelligence: Concepts, Methodologies, Tools, and Applications*, 955-972. Hershey, PA, USA: IGI Global.
+
+Nielsen, Christian, Jesper Chrautwald Sort, and Martin Juul Bentsen. 2013. "Levers of Management in University–Industry Collaborations: How Project Management Affects Value Creation at Different Life-Cycle Stages of a Collaboration Au - Nielsen, Christian." *Tertiary Education and Management* 19(3):246-266. doi: <https://doi.org/10.1080/13583883.2013.795603>
+
+Owens, Alastair, Eleanor John, and Alison Bllunt. 2017. "At Home with Collaboration: Building and Sustaining a Successful University–Museum Partnership." In *Cultural Policy, Innovation and the Creative Economy*, edited by Morag. Shiach and Virani Tarck. London: Palgrave Macmillan.
+
+Philbin, Simon. 2008. "Process Model for University‐Industry Research Collaboration." *European Journal of Innovation Management* 11(4):488-521. doi: <https://doi.org/10.1108/14601060810911138>
+
+Phillips, Laura. 2009. "Success Factors Powering University – Industry Collaboration in Australia" Retrieved from <http://www.wohlin.eu/Phillips_Report.pdf>
+
+Pitman, Tim, and Judith E. Berman. 2009. "Of What Benefit and to Whom? Linking Australian Humanities Research with Its ‘End Users’." *Journal of Higher Education Policy and Management* 31(4):315-326. doi: 10.1080/13600800903191955.
+
+Ramos-Vielba, Irene, Mabel Sánchez-Barrioluengo, and Richard Woolley. 2016. "Scientific Research Groups’ Cooperation with Firms and Government Agencies: Motivations and Barriers." *The Journal of Technology Transfer* 41(3):558-585.
+
+Roshani, Mona, Nadia Lehoux, and Jean-Marc Frayret. 2015. "University-Industry Collaborations and Open Innovations: An Integrated Methodology for Mutually Beneficial Relationships" Retrieved from <https://www.cirrelt.ca/DocumentsTravail/CIRRELT-2015-22.pdf>)
+
+Rubin, Herbert J., and Irene S. Rubin. 1995. *Qualitative Interviewing: The Art of Hearing Data*. Thousand Oaks, CA: SAGE Publications.
+
+Siemens, Lynne, and INKE Research Group. 2019. "Joining Voices: University – Industry Partnerships in the Humanities." *KULA: knowledge creation, dissemination, and preservation studies* 3(1).
+
+Siemens, Raymond G., Claire Warwick, Richard Cunningham, Teresa Dobson, Alan Galey, Stan Ruecker, Susan Schreibman, and INKE Research Group. 2009. "Codex Ultor: Toward a Conceptual and Theoretical Foundation for New Research on Books and Knowledge Environments." *Digital Studies/Le champ numerique* 1(2).
+
+Sofoulis, A. 2011. "Cross-Connections : Linking Urban Water Managers with Humanities, Arts and Social SciencesResearchers" Retrieved from Researchers" Retrieved from <http://researchdirect.westernsydney.edu.au/islandora/object/uws:11648>
+
+SSHRC. 2015. "Partnership Grants: An Overview." accessed November 28, 2017. <http://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx>
+.
 
 [^1]: While the term university is used interchangeably with researcher/academic, it is important to note that industry partners with specific researchers, not the university. The term industry and business/company are also used interchangeably whereas academics tend to work with a specific company within science-based collaborations.
 

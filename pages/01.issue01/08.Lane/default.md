@@ -67,7 +67,7 @@ Blei, David M. 2012. “Probabilistic communication models.” *Communications o
 
 Blei, David M., Andrew Y. NG, & Michael I. Jordan. 2003. “Latent dirichlet allocation.” *Journal of Machine Learning Research, 3*, 993-1022.
 
-**Chen, Shu-heng & Ragupathy Venkatachalam. 2017. “Agent-based modelling as a foundation for big** **data.” *Journal of Economic Methodology*, 24 (4): 1-22. [doi.org/10.1080/1350178X.2017.1388964](http://doi.org/10.1080/1350178X.2017.1388964)**
+Chen, Shu-heng & Ragupathy Venkatachalam. 2017. “Agent-based modelling as a foundation for big data.” *Journal of Economic Methodology*, 24 (4): 1-22. [doi.org/10.1080/1350178X.2017.1388964](http://doi.org/10.1080/1350178X.2017.1388964)
 
 Dhillon, Inderjit & Suvrit S. Sra. 2005. “Generalized nonnegative matrix approximations with Bregman Divergences.” *Proceedings of the 18th International Conference on* *Neural Information Proc. Systems*, Vancouver, BC, Canada.
 
