@@ -126,7 +126,7 @@ h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height
 }
 p.pubdate {
     text-align: left; margin-right: 5em; margin-top: 0;
-    font-family: motiva-sans; line-height: 1.3em; font-weight: 400;
+    font-family: motiva-sans; line-height: 1.8em; font-weight: 400;
     text-transform: lowercase; font-variant-caps: small-caps; font-variant-numeric: oldstyle-nums; letter-spacing: .09em;
 }
 p.pubdate span { padding-bottom: 2px; border-bottom: 2px #FC671F solid;}
