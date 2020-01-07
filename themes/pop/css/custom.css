@@ -53,10 +53,10 @@ html, body {
 .header {
     background-color: #FC671F; 
     color: white;
-    height: 152px;    /*Height of the logo plus some*/
+    height: 155px;    /*Height of the logo plus some*/
     padding: 0 2.5rem;
     margin-bottom: 5rem;
-    border-top: 7px #454B4D solid;
+    border-top: 7px #333 solid;
     margin-top: 0px;
 }
 
