@@ -53,14 +53,14 @@ html, body {
 .header {
     background-color: #FC671F; 
     color: white;
-    height: 152px;    /*Height of the logo plus some*/
+    height: 156px;    /*Height of the logo plus some*/
     padding: 0 2.5rem;
     margin-bottom: 5rem;
-    border-top: 7px #454B4D solid;
+    border-top: 7px #333 solid;
     margin-top: 0px;
 }
 
-.header .logo img { margin-top: 4px;}
+.header .logo img { margin-top: 3px;}
 
 
 
@@ -297,7 +297,7 @@ ul li {list-style: circle;}
 
 /* Menu Settings */
 .main-nav {    
-    position: absolute; right: 0; top: 126px; /* pin to bottom of orange */
+    position: absolute; right: 0; top: 130px; /* pin to bottom of orange */
     font-family: motiva-sans; font-size: 1rem;
 }
 .main-nav ul {
