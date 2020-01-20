@@ -1,5 +1,5 @@
 ---
-title: 'about'
+title: 'About'
 author: 
 - name: 'John Maxwell'
 date: 31-10-2019
