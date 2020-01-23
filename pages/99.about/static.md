@@ -1,5 +1,5 @@
 ---
-title: 'about'
+title: 'About'
 author: 
 - name: 'John Maxwell'
 date: 31-10-2019
@@ -37,20 +37,22 @@ Write us at <info@popjournal.ca>!
 
 See also our more complete [colophon and list of credits](colophon).
 
-## A Pop! Manifesto
+## The Pop! Manifesto
 
-The scholarly journal has, in the twenty-first century, effectively been scaled-up to inhuman levels. The corporate machinery of the Elseviers and Springers of the world—not to mention the global ambitions of the Open Access movement—have served to transform the journal, and the article, from the mechanism of scholarly communication—how actual scholars communicate with their peers—into a massive planet-wide engine—with huge economies of scale and increasingly run by algorithms and AI—that no longer operates at human scale. When we write journal articles, we are literally writing for machines.
+In the twenty-first century, the scholarly journal ecosystem has been scaled up to *inhuman* levels. The corporate machinery of the Elseviers and Springers of the world, not to mention the global ambitions of the Open Access (OA) movement, have served to transform the journal from the quotidian mechanism of scholarly communication -- that is, *how scholars communicate with their peers* -- into a massive, planet-wide engine with huge economies of scale, increasingly run by and for algorithms. When we write journal articles in 2020, we are literally writing for machines. 
 
-Perhaps, in the sciences, this is reasonable, and appropriate. The global scientific project is based on a rapid cumulative tradition based on the circulation of *results*, and as such a colossal automated engine perhaps serves humanity well enough—or at least could, in a fairer open-access version of itself. But this scale cannot be right for the humanities. What can it mean for the humanities if we are indeed writing for machines instead of each other?
+Arguably, in the sciences, this is reasonable and appropriate; the global scientific project is a rapid, cumulative tradition based on the circulation of *research results*, and as such a colossal automated engine perhaps serves science well enough -- or at least it might, in a fairer and more open version of itself. But this drive to scale is a poor fit for humanities scholarship. What does it say about the humanities if we are indeed writing for machines instead of for each other?
 
-We thought about what is good about the idea of a *journal*: that it can be the embodiment of a community of interest, that it serves as a preservation medium for its content, and that it has various affordances for the circulation of ideas through its immediate community and hopefully beyond. These qualities were served for hundreds of years by the technology of print.
+The pursuit of scale does not -- indeed can not -- prioritize *care* or attention to the details of human experience. And in the absence of these human values, scholarly communication becomes no different from any other robot commodity traded in 21st-century late capitalism.
 
-But print has largely been supplanted in scholarly communications over the past generation, in favour of the relatively costless, frictionless, borderless exchange of ideas over the Internet. And indeed, the Internet has been hugely successful in making it possible for articles and journals to find global audiences, and in some cases to speed up the circulation of ideas. But it has also led to the pursuit of inhuman scale, to a fetishizing of metrics, and, frankly, to a crisis of economics in which, shorn of subscription fees, no one—other than the large entrenched corporate interests—has been able to figure out how to elegants fund OA publications.
+We would rather reach a community of people who *care* about both their scholarship and their community. Such a framing may be increasingly rare today, but we think it is not just worthwhile but of critical importance in a world-system facing the high costs of centuries of growth for growth's sake. We believe that a journal can still be the place where scholarship actually matters -- where a human being takes the time to care about what's been written and whether it makes a difference. All the "enterprised-up" infrastructure in the world does not equal this. 
 
-Perhaps, in some cases, print was still a good idea. Perhaps in the humanities, where we might make a virtue of smaller, more human scale, and where we might hope that virtues other than impact factors, atmetric scores, and h-indexes are the name of the game; virtues like interest, engagement, durability, and even beauty.
+A journal ideally is the embodiment of a discourse community and the *trace* of that community over time. In a world of ubiquitous and instantaneous network communication, the point of *publishing* is the establishment of a trusted, durable, and cite-able record of what has been thought and said and debated. These core definitions have served us well for many centuries, and yet they seem almost beside the point in a massive system trading in algorithms and metrics. What if we went back to first principles?
 
-Hence the current idea: the "keepsake journal," insprired by modern lifestyle magazines. The journal is published twice a year, in small quanities that are sold (via patreon, kickstarter, etc) to a loyal audience which meshes well with our scholarly community. It features peer-reviewed articles from our scholarly communities, as well as departments and smaller pieces  that explore and document ideas in public scholarship.
+We thus offer *Pop! Public. Open. Participatory* -- a craft-scale post-digital journal of the public humanities. 
 
-In print, the circulation of the magazine is exceeded by its readership, because, as all magazine publishers know, print magazines get passed around and shared. They are left behind and showcased in unusual locations. All of this is unpredictable, and all of this is deliciously hard to measure. But it is charming, and interesting, and appropriate to a truly human mode of inquiry.
+*Pop!*  is thus an intervention on behalf of care-based scholarship in an era of massive scale. *Pop!* aspires to be a practical demonstration the virtues of small-scale operation and of a lightweight and convivial publishing model. *Pop!* asks the question: *How can we create a scholarly publication that people really care about?* Not just a venue for a coterie of insiders, but rather a working prototype for open social scholarship that can find its way to broader and more diverse audiences? 
 
-And of course the journal exists online, and with its content freely accessible, linkable, and shareable. That part is easy. The magic is in the combination of the two, and how they act, in concert, as vehicles for the circulation of ideas among scholars, and in wider and less predictable circles.
+If a journal is the lasting embodiment of a community, *Pop!* aims to put its community first. It wants to be *read* more than it wants to be indexed -- so it makes reading and readership a top priority, through care for its content, care for its audience, and care for the kind of world it wants to serve.
+
+*– Jan 2020*
