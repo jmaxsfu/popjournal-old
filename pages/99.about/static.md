@@ -13,6 +13,8 @@ date: 31-10-2019
 
 *Pop!* is blind peer-reviewed by members of our scholarly community, who evaluate each article for its originality, coherence, scholarship, and for its readability, not just for specialist audiences within the university, but for broader interested audiences.
 
+Write us at <info@popjournal.ca>!
+
 ## Editorial Board (as of summer 2019)
 
 - Alyssa Arbuckle, University of Victoria
