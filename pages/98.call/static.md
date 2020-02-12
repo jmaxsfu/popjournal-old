@@ -20,7 +20,6 @@ Topics might include:
 
 
 *   Thinking beyond the traditional academic publishing system, journals, and books;
-*   Decolonizing and/or indigenizing infrastructures;
 *   Who and what is excluded in the rhetoric of openness?
 *   Decolonizing and/or Indigenizing infrastructures (e.g. [Indigitization](https://www.indigitization.ca), [Traditional Knowledge Labels and Licenses](https://localcontexts.org/tk-labels/))
 *   [Open Knowledge Institutions](https://wip.mitpress.mit.edu/oki); 
