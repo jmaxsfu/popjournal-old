@@ -20,8 +20,9 @@
 
     {% if array_key_exists('deck', header) %} <div class="deck">{{ header.deck|e('html') }}</div>{% endif %}
 
+    <div class="static">
     {{ page.content }}
-
+    </div>
   </div>  
     
 
