@@ -1,6 +1,7 @@
 ---
 title: 'Who’s There? Developing a Toolkit to Model People, Places, and Concepts in the Rijeka in Flux Map'
 doi: '10.21810/pop.2019.003'
+license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Constance Crompton'
   affil: 'University of Ottawa'

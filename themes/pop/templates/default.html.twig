@@ -64,6 +64,10 @@
       </p>
  
        {% if header.abstract %}<p class="metahead"><span>Abstract:&nbsp;</span></p>{{ header.abstract|markdown }}{% endif %}
+
+      <p class="metahead"><span>License:&nbsp;</span></p>
+      <p>{{ header.license|defined() }}</p>
+
    </div>
   </div>
 

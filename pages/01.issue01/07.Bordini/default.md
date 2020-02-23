@@ -2,6 +2,7 @@
 title: 'Breaking SFU Aldines Out of the Vaults'
 subtitle: 'Aldus Manutius and Open Social Scholarship in the Sixteenth Century'
 doi: '10.21810/pop.2019.007'
+license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Alessandra Bordini'
   affil: 'Simon Fraser University'

@@ -1,6 +1,7 @@
 ---
 title: 'Knowledge Organization For Open Scholarship'
 doi: '10.21810/pop.2019.005'
+license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Julia Bullard'
   affil: 'UBC iSchool'

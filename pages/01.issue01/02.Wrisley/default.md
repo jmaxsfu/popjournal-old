@@ -1,6 +1,7 @@
 ---
 title: 'Enacting Open Scholarship in Transnational Contexts'
 doi: '10.21810/pop.2019.002'
+license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'David Joseph Wrisley'
   affil: 'NYU Abu Dhabi'

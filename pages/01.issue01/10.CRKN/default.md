@@ -1,6 +1,7 @@
 ---
 title: 'CRKN: Enhancing and Expanding the Digital Scholarship Services of Canadiana'
 doi: '10.21810/pop.2019.010'
+license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'CRKN Staff'
   affil: 'Canadian Research Knowledge Network'

@@ -2,6 +2,7 @@
 title: 'Building and Supporting Humanities-Based University–industry Partnerships'
 subtitle: 'View from the Academics'
 doi: '10.21810/pop.2019.009'
+license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Lynne Siemens'
   affil: 'University of Victoria'

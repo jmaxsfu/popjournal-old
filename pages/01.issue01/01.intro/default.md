@@ -2,6 +2,7 @@
 title: 'Introduction'
 subtitle: 'Open Scholarship in Action'
 doi: '10.21810/pop.2019.001'
+license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Alyssa Arbuckle'
   affil: 'University of Victoria'
