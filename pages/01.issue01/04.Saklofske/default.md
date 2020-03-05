@@ -312,6 +312,3 @@ Stojadinovic, Rajko. *MXOemu*. <http://mxoemu.info/>. Accessed 12 May 2019.
 
     <https://www.androidcentral.com/googles-project-stream-so-good-its-scary>
 
-## Author Bio:
-
-Jon Saklofske is a Professor of English at Acadia University. His interest in the ways that William Blake’s composite art illuminates the relationship between words and images has inspired current work involving alternative platforms for open scholarship, innovative research creation methods, and larger correlations between media forms and cultural perceptions. In addition to exploring the critical potential of feminist war games, he is interested in games as tools for academic research, communication and pedagogy.
