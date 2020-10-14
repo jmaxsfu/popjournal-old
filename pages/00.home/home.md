@@ -1,5 +1,5 @@
 ---
-title: 'Pop!'
+title: 'Public. Open. Participatory.'
 content:
     items:
       '@page': '/issue01'
