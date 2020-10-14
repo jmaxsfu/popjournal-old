@@ -4,7 +4,7 @@ subtitle: 'How Pop! is Made'
 date: 31-10-2019
 ---
 
-*Pop!* is ultimately intended to be a printed journal -- but we have an entirely digital-first workflow. Here's how the Pop! web version is made.
+*Pop!* is ultimately intended to be a printed journal – but we have an entirely digital-first workflow. Here's how the Pop! web version is made.
 
 Content comes to *Pop!* typically as Word files. Once peer review and copyediting are complete, we convert all content to [markdown](https://en.wikipedia.org/wiki/Markdown), using the excellent [Pandoc](https://pandoc.org) conversion tool.
 
