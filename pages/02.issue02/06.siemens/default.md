@@ -1,22 +1,20 @@
 ---
-title: '“A hole in the wall”'
-subtitle: 'The potential of persistent video-enabled communication channels to facilitate collaboration in dispersed teams'
+title: 'A Hole in the Wall'
+subtitle: 'The Potential of Persistent Video-enabled Communication Channels to Facilitate Collaboration in Dispersed Teams'
+license: 'CC BY-SA 2.5 CA'
+author: 
+- name: 'Lynne Siemens'
+  affil: 'University of Victoria'
+  email: 'siemensl@uvic.ca'
+  orcid: '0000-0002-5799-534X'
+  bio: '**Dr Siemens** is an Associate Professor in the School of Public Administration at the University of Victoria.  Her research interests include academic entrepreneurship and collaboration.'
+date: 31-10-2020
+deck: ''
+keywords: 'collaboration, distributed teams, media space, persistent communication channel, teamwork'
+abstract: 'With advances in telecommunications and information technology, collaborations and teamwork are no longer bound by geography. However, challenges stemming from distance must be managed to ensure that teams work together successfully. One of the primary challenges is finding ways to facilitate communication and coordination across distance and time. Skype, Zoom, and other internet-enabled tools provide some potential to accomplish this; however, relatively few studies have been completed on the best ways to use a continuously open communication channel to facilitate teamwork within a geographically dispersed collaboration. This study contributes to this discussion by examining the use of such a channel by a dispersed lab. While this paper suggests the potential for similar collaborations, open audio and video communication channels can create the sense of social presence by reminding members that they are part of larger efforts, even when working at a distance. It managed to do so while addressing concerns of privacy and a potential for surveillance culture. These tools also complement the other well-established online ones as well as face-to-face meetings for project coordination and decision-making.'
 ---
 
-Dr. Lynne Siemens  
-University of Victoria  
-School of Public Administration  
-Victoria, BC V8P 5C2  
-Telephone: (250) 721-8069  
-Fax: (250) 721-8849  
-<siemensl@uvic.ca>  
-ORCID: https://orcid.org/0000-0002-5799-534X
 
-Dr. Siemens is an Associate Professor in the School of Public Administration at the University of Victoria. Her research interests include academic entrepreneurship and collaboration.
-
-**Abstract:** With advances in telecommunications and information technology, collaborations and teamwork are no longer bound by geography. However, challenges stemming from distance must be managed to ensure that teams work together successfully. One of the primary challenges is finding ways to facilitate communication and coordination across distance and time. Skype, Zoom, and other internet-enabled tools provide some potential to accomplish this; however, relatively few studies have been completed on the best ways to use a continuously open communication channel to facilitate teamwork within a geographically dispersed collaboration. This study contributes to this discussion by examining the use of such a channel by a dispersed lab. While this paper suggests the potential for similar collaborations, open audio and video communication channels can create the sense of social presence by reminding members that they are part of larger efforts, even when working at a distance. It managed to do so while addressing concerns of privacy and a potential for surveillance culture. These tools also complement the other well-established online ones as well as face-to-face meetings for project coordination and decision-making.
-
-Key words: collaboration, distributed teams, media space, persistent communication channel, teamwork
 
 ## Introduction
 

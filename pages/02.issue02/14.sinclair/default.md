@@ -1,5 +1,7 @@
 ---
 title: 'Stéfan Sinclair, In Memoriam'
+author:
+- name: 'CSDH/SCHN'
 ---
 
 > *Reprinted with permission from the Canadian Society of Digital Humanities / Société canadienne des humanités numériques; [csdh-schn.org/stefan-sinclair-in-memoriam/](https://csdh-schn.org/stefan-sinclair-in-memoriam/)*

@@ -1,5 +1,15 @@
 ---
 title: 'A Discussion on Integrating the Social Media Engine with Large-scale Open Access Repositories'
+license: 'CC BY-SA 2.5 CA'
+author: 
+- name: 'Luis Meneses'
+  affil: 'Electronic Textual Cultures Lab, University of Victoria'
+  email: 'ldmm@uvic.ca'
+  orcid: '0000-0001-8165-3545'
+  bio: '**Luis Meneses** is a Postdoctoral Fellow at the University of Victoria and Assistant Director (Technical Development) of the Electronic Textual Cultures Lab. He is a Fulbright scholar, and a Mitacs Accelerate Fellow. He has served on the Board of the IEEE Technical Committee on Digital Libraries, and currently serves on the Board of the TEI Consortium. His research interests include digital humanities, digital libraries, information retrieval and human-computer interaction. His research focusses on the development of tools that facilitate open social scholarship.'
+date: 31-10-2020
+deck: ''
+abstract: 'The Social Media Engine relies on interactive computer-mediated technologies and the increased impact, readership, and alt-metrics present in open access repositories—while fostering public engagement, open social scholarship, and social knowledge creation by matching readers with publications. In this paper I focus on a discussion that explores the possibilities of integrating a search engine that ranks its results according to trends in social media with large-scale open access repositories. Ultimately, this discussion aims to explore the implications of creating tools to emphasize the connections between documents that can be treated as objects of study as well.'
 ---
 
 ## Introduction

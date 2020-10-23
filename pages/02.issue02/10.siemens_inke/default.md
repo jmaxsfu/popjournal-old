@@ -1,24 +1,23 @@
 ---
-title: 'Where lie the similarities and differences?' 
-subtitle: 'A comparison of university and industry partners in collaboration'
+title: 'Where Lie the Similarities and Differences?'
+subtitle: 'A Comparison of University and Industry Partners in Collaboration'
+doi: ''
+license: 'CC BY-SA 2.5 CA'
+author: 
+- name: 'Lynne Siemens and the INKE Research Group'
+  affil: 'University of Victoria'
+  email: 'siemensl@uvic.ca'
+  orcid: '0000-0002-5799-534X'
+  bio: '**Dr Siemens** is an Associate Professor in the School of Public Administration at the University of Victoria.  Her research interests include academic entrepreneurship and collaboration.  She served as management advisor to the Implementing New Knowledge Environments (INKE) project.  In addition, she is studying INKE to trace the development of a collaboration as it is underway, rather than as reflection at a project’s end.'
+date: 31-10-2020
+deck: ''
+keywords: 'collaboration, university-industry partnership, INKE'
+abstract: 'University–industry partnerships are common on the science side of campus where ways to work together are well.  This is less so in the humanities even as these types of collaborations are being funded by granting agencies and governments. For these partnerships to build a foundation for success, common understandings around issues of the nature of collaboration, benefits, challenges, measures of success and outcomes need to exist. Using Implementing New Knowledge Environments (INKE) as a study case, this research examines a humanities-based partnership to understand similarities and differences in partners’ perspectives around these factors. Overall, the university and industry partners have common understandings of the nature of collaboration, the potential challenges facing the collaboration, and desired outcomes and success factors. However, there are some differences that must be navigated to ensure collaboration success. These focus on the benefits, the role of industry partners, need for tenure and promotion for researchers, and the type of resources that each can provide. While the partnership is in early stages of research, it has had the opportunity to learn about each other and differing perspectives by working and meeting together for over five years. This is the first step to creating a foundation of trust upon which a successful collaboration can be built.'
 ---
 
-Lynne Siemens and INKE Research Group  
-University of Victoria  
-School of Public Administration  
-Victoria, BC V8P 5C2  
-Telephone: (250) 721-8069  
-Fax: (250) 721-8849  
-<siemensl@uvic.ca>  
-ORCID: https://orcid.org/0000-0002-5799-534X
 
-Dr. Siemens is an Associate Professor in the School of Public Administration at the University of Victoria. Her research interests include academic entrepreneurship and collaboration. She served as management advisor to the Implementing New Knowledge Environments (INKE) project. In addition, she is studying INKE to trace the development of a collaboration as it is underway, rather than as reflection at a project’s end.
 
-**Abstract**
 
-University–industry partnerships are common on the science side of campus where ways to work together are well. This is less so in the humanities even as these types of collaborations are being funded by granting agencies and governments. For these partnerships to build a foundation for success, common understandings around issues of the nature of collaboration, benefits, challenges, measures of success and outcomes need to exist. Using Implementing New Knowledge Environments (INKE) as a study case, this research examines a humanities-based partnership to understand similarities and differences in partners’ perspectives around these factors. Overall, the university and industry partners have common understandings of the nature of collaboration, the potential challenges facing the collaboration, and desired outcomes and success factors. However, there are some differences that must be navigated to ensure collaboration success. These focus on the benefits, the role of industry partners, need for tenure and promotion for researchers, and the type of resources that each can provide. While the partnership is in early stages of research, it has had the opportunity to learn about each other and differing perspectives by working and meeting together for over five years. This is the first step to creating a foundation of trust upon which a successful collaboration can be built.
-
-Keywords: collaboration, university-industry partnership, INKE
 
 ## Introduction
 

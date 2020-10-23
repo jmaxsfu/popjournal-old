@@ -1,22 +1,35 @@
 ---
 title: 'Digitizing Humanities in South Africa'
 subtitle: 'Computational linguistic resources, training, and community building'
+license: 'CC BY-SA 2.5 CA'
+author: 
+- name: 'Rooweither Mabuya'
+  affil: 'South African Centre for Digital Language Resources (SADiLaR), Potchefstroom, South Africa'
+  email: 'Roo.Mabuya@nwu.ac.za'
+  orcid: '0000-0001-6658-975X'
+  bio: '**Rooweither Mabuya** is a language researcher at the South African Centre for Digital Resources (SADiLaR). Her research interests lie in the systematic creation of relevant digital text, speech and multi-modal resources related to the development of isiZulu and to promote the use of digital humanities related methods and tools within the isiZulu research community. She wants to play a part in the development of isiZulu to be a language of administration, teaching and learning, research and innovation.'
+- name: 'Dimakatso S. Mathe'
+  affil: 'South African Centre for Digital Language Resources (SADiLaR), Potchefstroom, South Africa'
+  email: 'Dimakatso.Mathe@nwu.ac.za'
+  orcid: '0000-0001-9369-2672'
+  bio: '**Dimakatso S. Mathe** is a researcher in Sesotho sa Leboa language at the South African Centre for Digital Language Resources. He holds an MA degree in African Languages, obtained at the University of Johannesburg. His research interests are in Sesotho sa Leboa morphology, syntax, language discription, and human language technologies, such as part of speech taggers and morphological parsers. '
+- name: 'Mmasibidi Setaka'
+  affil: 'South African Centre for Digital Language Resources (SADiLaR), Potchefstroom, South Africa'
+  email: 'Mmasibidi.Setaka@nwu.ac.za'
+  orcid: '0000-0002-2790-3344'
+  bio: '**Mmasibidi Setaka** is a language researcher working on the Sesotho language at the South African Centre for Digital Language Resources (SADiLaR). Her interest lie in lexicography with the aim of promoting and helping preserve the language. Her responsibilities include but are not limited to conducting research for Sesotho and facilitating and providing training in digital humanities related trainings and workshops to the broader research community.'
+- name: 'Menno van Zaanen'
+  affil: 'South African Centre for Digital Language Resources (SADiLaR), Potchefstroom, South Africa'
+  email: 'Menno.VanZaanen@nwu.ac.za'
+  orcid: '0000-0003-1841-2444'
+  bio: '**Menno van Zaanen** is a professor in digital humanities. He works at the South African Centre for Digital Language Resources (SADiLaR), where he is responsible for the digital humanities programme. Menno is particularly interested in incorporating the use of computational techniques in the field of humanities.'
+date: 31-10-2020
+deck: ''
+abstract: 'South Africa has eleven official languages. However, not all have received similar amounts of attention. In particular, for many of the languages, only a limited number of digital language resources (data sets and computational tools) exist. This scarcity hinders (computational) research in the fields of humanities and social sciences for these languages. Additionally, using existing computational linguistics tools in a practical setting requires expert knowledge on the usage of these tools. In South Africa, only a small number of people currently have this expertise, further limiting the type of research that relies on computational linguistic tools.
+The South African Centre for Digital Language Resources (SADiLaR) aims to enable and enhance research in the area of language technology by focusing on the development, management, and distribution of digital language resources for all South African languages. Additionally, it aims to build research capacity, specifically in the field of digital humanities. This requires several challenges to be resolved that we cluster under resources, training, and community building.
+SADiLaR hosts a repository of existing digital language resources and supports the development of new resources. Additionally, it provides training on the use of these resources, specifically for (but not limited to) researchers in the fields of humanities and social sciences. Through this training, SADiLaR tries to build a community of practice to boost information sharing in the area of digital humanities.'
 ---
 
-
-Rooweither Mabuya, Dimakatso Mathe, Mmasibidi Setaka, and Menno van Zaanen
-
-South African Centre for Digital Language Resources
-
-Potchefstroom, South Africa
-
-**Abstract**
-
-South Africa has eleven official languages. However, not all have received similar amounts of attention. In particular, for many of the languages, only a limited number of digital language resources (data sets and computational tools) exist. This scarcity hinders (computational) research in the fields of humanities and social sciences for these languages. Additionally, using existing computational linguistics tools in a practical setting requires expert knowledge on the usage of these tools. In South Africa, only a small number of people currently have this expertise, further limiting the type of research that relies on computational linguistic tools.
-
-The South African Centre for Digital Language Resources (SADiLaR) aims to enable and enhance research in the area of language technology by focusing on the development, management, and distribution of digital language resources for all South African languages. Additionally, it aims to build research capacity, specifically in the field of digital humanities. This requires several challenges to be resolved that we cluster under resources, training, and community building.
-
-SADiLaR hosts a repository of existing digital language resources and supports the development of new resources. Additionally, it provides training on the use of these resources, specifically for (but not limited to) researchers in the fields of humanities and social sciences. Through this training, SADiLaR tries to build a community of practice to boost information sharing in the area of digital humanities.
 
 ## Introduction
 

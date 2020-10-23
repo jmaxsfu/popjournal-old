@@ -1,7 +1,18 @@
 ---
 title: 'Gaming the Publishing Industry'
-subtitle: 'Exploring Diverse Open Scholarship Models in Digital Game Studies'
+subtitle: 'Exploring Diverse Open Scholarship Models in Digital Games Studies'
+license: 'CC BY-SA 2.5 CA'
+author: 
+- name: 'Jon Saklofske'
+  affil: 'Department of English and Theatre, Acadia University'
+  email: 'jon.saklofske@acadiau.ca'
+  orcid: '0000-0002-8361-7756'
+  bio: '**Jon Saklofske** is a Literature Professor at Acadia University in Nova Scotia, Canada, and is a co-lead for the Community cluster of the INKE “Implementing Open Scholarship” Research Partnership. His interest in the ways that William Blake’s composite art illuminates the relationship between words and images on the printed page has inspired current research into alternative platforms for open social scholarship as well as larger correlations between media forms and cultural perceptions. In addition to experimenting with virtual environments and games as tools for academic research, communication and pedagogy, Jon’s other research interests include virtuality and environmental storytelling in Disney theme parks, research creation experiments, feminist war games, and the relationship between networks and narratives in video games.'
+date: 31-10-2020
+deck: ''
+abstract: 'The emergent field of digital game scholarship has developed along unique communicative lines, illuminating alternative models and diversified potentials for scholarly communication.  Following the decline of print-based magazine journalism, the rise of moderated aggregator sites, such as Kotaku, Polygon, and Rock Paper Shotgun has exposed many independent voices to larger audiences.  Much of the scholarship cited in current academic work can be found online at sites like Critical Distance (which uses “roundups, roundtables, podcasts, and critical compilations” to encourage dialogue between “developers, critics, educators and enthusiasts”), First Person Scholar, a middle-state publication that combines “the timeliness and succinctness of a blog, while retaining the rigor and context of a conventional journal article” (Hawreliak), highly polished and curated online zines such as Heterotopias, and from quality video bloggers such as Noah Caldwell Gervais and short-form documentary creators such as Gvmers.  These heterogeneous alternatives collectively model a publishing plasticity and adaptiveness, establishing a culture of open scholarship practices, inclusive and diverse voices, and a rapid deployment of ideas and perspectives.  This paper argues that emergent models of scholarly communication explored by the game studies community include but also moderate the reactive energies of social media and the toxicity of “gamer” culture.'
 ---
+
 
 ## Introduction
 
