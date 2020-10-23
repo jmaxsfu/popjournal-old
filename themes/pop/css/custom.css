@@ -1,9 +1,10 @@
 /* Core Stuff */
 
-@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600&display=swap');
+/*@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600&display=swap');*/
+ /*@import url('https://fonts.googleapis.com/css?family=Spectral:300,400,400i&display=swap');*/
+
 @import url("https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css");
 
- @import url('https://fonts.googleapis.com/css?family=Spectral:300,400,400i&display=swap');
 
 /* COLOUR and TYPE SCHEME 
 
@@ -213,6 +214,13 @@ p { margin-top: 1rem; text-indent: 0; }
 p+p { margin-top: 0rem; text-indent: 1.3rem; }
 
 .static p+p { margin-top: 1rem; text-indent: 0; }
+div.refs p+p { margin-top: 1.4rem; text-indent: 0; }
+
+div.refs {margin-bottom: 2rem;}
+
+div.footnotes:before {
+    content:"Notes:";
+}
 
 p {
   -webkit-hyphens: auto;
@@ -238,7 +246,9 @@ figure figcaption {padding: 0 2em;}
 img {
     max-width: 100%;
     object-fit: contain;
+    border: 1px #dee solid;
 }
+.logo img {border: 0;}
 
 figcaption {
    width: 100%;
@@ -247,7 +257,8 @@ figcaption {
 
 pre {
     background: #F0F0F0;
-    margin: 1rem 0;
+    font-size: 90%;
+    margin: 1rem 0.3rem;
     border-radius: 2px;
 }
 
@@ -294,7 +305,6 @@ ul li {list-style: circle;}
 .text-left {
     text-align: left;
 }
-
 
 
 /* Menu Settings */
@@ -383,16 +393,23 @@ ul li {list-style: circle;}
 }
 
 table {
-    font-size: .8rem;
+    font-size: .8rem; 
 }
 th {
     text-align: left;
-    font-size: .9rem; font-weight: 600;
+    font-size: 115%; font-weight: 600;
 }
-td {    vertical-align: top;
+td, th { vertical-align: top; }
+
+div.bordertable table {
+    font-size: 1rem; line-height: 1.4rem;
+    width: 100%;
+    margin: 1.5rem 0 0 0 ;
 }
-
-
+div.bordertable table td {
+    border: 1pt grey solid;
+    padding: 0 0.2rem;
+}
 
 /* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
 IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
