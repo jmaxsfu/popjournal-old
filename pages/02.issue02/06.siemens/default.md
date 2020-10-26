@@ -1,6 +1,7 @@
 ---
 title: 'A Hole in the Wall'
 subtitle: 'The Potential of Persistent Video-enabled Communication Channels to Facilitate Collaboration in Dispersed Teams'
+doi: '10.48404/pop.2020.06'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Lynne Siemens'

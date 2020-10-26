@@ -1,6 +1,7 @@
 ---
 title: 'Digitizing Humanities in South Africa'
 subtitle: 'Computational linguistic resources, training, and community building'
+doi: '10.48404/pop.2020.07'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Rooweither Mabuya'

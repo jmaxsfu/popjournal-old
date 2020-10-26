@@ -2,6 +2,7 @@
 title: 'Stéfan Sinclair, In Memoriam'
 author:
 - name: 'CSDH/SCHN'
+doi: '10.48404/pop.2020.14'
 ---
 
 > *Reprinted with permission from the Canadian Society of Digital Humanities / Société canadienne des humanités numériques; [csdh-schn.org/stefan-sinclair-in-memoriam/](https://csdh-schn.org/stefan-sinclair-in-memoriam/)*

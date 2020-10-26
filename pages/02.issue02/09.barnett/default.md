@@ -1,8 +1,9 @@
 ---
 title: 'Public-Private Partnerships and the Digitization of the Textual and Cultural Record'
+doi: '10.48404/pop.2020.09'
 license: 'CC BY-SA 2.5 CA'
 author: 
-- name: 'Dr Tully Barnett'
+- name: 'Tully Barnett'
   affil: 'Flinders University'
   email: 'tully.barnett@flinders.edu.au'
   orcid: '0000-0003-0269-5814'

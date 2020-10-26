@@ -1,6 +1,7 @@
 ---
 title: 'The Open Scholarship Commons'
 subtitle: 'Advancing Research for the Public Good'
+doi: '10.48404/pop.2020.11'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Verletta Kern'

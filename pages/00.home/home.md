@@ -1,5 +1,6 @@
 ---
 title: 'Public. Open. Participatory.'
+menu: 'Pop!'
 content:
     items:
       '@page': '/issue01'

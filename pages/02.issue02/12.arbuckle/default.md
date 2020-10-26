@@ -1,6 +1,6 @@
 ---
 title: 'How Can We Broaden and Diversify Humanities Knowledge Translation?'
-doi: ''
+doi: '10.48404/pop.2020.12'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Alyssa Arbuckle'

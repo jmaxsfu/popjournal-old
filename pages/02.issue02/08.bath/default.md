@@ -1,11 +1,21 @@
 ---
 title: 'Building with the Community'
 subtitle: 'Developing digital tools for engaging with the arts in Saskatchewan'
+date: 31-10-2020
+doi: '10.48404/pop.2020.08'
+license: 'CC BY-SA 2.5 CA'
+author:
+- name: 'Jon Bath'
+  affil: 'University of Saskatchewan'
+  email: 'jon.bath@usask.ca'
+  orcid: '0000-0002-3333-4985'
+  bio: '**Jon Bath** is Associate Professor of Art & Art History and Co-Director of the Digital Research Centre at the University of Saskatchewan.'
+- name: 'Michael Peterson'
+deck: ''
+abstract: 'In May of 2019, a team led by the University of Saskatchewan Kenderdine Art Gallery received a Canada Council for the Arts Digital Strategy Fund grant to develop a digital service with Saskatchewan arts organizations to allow them to engage with and give voice to their audiences and other art creators. However, the exact deliverable was intentionally vague; rather than presupposing what this diverse group (from internationally recognized art galleries to community puppet theatres) needs, the grant was built around first engaging with both these organizations and their current and potential audiences in order to gain an understanding of their varied needs. Only once this assessment was done would the actual development begin. In this paper we will introduce the project, and the funding program that supported it, and describe the process of community consultation for both the development of the grant application and the needs assessment. We will introduce the findings from the first phase of the Shared Spaces project and the resulting first prototypes for arts engagement, which use augmented reality, that have gone back out to the communities for further consultation and refinement.'
+
 ---
 
-Jon Bath, Associate Professor, Art & Art History, University of Saskatchewan
-
-Michael Peterson, Project Manager and Community Arts Organizer
 
 Shared Spaces U of S Project Faculty: Lisa Birke (Art & Art History), Terence Clark (Archaeology and Anthropology), Carl Gutwin (Computer Science), Craig Harkema (Library), jake moore (Art Galleries and Collections and Art and Art History), and Jeremy Morgan (former Acting-Director, College Galleries)
 
@@ -17,9 +27,6 @@ Shared Spaces Digital Design Assistants:
 
 EJ Acuna, Febi Chajadi, Logan Barr, Brandon Piller, Lauren Warrington
 
-**Abstract**
-
-In May of 2019, a team led by the University of Saskatchewan Kenderdine Art Gallery received a Canada Council for the Arts Digital Strategy Fund grant to develop a digital service with Saskatchewan arts organizations to allow them to engage with and give voice to their audiences and other art creators. However, the exact deliverable was intentionally vague; rather than presupposing what this diverse group (from internationally recognized art galleries to community puppet theatres) needs, the grant was built around first engaging with both these organizations and their current and potential audiences in order to gain an understanding of their varied needs. Only once this assessment was done would the actual development begin. In this paper we will introduce the project, and the funding program that supported it, and describe the process of community consultation for both the development of the grant application and the needs assessment. We will introduce the findings from the first phase of the Shared Spaces project and the resulting first prototypes for arts engagement, which use augmented reality, that have gone back out to the communities for further consultation and refinement.
 
 ## 
 

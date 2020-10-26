@@ -1,7 +1,7 @@
 ---
 title: 'Where Lie the Similarities and Differences?'
 subtitle: 'A Comparison of University and Industry Partners in Collaboration'
-doi: ''
+doi: '10.48404/pop.2020.10'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Lynne Siemens and the INKE Research Group'

@@ -1,6 +1,7 @@
 ---
 title: 'Gaming the Publishing Industry'
 subtitle: 'Exploring Diverse Open Scholarship Models in Digital Games Studies'
+doi: '10.48404/pop.2020.13'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Jon Saklofske'

@@ -1,6 +1,7 @@
 ---
 title: 'Familiar Wikidata'
 subtitle: 'The Case for Building a Data Source We Can Trust'
+doi: '10.48404/pop.2020.02'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Constance Crompton'

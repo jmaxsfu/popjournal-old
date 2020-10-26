@@ -1,14 +1,37 @@
 ---
 title: 'Foundations for the Canadian Humanities and Social Sciences Commons'
 subtitle: 'Exploring the Possibilities of Digital Research Communities'
+doi: '10.48404/pop.2020.05'
+date: 31-10-2020
+license: 'CC BY-SA 2.5 CA'
+author: 
+- name: 'Caroline Winter'
+  affil: 'University of Victoria'
+  email: 'winterc@uvic.ca'
+  orcid: '0000-0003-4810-1161'
+  bio: '**Caroline Winter** is the Open Scholarship Facilitator in the ETCL (Electronic Textual Cultures Lab), where she contributes to various open scholarship initiatives including the Open Scholarship Policy Observatory and the Open Knowledge Program. She is also a PhD candidate in the English department at the University of Victoria, where she studies British Romantic literature with a focus on the Gothic.'
+- name: 'Tyler Fontenot'
+  affil: 'University of Victoria'
+  bio: '**Tyler Fontenot** is a graduate of the University of Victoria’s M.A. in English – Cultural, Social, and Political Thought program and a friend of the Electronic Textual Cultures Lab. His research interests include digital scholarship and the research commons, postcolonial readings of Louisiana francophone and creolophone cultures, and literary theory in general. Tyler manages a K–12 school in Seattle, Washington.'
+- name: 'Luis Meneses'
+  affil: 'University of Victoria'
+  orcid: '0000-0001-8165-3545'
+  bio: '**Luis Meneses** is a Postdoctoral Fellow at the University of Victoria and Assistant Director (Technical Development) of the Electronic Textual Cultures Lab. He is a Fulbright scholar, and a Mitacs Accelerate Fellow. He has served on the Board of the IEEE Technical Committee on Digital Libraries, and currently serves on the Board of the TEI Consortium. His research interests include digital humanities, digital libraries, information retrieval and human-computer interaction. His research focuses on the development of tools that facilitate open social scholarship.'
+- name: 'Alyssa Arbuckle'
+  affil: 'University of Victoria'
+  orcid: '0000-0002-7286-3054'
+  bio: '**Alyssa Arbuckle** is the Associate Director of the Electronic Textual Cultures Lab (ETCL) at the University of Victoria, where she is Operational Lead for the Implementing New Knowledge Environments (INKE) Partnership, and the co-facilitator of the Connection cluster. She is a member of the Directorial Group and the Operational Team for the Digital Humanities Summer Institute (DHSI). Alyssa is also an interdisciplinary PhD Candidate at the University of Victoria, studying open social scholarship and its implementation. See alyssaarbuckle.com for more information.'
+- name: 'Ray Siemens'
+  affil: 'University of Victoria'
+  orcid: '0000-0002-9599-8795'
+  bio: '**Ray Siemens** directs the Electronic Textual Cultures Lab, the Implementing New Knowledge Environments project, and the Digital Humanities Summer Institute. He is Distinguished Professor in the Faculty of Humanities at the University of Victoria, in English and Computer Science, and past Canada Research Chair in Humanities Computing (2004-15). In 2019–20, he was also Leverhulme Visiting Professor at Loughborough U and he is the current Global Innovation Chair in Digital Humanities at U Newcastle (2019-22). See web.uvic.ca/~siemens for more information.'
+- name: 'The ETCL and INKE Research Groups'
+deck: ''
+abstract: 'This paper introduces the Canadian Humanities and Social Sciences (HSS) Commons, an open online space where Canadian HSS researchers and stakeholders can gather to share information and resources, make connections, and build community. Situated at the intersection of the fields of digital scholarship, open access, digital humanities, and social knowledge creation, the Canadian HSS Commons is being developed as part of a research program investigating how a not-for-profit, community-partnership research commons could benefit the HSS community in Canada. This paper considers an intellectual foundation for conceptualizing the commons, its potential benefits, and its role in the Canadian scholarly publishing ecosystem; it explores how the Canadian HSS Commons’ open, community-based platform complements existing research infrastructure serving the Canadian HSS research community.'
 ---
 
 
-Caroline Winter, Luis Meneses, Tyler Fontenot, Alyssa Arbuckle, Ray Siemens, and the ETCL and INKE research groups
 
-**Abstract**: This paper introduces the Canadian Humanities and Social Sciences (HSS) Commons, an open online space where Canadian HSS researchers and stakeholders can gather to share information and resources, make connections, and build community. Situated at the intersection of the fields of digital scholarship, open access, digital humanities, and social knowledge creation, the Canadian HSS Commons is being developed as part of a research program investigating how a not-for-profit, community-partnership research commons could benefit the HSS community in Canada. This paper considers an intellectual foundation for conceptualizing the commons, its potential benefits, and its role in the Canadian scholarly publishing ecosystem; it explores how the Canadian HSS Commons’ open, community-based platform complements existing research infrastructure serving the Canadian HSS research community.
-
-##
 
 In her book *Generous Thinking*, Kathleen Fitzpatrick calls for university communities—including faculty, staff, administrators, students, and other stakeholders—to “develop more responsive, more open, more positive relationships that reach across the borders of our campuses” (2019, 3). Implicit in Fitzpatrick’s call to action is the idea that campuses are bordered or fenced off from each other and from the communities they serve and belong to. Spatial and geographical metaphors such as Fitzpatrick’s are common in discussions of scholarly communication: we *survey* the scholarly *landscape*, for instance, imagine knowledge as *fields* and *domains*, and *map* critical debates in those intellectual *spaces*. Digital spaces are—problematically—often described as frontiers or a *terra nullius* using colonial metaphors of “exploring” and “discovering” (Gaertner 2017).
 
@@ -201,7 +224,7 @@ Tennant, Jon. 2017. “Who Isn’t Profiting off the Backs of Researchers?” *D
 
 Vandendorpe, Christian. 2015. “Wikipedia and the Ecosystem of Knowledge.” *Scholarly and Research Communication* 6 (3): 1–10. [https://doi.org/10.22230/src.2015v6n3a201](https://doi.org/10.22230/src.2015v6n3a201).
 
-Willinsky, John. 2006. *The Access Principle: The Case for Open Access to Research and Scholarship*. Digital Libraries and Electronic Publishing. MIT Press. https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262512664_Download_the_full_text.pdf.
+Willinsky, John. 2006. *The Access Principle: The Case for Open Access to Research and Scholarship*. Digital Libraries and Electronic Publishing. MIT Press. [https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262512664_Download_the_full_text.pdf](https://mitpress-request.mit.edu/sites/default/files/titles/content/9780262512664_Download_the_full_text.pdf).
 
 </div>
 
