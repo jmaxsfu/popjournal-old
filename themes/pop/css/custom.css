@@ -114,14 +114,10 @@ h1.subtitle { font-size: 1.75rem; font-weight: 300; font-style: italic; line-hei
     position: absolute; top: 2em; left: 2em; z-index: 1;
 }
 
-/*MOVE THESE TO CITATION TO HIDE ORCID LINKS?
-.authorblock p.author span.auname a { color: #220;}
-.authorblock p.author span.auname a:hover { color: #1F8CD6;}
-*/
 
-.authorblock p.authoraffil {
-   font-style: italic; 
-}
+.authorblock p.authoraffil, .authorblock p.authoremail { font-size: .96rem; }
+.authorblock p.authoraffil {font-style: italic; }
+
 p.pubdate {
     text-align: left; margin-right: 5em; margin-top: 0;
     font-family: motiva-sans; line-height: 1.8em; font-weight: 400;
@@ -135,6 +131,7 @@ section.articlecontent, .static {
     font-weight: 400; font-size: 1.1rem; line-height: 1.85rem;
     margin-right: 5rem;    /*GUTTER*/
 }
+strong {font-weight: 600;}
 
 @media  (max-width: 640px) {     /* SMALLER MARGINS ON MOBILE */
 section.articlecontent { margin: 0em;}
@@ -175,7 +172,7 @@ h2.break {text-align: center; letter-spacing: 0.5em;}
 }
 @media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
   .articlelink {
-    font-size: 1.8rem; line-height: 1.2em;
+    font-size: 1.6rem; line-height: 1.2em;
   }
 }
 .articlelink .authorname {
@@ -187,7 +184,7 @@ h2.break {text-align: center; letter-spacing: 0.5em;}
 }
 @media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
   .articlelink .authorname {
-    font-size: 0.8rem; line-height: 1.2rem;
+    font-size: 0.75rem; line-height: 1.2rem;
   }
 }
 
