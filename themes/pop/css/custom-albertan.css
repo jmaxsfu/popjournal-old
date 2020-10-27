@@ -15,7 +15,7 @@
     The grey nav: #999
     The white bits: white
 
-    Serif: tzimmes
+    Serif: albertan-pro
     Sans: motiva-sans
 */
 
@@ -32,7 +32,7 @@
 
 html, button, input, select, textarea,
     .pure-g [class *= "pure-u"] {
-    font-family: 'tzimmes', Georgia, serif; 
+    font-family: 'albertan-pro', Georgia, serif;
 }
 
 html, body {
@@ -72,9 +72,9 @@ div.deck { color: #FC671F;
 }
 
 h1.title {
-    font-size: 3.6rem; font-weight: 400; line-height: 4.5rem; 
+    font-size: 4rem; font-weight: 300; line-height: 4.5rem; 
     margin-bottom: .25rem; margin-top: 1rem;}
-h1.subtitle { font-size: 1.75rem; font-weight: 300; font-style: italic; line-height: 1.1em;
+h1.subtitle { font-size: 2rem; font-weight: 300; font-style: italic; line-height: 1.1em;
     margin: 1rem 0;}
 @media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
     h1.title {
@@ -133,9 +133,8 @@ p.pubdate {
 p.pubdate span { padding-bottom: 2px; border-bottom: 2px #FC671F solid;}
 
 
-/*THIS IS THE BODY TYPE*/
 section.articlecontent, .static {
-    font-weight: 400; font-size: 1.1rem; line-height: 1.85rem;
+    font-weight: 400; font-size: 1.2rem; line-height: 1.85rem;
     margin-right: 5rem;    /*GUTTER*/
 }
 
@@ -173,27 +172,21 @@ h2.break {text-align: center; letter-spacing: 0.5em;}
 .articlelink {
     /*border: 1px orange solid;*/
     display: block; float: left;  text-overflow: wrap;
-    font-size: 2.4rem; font-weight: 300; line-height: 1.2em; 
-    margin-top: 1rem;
+    font-size: 2.6rem; line-height: 1.2em;
+    margin-top: 0rem;
 }
 @media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
   .articlelink {
-    font-size: 1.8rem; line-height: 1.2em;
-  }
-}
-.articlelink .authorname {
-    display: block;
-    text-transform: uppercase; font-size: 1rem; letter-spacing: .1em;
-    line-height: 2.1rem; margin-top: 0.1rem;
-    position: relative; bottom: 0em;
-    padding-left: 1em; text-indent: -1em;
-}
-@media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
-  .articlelink .authorname {
-    font-size: 0.8rem; line-height: 1.2rem;
+    font-size: 2rem; line-height: 1.2em;
+    margin-top: 0rem;
   }
 }
 
+.articlelink .authorname {
+    display: block;
+    text-transform: uppercase; font-size: 1rem; letter-spacing: .09em; 
+    position: relative; bottom: .3em;
+}
 .articlelink .authorname:before {
     content: "\25a0"; color: #FC671F;
     position: relative; bottom: .05em;
