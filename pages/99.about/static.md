@@ -33,7 +33,7 @@ Write us at <info@popjournal.ca>!
 
 ## Acknowledgements and Credits
 
-*Pop!* relies on the generous contributions of the [Faculty of Communication, Art & Technology](https://www.sfu.ca/fcat) and the [Scholcomm Lan](https://scholcommlab.ca) at Simon Fraser University; the [Implementing New Knowledge Environments](https://inke.ca) at the University of Victoria; and the [Canadian Institute for Studies in Publishing](https://publishing.sfu.ca/research) at SFU.
+*Pop!* relies on the generous contributions of the [Faculty of Communication, Art & Technology](https://www.sfu.ca/fcat) and the [Scholcomm Lab](https://scholcommlab.ca) at Simon Fraser University; the [Implementing New Knowledge Environments](https://inke.ca) at the University of Victoria; and the [Canadian Institute for Studies in Publishing](https://publishing.sfu.ca/research) at SFU.
 
 See also our more complete [colophon and list of credits](colophon).
 
