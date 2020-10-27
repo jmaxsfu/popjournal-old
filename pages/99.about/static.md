@@ -2,20 +2,20 @@
 title: 'About'
 author: 
 - name: 'John Maxwell'
-date: 31-10-2019
+date: 31-10-2020
 ---
 
 *Pop!* aims to be a ‘small-batch, handcrafted’ journal that puts its community first, that wants to be read, and that makes care a priority: care for its content, care for its audience, and care for the kind of world it wants to serve.
 
 *Pop!* is rooted in the humanities, but spans a variety of disciplines and is purposefully structured to be open to varieties of intellectual engagement. *Pop!* includes editorials, conference proceedings, articles, book and event reviews, interviews, and research features. It showcases peer reviewed scholarly articles, but also an array of shorter updates on projects and people interesting to our community, as curated by *Pop’s* interdisciplinary editorial board (listed below).
 
-*Pop* is published at Simon Fraser University by the [Canadian Institute for Studies in Publishing](https://publishing.sfu.ca)
+*Pop* is published by the School for [Publishing @ Simon Fraser University](https://publishing.sfu.ca)
 
 *Pop!* is blind peer-reviewed by members of our scholarly community, who evaluate each article for its originality, coherence, scholarship, and for its readability, not just for specialist audiences within the university, but for broader interested audiences.
 
 Write us at <info@popjournal.ca>!
 
-## Editorial Board (as of summer 2019)
+## Editorial Board (as of 2020)
 
 - Alyssa Arbuckle, University of Victoria
 - Jon Bath, University of Saskatchewan  
@@ -33,7 +33,7 @@ Write us at <info@popjournal.ca>!
 
 ## Acknowledgements and Credits
 
-*Pop!* relies on the generous contributions of the [Faculty of Communication, Art & Technology](https://www.sfu.ca/fcat) at Simon Fraser University; the [Implementing New Knowledge Environments](https://inke.ca) at the University of Victoria; and the [Canadian Institute for Studies in Publishing](https://publishing.sfu.ca/research) at SFU.
+*Pop!* relies on the generous contributions of the [Faculty of Communication, Art & Technology](https://www.sfu.ca/fcat) and the [Scholcomm Lan](https://scholcommlab.ca) at Simon Fraser University; the [Implementing New Knowledge Environments](https://inke.ca) at the University of Victoria; and the [Canadian Institute for Studies in Publishing](https://publishing.sfu.ca/research) at SFU.
 
 See also our more complete [colophon and list of credits](colophon).
 
