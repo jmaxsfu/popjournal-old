@@ -9,26 +9,28 @@ author:
   affil: 'University of Saskatchewan'
   email: 'jon.bath@usask.ca'
   orcid: '0000-0002-3333-4985'
-  bio: '**Jon Bath** is Associate Professor of Art & Art History and Co-Director of the Digital Research Centre at the University of Saskatchewan.'
+  bio: '**Jon Bath** is Associate Professor of Art & Art History at the University of Saskatchewan.'
 - name: 'Michael Peterson'
+  affil: 'Void Gallery, Saskatoon'
+  bio: '**Michael Peterson** is the owner of Void Gallery in Saskatoon and the Project Manager for the Shared Spaces project.'
 deck: ''
 abstract: 'In May of 2019, a team led by the University of Saskatchewan Kenderdine Art Gallery received a Canada Council for the Arts Digital Strategy Fund grant to develop a digital service with Saskatchewan arts organizations to allow them to engage with and give voice to their audiences and other art creators. However, the exact deliverable was intentionally vague; rather than presupposing what this diverse group (from internationally recognized art galleries to community puppet theatres) needs, the grant was built around first engaging with both these organizations and their current and potential audiences in order to gain an understanding of their varied needs. Only once this assessment was done would the actual development begin. In this paper we will introduce the project, and the funding program that supported it, and describe the process of community consultation for both the development of the grant application and the needs assessment. We will introduce the findings from the first phase of the Shared Spaces project and the resulting first prototypes for arts engagement, which use augmented reality, that have gone back out to the communities for further consultation and refinement.'
 
 ---
 
 
-Shared Spaces U of S Project Faculty: Lisa Birke (Art & Art History), Terence Clark (Archaeology and Anthropology), Carl Gutwin (Computer Science), Craig Harkema (Library), jake moore (Art Galleries and Collections and Art and Art History), and Jeremy Morgan (former Acting-Director, College Galleries)
+*Shared Spaces* Project Faculty from USask include: Lisa Birke (Art & Art History), Terence Clark (Archaeology and Anthropology), Carl Gutwin (Computer Science), Craig Harkema (Library), jake moore (Art Galleries and Collections and Art and Art History), and Jeremy Morgan (former Acting-Director, College Galleries)
 
-Shared Spaces User Engagement Assistants:
+##
 
-Dorothy Chung, Fatemeh Ebrahimnejadnamini, Emilie Neudorf, Athanasia Perdikaris, Caila Robson-Kullman
-
-Shared Spaces Digital Design Assistants:
-
-EJ Acuna, Febi Chajadi, Logan Barr, Brandon Piller, Lauren Warrington
-
+*Shared Spaces* User Engagement Assistants are: Dorothy Chung, Fatemeh Ebrahimnejadnamini, Emilie Neudorf, Athanasia Perdikaris, Caila Robson-Kullman
 
 ## 
+
+*Shared Spaces* Digital Design Assistants are: EJ Acuna, Febi Chajadi, Logan Barr, Brandon Piller, Lauren Warrington
+
+
+## \* \* \* {.break} 
 
 In May of 2019, a team led by the University of Saskatchewan Kenderdine Art Gallery received a Canada Council for the Arts Digital Strategy Fund grant to develop a digital service with Saskatchewan arts organizations to allow them to engage with and give voice to their audiences and other art creators. However, the exact deliverable was intentionally vague; rather than presupposing what this diverse group (from internationally recognized art galleries to community puppet theatres) needs, the grant was built around first engaging with both these organizations and their current and potential audiences in order to gain an understanding of their varied needs. Only once this assessment was done would the actual development begin. In this paper we will introduce the project, and the funding program that supported it, and describe the process of community consultation for both the development of the grant application and the needs assessment. We will introduce the findings from the first phase of the Shared Spaces project and the resulting first prototypes for arts engagement, which use augmented reality, that have gone back out to the communities for further consultation and refinement.
 
