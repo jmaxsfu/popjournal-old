@@ -5,7 +5,7 @@ doi: '10.48404/pop.2020.04'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Luis Meneses'
-  affil: 'Electronic Textual Cultures Lab, University of Victoria'
+  affil: 'University of Victoria'
   email: 'ldmm@uvic.ca'
   orcid: '0000-0001-8165-3545'
   bio: '**Luis Meneses** is a Postdoctoral Fellow at the University of Victoria and Assistant Director (Technical Development) of the Electronic Textual Cultures Lab. He is a Fulbright scholar, and a Mitacs Accelerate Fellow. He has served on the Board of the IEEE Technical Committee on Digital Libraries, and currently serves on the Board of the TEI Consortium. His research interests include digital humanities, digital libraries, information retrieval and human-computer interaction. His research focusses on the development of tools that facilitate open social scholarship.'
