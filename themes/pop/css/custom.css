@@ -178,7 +178,7 @@ h2.break {text-align: center; letter-spacing: 0.5em;}
 }
 .articlelink .authorname {
     display: block;
-    text-transform: uppercase; font-size: 1rem; letter-spacing: .1em;
+    text-transform: uppercase; font-size: 1rem; letter-spacing: .09em;
     line-height: 2.1rem; margin-top: 0.1rem;
     position: relative; bottom: 0em;
     padding-left: 1em; text-indent: -1em;
