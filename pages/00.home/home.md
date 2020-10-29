@@ -3,7 +3,7 @@ title: 'Public. Open. Participatory.'
 menu: 'Pop!'
 content:
     items:
-      '@page': '/issue01'
+      '@page': '/issue02'
     order:
       by: default
       dir: asc
@@ -12,9 +12,16 @@ content:
 ---
 
 
-# Current Issue (#1):
+# Current Issue (#2):
 
-## [Proceedings from the January 2019 INKE Meeting, <br /> 'Understanding and Enacting Open Scholarship'](/issue01) – Oct 31, 2019
+Oct 30, 2020
+
+### Proceedings from two aligned conferences: 
+
+## *CAPOS 2019 – Knowledge creation in the 21st Century,* in Sydney, December 2019 
+
+## *INKE 2020 "Open Scholarship for the 2020s,* in Victoria, January 2020
+
 
 <h2>Contents:</h2>
 

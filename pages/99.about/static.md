@@ -2,7 +2,7 @@
 title: 'About'
 author: 
 - name: 'John Maxwell'
-date: 31-10-2020
+date: 30-10-2020
 ---
 
 *Pop!* aims to be a ‘small-batch, handcrafted’ journal that puts its community first, that wants to be read, and that makes care a priority: care for its content, care for its audience, and care for the kind of world it wants to serve.
