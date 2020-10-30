@@ -12,7 +12,7 @@ content:
 ---
 
 
-# Current Issue (#2): <br />*Knowledge creation in the 21st Century*
+# Current Issue (#2): <br />*Knowledge creation in <br />the 21st Century*
 
 Oct 31, 2020
 
