@@ -12,13 +12,13 @@ content:
 ---
 
 
-# Current Issue (#2):
+# Current Issue (#2): <br />Knowledge creation in the 21st Century
 
-Oct 30, 2020
+Oct 31, 2020
 
 ### Proceedings from two aligned conferences: 
 
-## *CAPOS 2019 – Knowledge creation in the 21st Century,* in Sydney, December 2019 
+## *CAPOS 2019 – Knowledge creation in the 21st Century,* in Newcastle, December 2019 
 
 ## *INKE 2020 "Open Scholarship for the 2020s,* in Victoria, January 2020
 

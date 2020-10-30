@@ -1,7 +1,7 @@
 ---
 title: 'Issue Nº2'
-subtitle: "Proceedings from CAPOS2019 & INKE Vic20"
-pubdate: 30-10-2020
+subtitle: "Knowledge creation in the 21st Century"
+pubdate: 31-10-2020
 issuenum: 2
 content:
     items: '@self.children'
@@ -16,11 +16,13 @@ published: true
 
 
 
-### Proceedings from two aligned conferences: 
+### Proceedings from two conferences:
 
-## *CAPOS 2019 – Knowledge creation in the 21st Century,* in Sydney, December 2019 
+## *CAPOS 2019 – Knowledge creation in the 21st Century,* in Newcastle, December 2019 
 
-## *INKE 2020 "Open Scholarship for the 2020s,* in Victoria, January 2020
+## *INKE 2020 Open Scholarship for the 2020s,* in Victoria, January 2020
+
+## &nbsp;
 
 <h2>Contents:</h2>
 
