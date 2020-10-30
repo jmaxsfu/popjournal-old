@@ -16,13 +16,15 @@ published: true
 
 
 
-### Proceedings from two conferences:
+### 
 
-## *CAPOS 2019 – Knowledge creation in the 21st Century,* in Newcastle, Dec 2019 
+### Proceedings from two aligned conferences:
 
-## *INKE 2020 Open Scholarship for the 2020s,* in Victoria, Jan 2020
+### *CAPOS 2019 – Knowledge creation in the 21st Century,* in Newcastle, Dec 2019 
 
-## &nbsp;
+### *INKE 2020 Open Scholarship for the 2020s,* in Victoria, Jan 2020
+
+### &nbsp;
 
 <h2>Contents:</h2>
 
