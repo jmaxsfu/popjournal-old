@@ -9,11 +9,7 @@ author:
   affil: 'Australian National University'
   email: 'danny@dannykingsley.com'
   orcid: ''
-<<<<<<< Updated upstream:pages/issue03/09.kingsley/default.md
-  bio: 'Danny Kingsley is Associate Librarian, Content and Digital Library Strategy at Flinders University and Visiting Fellow at the Australian National Centre for the Public Awareness of Science. Between 2015-2019 Danny worked as the Deputy Director of Cambridge University Libraries (Scholarly Communication & Research Services). She established the Australasian Open Access Strategy Group and worked at the Australian National University as Manager of Scholarly Communication after completing her 2008 PhD there on open access. She is in demand as a presenter and writer.'
-=======
   bio: 'Danny is Associate Librarian, Content and Digital Library Strategy at Flinders University and Visiting Fellow at the Australian National Centre for the Public Awareness of Science. Between 2015–2019 Danny worked as the Deputy Director of Cambridge University Libraries (Scholarly Communication & Research Services). She established the Australasian Open Access Strategy Group and worked at the Australian National University as Manager of Scholarly Communication after completing her 2008 PhD there on open access. She is in demand as a presenter and writer.'
->>>>>>> Stashed changes:pages/issue03/kingsley/default.md
 deck: ''
 abstract: 'The nature of the research endeavour is changing rapidly and requires a wide set of skills beyond the research focus. The delivery of aspects of researcher training ‘beyond the bench’ is met by different sections of an institution, including the research office, the media office and the library. In Australia researcher training in open access, research data management and other aspects of open science is primarily offered by librarians. But what training do librarians receive in scholarly communication within their librarianship degrees? 
 
