@@ -53,17 +53,18 @@ Digital environments are a characteristic of modern scholarly publishing and com
 
 A 2018 survey of Australian and New Zealand universities found that the digital revolution was extensive (Missingham 2018). All respondents indicated that theses must be deposited in digital form with their university library as recorded in table 1:
 
-  --------------------------------------------------------------------------------
-  Country                             Respondents with mandatory digital deposit
-  ----------------------------------- --------------------------------------------
-  Australia                           100%
+<div class="bordertable" markdown="1">
 
-  New Zealand                         100%
-  --------------------------------------------------------------------------------
+|  Country        | Respondents with mandatory digital deposit  |
+|---------------------------------------------------------------| 
+| Australia        | 100%  |
+| New Zealand      | 100%  |
 
-Note: 1 Australian University required hardcopy and digital deposit
+</div>
 
-Table 1. Digital deposit of theses 2018
+Table 1. Digital deposit of theses 2018[^1]
+
+
 
 Theses are increasingly being made available in digital form through digitization projects. In Australia clause S 51 (2) of the Copyright Act 1968 allows the libraries to copy and communicate theses including in digital form:
 
@@ -127,30 +128,26 @@ Chart 5. Australian National University downloads of theses 2020 by country
 
 Statistics from 2020 also revealed the humanities and social science theses were more significantly read than science theses as demonstrated in Table 3.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Item Name                                                                                                                                                                                                                                             Downloads
-  -------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------- -----------
-  "A great deal of sickness": Introduced diseases among the Aboriginal people of colonial Southeast Australia          [02Whole_Dowling.pdf](https://openresearch-repository.anu.edu.au/handle/1885/7529)                                               14898
 
-  The size, structure and life cycle of family households in the Philippines                                           [b19468209_Abejo_Socorro_D.pdf](https://openresearch-repository.anu.edu.au/handle/1885/123506)                                   9510
+<div class="bordertable" markdown="1">
 
-  "A great deal of sickness": Introduced diseases among the Aboriginal people of colonial Southeast Australia          [01Front_Dowling.pdf](https://openresearch-repository.anu.edu.au/handle/1885/7529) (duplication due to old process of uploads)   8406
 
-  The role of maritime power in the wake of the Gulf War 1990-1991                                                     [b18190790-Stevens_D.pdf](https://openresearch-repository.anu.edu.au/handle/1885/144325)                                         8371
+| Item Name | File | Downloads | 
+|-----------------------------------|
+| "A great deal of sickness": Introduced diseases among the Aboriginal people of colonial Southeast Australia | [02Whole_Dowling.pdf](https://openresearch-repository.anu.edu.au/handle/1885/7529) | 14898 |
+| The size, structure and life cycle of family households in the Philippines | [b19468209_Abejo_Socorro_D.pdf](https://openresearch-repository.anu.edu.au/handle/1885/123506) | 9510 |
+| "A great deal of sickness": Introduced diseases among the Aboriginal people of colonial Southeast Australia | [01Front_Dowling.pdf](https://openresearch-repository.anu.edu.au/handle/1885/7529) (duplication due to old process of uploads) | 8406 |
+| The role of maritime power in the wake of the Gulf War 1990-1991 | b18190790-[Stevens_D.pdf](https://openresearch-repository.anu.edu.au/handle/1885/144325) | 8371 |
+| Social interaction and academic performance | [b12221715_Sheppard_Terence_Alan.pdf](https://openresearch-repository.anu.edu.au/handle/1885/132361) | 7801 |
+| A colonial dilemma : British policy and the colonial economy of Tanganyika 1918-1938 | [b16566531_Neal_Stephen.pdf](https://openresearch-repository.anu.edu.au/handle/1885/112143) | 7346 |
+| A study of the socio-economic elite in Philippine politics and government, 1946-1963 | [b12926863_Simbulan_Dante_C.pdf](https://openresearch-repository.anu.edu.au/handle/1885/112055) | 6984 |
+| Marriage in Sri Lanka : a century of change | [b18262156_Caldwell_Bruce.pdf](https://openresearch-repository.anu.edu.au/handle/1885/123190) | 6552 |
+| Regime failure and the political legitimacy of governments in Ghana : the case of the Acheampong regime, 1972-1979 | [b11238306_Tsamenyi_M.pdf](https://openresearch-repository.anu.edu.au/handle/1885/126279) | 5504 |
+| The coconut industry in Sri Lanka : an analysis of government intervention measures | [b12240035_De_Silva_H_W_S.pdf](https://openresearch-repository.anu.edu.au/handle/1885/131963) | 5152 | 
 
-  Social interaction and academic performance                                                                          [b12221715_Sheppard_Terence_Alan.pdf](https://openresearch-repository.anu.edu.au/handle/1885/132361)                             7801
+</div>
 
-  A colonial dilemma : British policy and the colonial economy of Tanganyika 1918-1938                                 [b16566531_Neal_Stephen.pdf](https://openresearch-repository.anu.edu.au/handle/1885/112143)                                      7346
 
-  A study of the socio-economic elite in Philippine politics and government, 1946-1963                                 [b12926863_Simbulan_Dante_C.pdf](https://openresearch-repository.anu.edu.au/handle/1885/112055)                                  6984
-
-  Marriage in Sri Lanka : a century of change                                                                          [b18262156_Caldwell_Bruce.pdf](https://openresearch-repository.anu.edu.au/handle/1885/123190)                                    6552
-
-  Regime failure and the political legitimacy of governments in Ghana : the case of the Acheampong regime, 1972-1979   [b11238306_Tsamenyi_M.pdf](https://openresearch-repository.anu.edu.au/handle/1885/126279)                                        5504
-
-  The coconut industry in Sri Lanka : an analysis of government intervention measures                                  [b12240035_De_Silva_H\_W_S.pdf](https://openresearch-repository.anu.edu.au/handle/1885/131963)                                   5152
- 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Table 2. Downloads of theses in the ANU repository in 2020 – top 10 downloaded theses.
 
@@ -180,13 +177,13 @@ Regarding the impact of open access of theses on future publishing, historians h
 
 There is overall debate on the costs and benefits of scholarly publishing. While this is a hot topic in the open access community, studies have emerged that demonstrate the costs borne by publishers and authors (such as Smart, Watkinson, Dunham and Fitzgerald 2016 and King 2008) can be identified. There are a variety of open access models. For some, primarily green open access no fees need to be paid by authors. For others, such as gold, authors must make a payment to cover the costs of publishing. Funders allow research grants to cover such cost and require open access of research outputs. There are thus different requirements for authors depending on the open access model of the publication or publisher.
 
-A study of academics at the Australian National University has addressed the myth that scholars will make significant economic gain in general from their publications (Missingham 2016). Perhaps surprisingly, there were many discussions in the university with academics who identified advice given to PhD students that open access publishing of their thesis would reduce future income from publishing. The survey found that academics are significant contributors to scholarly publishing. The average academic is an author of 2–5 articles per year with additional book chapters and books depending on the discipline. In total, academics pay for a number of costs for publishing—on average less than \$2,500 to cover costs such as copy editing, image fees, index, and design). Some book authors (approximately 20%) receive a royalty or advance for a book (approximately 72% of these receive under \$1,000). Payments from government schemes such as the educational lending and public lending rights are low:
+A study of academics at the Australian National University has addressed the myth that scholars will make significant economic gain in general from their publications (Missingham 2016). Perhaps surprisingly, there were many discussions in the university with academics who identified advice given to PhD students that open access publishing of their thesis would reduce future income from publishing. The survey found that academics are significant contributors to scholarly publishing. The average academic is an author of 2–5 articles per year with additional book chapters and books depending on the discipline. In total, academics pay for a number of costs for publishing—on average less than $2,500 to cover costs such as copy editing, image fees, index, and design). Some book authors (approximately 20%) receive a royalty or advance for a book (approximately 72% of these receive under $1,000). Payments from government schemes such as the educational lending and public lending rights are low:
 
--   94.3% of authors receive \$0 for books,
+-   94.3% of authors receive $0 for books,
 
--   3.4% of authors receive between \$1 and \$1,000 for books, and
+-   3.4% of authors receive between $1 and $1,000 for books, and
 
--   98.9% of authors of journal articles and other publications receive \$0.
+-   98.9% of authors of journal articles and other publications receive $0.
 
 Signficantly the income received by academic authors is very low, regardless of the format of publication (chart 6).
 
@@ -260,7 +257,7 @@ King, Donald W. and Frances M. Alvarado-Albertorio. 2008. “Pricing and Other M
 
 Maron, Nancy L., Mulhern, Christine, Rossman, Daniel and Kimberly Schmelzinge. 2016. *The Costs of Publishing Monographs: Toward a Transparent Methodology*. New York, IthakaS+R. [https://sr.ithaka.org/publications/the-costs-of-publishing-monographs/](https://sr.ithaka.org/publications/the-costs-of-publishing-monographs/)
 
-McCarthy, Paul X. and Maaike Wienk. 2012. *Advancing Australia’s Knowledge Economy: Who Are the Top PhD Employers?* Melbourne: Australian Mathematical Sciences Institute & CSIRO Data61 Australian Mathematical Sciences Institute. [https://s3-ap-southeast-2.amazonaws.com/production-ribit-wordpress/wordpress/wp-content/uploads/2019/Advancing_Australia%E2%80%99s_Knowledge_Economy.pdf?utm_source=user_employer&utm_medium=email&utm_campaign=20190501_REPORT%20DOWNLOAD&utm_content=blog](https://s3-ap-southeast-2.amazonaws.com/production-ribit-wordpress/wordpress/wp-content/uploads/2019/Advancing_Australia%E2%80%99s_Knowledge_Economy.pdf?utm_source=user_employer&utm_medium=email&utm_campaign=20190501_REPORT%20DOWNLOAD&utm_content=blog)
+McCarthy, Paul X. and Maaike Wienk. 2012. *Advancing Australia’s Knowledge Economy: Who Are the Top PhD Employers?* Melbourne: Australian Mathematical Sciences Institute & CSIRO Data61 Australian Mathematical Sciences Institute. [https://s3-ap-southeast-2.amazonaws.com/production-ribit-wordpress/wordpress/wp-content/uploads/2019/Advancing_Australia%E2%80%[99s_Knowledge_Economy.pdf]()?utm_source=user_employer&utm_medium=email&utm_campaign=20190501_REPORT%20DOWNLOAD&utm_content=blog](https://s3-ap-southeast-2.amazonaws.com/production-ribit-wordpress/wordpress/wp-content/uploads/2019/Advancing_Australia%E2%80%[99s_Knowledge_Economy.pdf]()?utm_source=user_employer&utm_medium=email&utm_campaign=20190501_REPORT%20DOWNLOAD&utm_content=blog)
 
 McMillan, Gail, Ramirez, Marisa L., Dalton, Joan, Read, Max and Nancy H. Seamans. 2011 “An Investigation of ETDs as Prior Publications: Findings from the 2011 NDLTD Publishers ’ Survey”. Paper presented at the 14th International Symposium on Electronic Theses and Dissertations, Cape Town, South Africa. S.l.: NLDT conference. [https://vtechworks.lib.vt.edu/handle/10919/11338](https://vtechworks.lib.vt.edu/handle/10919/11338)
 
@@ -274,9 +271,9 @@ National Health and Medical Research Council. 2017. *Open Access Policy*. Canber
 
 Noble, Keith Allan. 1994. *Changing Doctoral Degrees: An International Perspective.* Buckingham: SRHE and Open University Press.
 
-Park, Chris. 2007. *Redefining the Doctorate*. London: Higher Education Academy. [https://www2.le.ac.uk/departments/doctoralcollege/about/external/publications/redefining-the-doctorate.pdf](https://www2.le.ac.uk/departments/doctoralcollege/about/external/publications/redefining-the-doctorate.pdf)
+Park, Chris. 2007. *Redefining the Doctorate*. London: Higher Education Academy. [https://www2.le.ac.uk/departments/doctoralcollege/about/external/publications/redefining-the-[doctorate.pdf]()](https://www2.le.ac.uk/departments/doctoralcollege/about/external/publications/redefining-the-[doctorate.pdf]())
 
-Pinfield, Stephen , Wakeling, Simon, Bawden, David and Lyn Robinson. (2020) *Open Access in Theory and Practice: the Theory-Practice Relationship and Openness.* Milton Park, Abingdon, Oxon; New York, NY: Routledge. [https://library.oapen.org/bitstream/handle/20.500.12657/39922/9780367227852_text.pdf;jsessionid=75A82D1C858950439B6CCFCBA703A1A4?sequence=1](https://library.oapen.org/bitstream/handle/20.500.12657/39922/9780367227852_text.pdf;jsessionid=75A82D1C858950439B6CCFCBA703A1A4?sequence=1)
+Pinfield, Stephen , Wakeling, Simon, Bawden, David and Lyn Robinson. (2020) *Open Access in Theory and Practice: the Theory-Practice Relationship and Openness.* Milton Park, Abingdon, Oxon; New York, NY: Routledge. [https://library.oapen.org/bitstream/handle/20.500.12657/39922/[9780367227852_text.pdf]();jsessionid=75A82D1C858950439B6CCFCBA703A1A4?sequence=1](https://library.oapen.org/bitstream/handle/20.500.12657/39922/[9780367227852_text.pdf]();jsessionid=75A82D1C858950439B6CCFCBA703A1A4?sequence=1)
 
 Plan S. 2020. *Making Full and Immediate Open Access a Reality.* Strasbourg, France: Plan S. [https://www.coalition-s.org/](https://www.coalition-s.org/)
 
@@ -295,3 +292,6 @@ UK Research Excellence Framework. 2020. *REF 2021.* London: REF. [https://www.re
 Wulf, Karin and Seth Denbo. 2019. “A Brief History of History Responding to Open Access”. *The Scholarly Kitchen.* [https://scholarlykitchen.sspnet.org/2019/02/13/a-brief-history-of-history-responding-to-open-access/](https://scholarlykitchen.sspnet.org/2019/02/13/a-brief-history-of-history-responding-to-open-access/)
 
 </div>
+
+[^1]: Australian University required hardcopy and digital deposit.
+
