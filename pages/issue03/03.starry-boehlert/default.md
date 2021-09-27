@@ -106,7 +106,7 @@ Versluis, Ali, and Lillian S. Ringling. 2017. “What Collaboration Means to Me:
 
 Vinopal, Jennifer, and Monica McCormick. 2013. “Supporting Digital Scholarship in Research Libraries: Scalability and Sustainability.” *Journal of Library Administration* 53 (1): 27–42. [doi:10.1080/01930826.2013.756689](https://doi.org/10.1080/01930826.2013.756689).
 
-Wiles, Rose, et al. 2009. “Consultation on Research Needs in Research Methods in the UK Social Sciences.” Working Paper, NCRM. [https://doi.org10/1/Report_final.pdf.
+Wiles, Rose, et al. 2009. “Consultation on Research Needs in Research Methods in the UK Social Sciences.” Working Paper, NCRM. [https://eprints.ncrm.ac.uk/id/eprint/810/](https://eprints.ncrm.ac.uk/id/eprint/810/).
 
 Wingo, Rebecca S., and Kalani Craig. 2017. “What Do Digital Historians Want? Lessons from the AHA’s Digital History Workshop.” American Historical Association. [https://www.historians.org/publications-and-directories/perspectives-on-history/december-2017/what-do-digital-historians-want-lessons-from-the-ahas-digital-history-workshop](https://www.historians.org/publications-and-directories/perspectives-on-history/december-2017/what-do-digital-historians-want-lessons-from-the-ahas-digital-history-workshop).
 
