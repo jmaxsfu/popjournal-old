@@ -1,6 +1,5 @@
 ---
 title: 'Social Analytics Through Spyral'
-subtitle: ''
 doi: ''
 date: 31-10-2021
 license: 'CC BY-SA 2.5 CA'

@@ -1,6 +1,5 @@
 ---
 title: 'A Call to Develop Standards for Those Delivering ‘Research Practice’ Training'
-subtitle: ''
 doi: ''
 date: 31-10-2021
 license: 'CC BY-SA 2.5 CA'
@@ -106,7 +105,7 @@ Bosman, Jeroen. 2017. ‘Defining Open Science Definitions’. *I&M / I&O 2.0* (
 
 Bryant, Rebecca, Annette Dortmund, and Brian Lavoie. 2020. ‘Social Interoperability in Research Support: Cross-Campus Partnerships and the University Research Enterprise’. [https://doi.org/10.25333/WYRD-N586](https://doi.org/10.25333/WYRD-N586).
 
-Calarco, Pascal, Kathleen Shearer, Birgit Schmidt, and Dominic Tate. 2016. ‘Librarians’ Competencies Profile for Scholarly Communication and Open Access’, 6.
+Calarco, Pascal, Kathleen Shearer, Birgit Schmidt, and Dominic Tate. 2016. ‘Librarians’ Competencies Profile for Scholarly Communication and Open Access’, 6. [https://www.coar-repositories.org/files/Competencies-for-ScholComm-and-OA_June-2016.pdf](https://www.coar-repositories.org/files/Competencies-for-ScholComm-and-OA_June-2016.pdf)
 
 CAPOS. 2019. ‘Canadian-Australian Partnership for Open Scholarship – The INKE Partnership’. 2019. [https://inke.ca/canadian-australian-partnership-for-open-scholarship/](https://inke.ca/canadian-australian-partnership-for-open-scholarship/).
 
