@@ -20,7 +20,7 @@ author:
   orcid: ''
   bio: 'Andrew MacDonald is a web developer with over 15 years of experience creating open source web applications. Working primarily in the digital humanities field, he has contributed to several significant projects, most notably Voyant Tools. Outside of work, Andrew is an avid cyclist, amateur yogi, and hobbyist generative artist.'
 deck: ''
-abstract: ''
+abstract: 'In this paper we introduce Spyral, a notebook environment that works in tandem with Voyant Tools. Voyant Tools is an online digital text analysis environment. Spyral notebooks extend Voyant and allow users to create JavaScript online notebooks with both text and code cells. These notebooks are designed to allow for collaboration between scholars. We also discuss both the possibilities and some limitations of the notebook environment. We provide examples of both tutorial notebooks that can be used for pedagogical purposes as well as examples of Spyral notebooks used in collaborative analysis. Finally, we suggest potential areas for further development for Spyral.'
 ---
 
 
