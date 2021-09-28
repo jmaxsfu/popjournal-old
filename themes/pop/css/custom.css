@@ -216,7 +216,7 @@ p { margin-top: 1rem; text-indent: 0; }
 p+p { margin-top: 0rem; text-indent: 1.3rem; }
 
 .static p+p { margin-top: 1rem; text-indent: 0; }
-div.refs p+p { margin-top: 1.4rem; text-indent: 0; }
+div.refs p, div.refs p+p { margin-top: 1.4rem; margin-left: 2em; text-indent: -2em; }
 
 div.refs {margin-bottom: 2rem;}
 
