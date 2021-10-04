@@ -25,9 +25,8 @@ abstract: 'In this paper we introduce Spyral, a notebook environment that works 
 
 
 
-![Rembrandt - The Philosopher in Meditation.jpg](./MARKDOWNS/MEDIA/media/image1.jpeg){width="4.155555555555556in" height="3.4590277777777776in"}
+![Rembrandt - The Philosopher in Meditation.jpg](image1.jpeg "Figure 1: “Philosopher in Meditation” by Rembrandt"){ }
 
-*Figure 1 “Philosopher in Meditation” by Rembrandt*
 
 > Things made up of different elements and produced by the hands of several master craftsmen are often less perfect than those on which only one person has worked. (Descartes 2006, 12)
 
@@ -41,9 +40,10 @@ Spyral is a notebook programming environment built on Voyant Tools and extending
 
 Spyral was designed in the tradition of “literate programming” where the development environment supports the intertwining of discussion and code so development starts with describing what is being done for others (Knuth 1984, 97–111). This type of programming is particularly beneficial in digital humanities projects in which the analytical code is usually accompanied by textual explanations and in which the textual accompaniments to code and visualizations are just as important as the analysis itself.
 
-![](./MARKDOWNS/MEDIA/media/image2.png){width="3.4347222222222222in" height="2.75625in"}
 
-*Figure 2 A Mathematica Notebook*
+![Mathematica Notebook](image2.png "Figure 2: A Mathematica Notebook"){ }
+
+
 
 Wolfram Mathematica and now Jupyter notebooks are the best-known examples of literate notebook environments and they are both used widely for data science and scientific computing because they encourage the writing out of the thinking behind analysis.[^3] In Figure 2 above you see a Mathematica notebook. Spyral is unique because it integrates directly with Voyant Tools.
 
@@ -65,9 +65,7 @@ Recent criticism of notebook environments highlights several areas of concern wh
 
 ## Spyral
 
-![spyral](./MARKDOWNS/MEDIA/media/image3.png){width="2.0340277777777778in" height="1.2583333333333333in"} 
-
-*Figure 3 Voyant Export Panel and the Resulting Code Cell and Trends Panel*
+![Spyral](image3.png "Figure 3: Voyant Export Panel and the Resulting Code Cell and Trends Panel"){  } 
 
 Spyral Notebook is a web-based notebook environment used primarily for humanities digital text analysis research. The notebooks are designed to work in tandem with Voyant Tools. This design integration makes it easy for users to load and clean their data because Spyral uses the existing data (an uploaded corpus) from Voyant; the user need only load their corpus into Voyant using JavaScript and the data is readily accessible. This also makes it easy to create Spyral notebooks because one can export a Spyral notebook from any Voyant panel. The exported notebook will have the code that then regenerates the panel exported. This way you can create a notebook with significant results and then add documentation (text cells) explaining your process. It means that you can document and share a research project carried out in Voyant with all the thinking-through, code, and results in one place for others to try. As Spyral extends Voyant, the panels are fully functional dynamic Voyant panels. What is different is that they are now embedded in a notebook with documentation instead of being in a single view.
 
@@ -77,15 +75,12 @@ Another benefit of Spyral notebooks is that they run on the Voyant server and ar
 
 The downside of an in-browser environment is that you don’t have as powerful an integrated development environment (IDE) as you might have with a purpose-built development application, such as you have with Mathematica. Despite this, the advantages of working off a server through the browser is that it allows the novice user to better understand the platform. Users create notebooks by managing a series of text cells and code cells much as they would in other web authoring environments like WordPress. In Figure 4 you can see the buttons to the left of the code cell that you see when you roll over the area. These buttons let you create a new cell, run code in the cell, run multiple cells, and access settings for the cell. Building up a notebook is as simple as creating cells and filling them with text or code and then running the code cells to get interactive Voyant panels like the ScatterPlot panel visible in Figure 4.
 
-![Graphical user interface, text, application Description automatically generated](./MARKDOWNS/MEDIA/media/image5.png){width="3.178472222222222in" height="2.26875in"}
-
-*Figure 4: Spyral Notebook showing text, code and output cells*
+![Graphical user interface, text, application Description automatically generated](image5.png "Figure 4: Spyral Notebook showing text, code and output cells"){ }
 
 Spyral Notebook provides powerful collaborative and sharing possibilities. Notebooks can be shared by giving individuals a URL that links to the notebook. When a new user opens the notebook, they do not need to set up anything on their personal machine to view and run the notebook. In order to “fork” the notebook, a new user only needs to save the notebook with a new name and a new URL will be generated. Notebooks are password protected, meaning that no changes can be made to an existing notebook without password sharing. Notebooks in Spyral can also serve as an open publishing tool, making it easy to share not only the results of a digital humanities inquiry but also the code and process behind the project.
 
-![covid](./MARKDOWNS/MEDIA/media/image6.png){width="5.399305555555555in" height="2.6909722222222223in"}
+![Spyral notebook for a project studying COVID-19 discourse](image6.png "Figure 5: Spyral notebook for a project studying COVID-19 discourse in Alberta"){ }
 
-*Figure 5: Spyral notebook for a project studying COVID-19 discourse in Alberta*
 
 One real example can be seen in Figure 5. Here you can see a published notebook developed for a CIFAR-funded project to look at discourse around COVID-19 in Alberta, Canada.[^4] The larger project involves a large team of medical researchers, digital humanities researchers, and computing scientists. The notebook allows useful configurations of tools, queries, and results to be saved and documented. It provides a commons for team members to search the different corpora with different tools in Voyant. Furthermore, it provides a useful publishing tool for making the results of this inquiry easily accessible.
 
@@ -99,9 +94,8 @@ Spyral was designed by Stéfan Sinclair to support collaborative or social text 
 
 As mentioned above, in Spyral notebooks are created as an extension of Voyant on the Voyant server. This is another way they can be social. They are by default meant to be accessible by others rather than on your laptop so as to encourage collaboration and adaptation. Currently one of the features in development in Spyral is a catalogue that allows users to view highlighted notebooks created by other users (see Figure 6). The catalogue feature allows users to sort notebooks by keyword and to find notebooks by others that might be of interest. If you want tutorial notebooks and learn by working through examples curated by other notebook authors, you can easily find such tutorials, fork them, and work through them yourself.
 
-![](./MARKDOWNS/MEDIA/media/image7.png){width="5.995138888888889in" height="3.563888888888889in"}
+![Spyral notebook catalogue](image7.png "Figure 6: Spyral notebook catalogue"){ }
 
-*Figure 6: Spyral notebook catalogue*
 
 Further, Spyral allows you to build on the notebooks of others. You can run a notebook on your own content, you can fork a notebook to adapt it, and you can import other notebooks into your notebook so you inherit their functionality. In this way, Spyral highlights and elucidates the coding behind Voyant and makes more transparent the ways in which Voyant functions. We hope such an open collaborative design will make it well suited to teaching and learning, one of the more important social configurations of the academy (see Sherratt 2021 and Dombrowski 2020).
 
@@ -132,11 +126,10 @@ For a comprehensive list of currently available introductory notebooks, see belo
 
 ## Next Steps
 
-The “Philosopher in Meditation” has a third figure that has disappeared with age that you can see in the dark of the spiral staircase in older replications. There, going up the spiral stairs is a ghostly figure facing us that has been obscured by the aging varnish. It shows up in this 19^th^ century engraved reproduction (see Wikipedia 2021).
+The “Philosopher in Meditation” has a third figure that has disappeared with age that you can see in the dark of the spiral staircase in older replications. There, going up the spiral stairs is a ghostly figure facing us that has been obscured by the aging varnish. It shows up in this 19<sup>th</sup> century engraved reproduction (see Wikipedia 2021).
 
-![](./MARKDOWNS/MEDIA/media/image8.png){width="2.6958333333333333in" height="2.70625in"}
+![Detail of Engraving](image8.png "Figure 7: Detail of Engraving Reproducing Original"){ }
 
-*Figure 6 Detail of Engraving Reproducing Original*
 
 This third figure turns to look at us as if waiting for us to follow her. If the painting was meant to be Tobit and Anna, then it could be Anna waiting for their son. Or it could be Philosophy herself inviting us into the consolation of meditation. Perhaps the spiral on which she stands is drawn from the light of the books and sun from the window and also from the artificial fire of technology. The steps are the cells of coding and writing working their way up. Steps we are invited to ascend.
 
@@ -144,6 +137,7 @@ Coming back down, let us conclude by noting that Spyral implements an emerging p
 
 Development is now carrying on with support from the LINCS project led by Susan Brown and supported by CFI.[^5] Spyral is being enhanced for researchers who want to use linked open data to enhance their analysis of texts. A second next step supported by Social Sciences and Humanities Research Council (SSHRC) is a speculative design project to prototype how Voyant and Spyral can be used by groups of people together before a datawall or around a touch-table.
 
+## {.spacer}
 
 <div style="text-align: center;" markdown="1"> 
 
@@ -154,7 +148,7 @@ https://csdh-schn.org/stefan-sinclair-in-memoriam-2/
 
 </div>
 
----
+## {.spacer}
 
 <div class="refs" markdown="1">
 

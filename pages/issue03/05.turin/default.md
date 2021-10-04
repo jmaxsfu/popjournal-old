@@ -61,7 +61,19 @@ In my capacity as series editor, I work with researchers and staff at Open Book 
 
 ## Ruth Finnegan’s *Oral Literature in Africa*
 
+![OBP's webpage for Ruth Finnegan’s Oral Literature in Africa](OralLitinAfrica.png "Figure 1: OBP's webpage for Ruth Finnegan's <i>Oral Literature in Africa</i>")
+
 To illustrate the World Oral Literature series’s commitment to responsive, ethical, and culturally appropriate publishing, I offer a short story about the inaugural publication in our series. Ruth Finnegan’s *Oral Literature in Africa* was first published in 1970 by Oxford University Press and gained immediate international recognition as one of the most important books in the field. At the time, Ruth Finnegan hand-carried a few copies of the book to share with colleagues and universities in Africa. Before long, the book was out of print. Forty years later, we worked with Open Book Publishers to secure the rights and to re-release an updated edition (with multimedia content) so that Finnegan’s ground-breaking research would be available to the next generation of scholars.
+
+
+![](readership.png "Figure 2: Readership for <i>Oral Literature in Africa</i>")
+
+![](downloads.png "Figure 3: Download stats for <i>Oral Literature in Africa</i>")
+
+![](distribution.png "Figure 4: Access distribution for <i>Oral Literature in Africa</i>")
+
+
+
 
 Over the past eight years, this fully open access and revised edition of *Oral Literature in Africa* has been accessed by over 200,000 readers in over 188 different countries. There have also been some modest hardcopy sales, all of which are printed on demand and shipped. The key takeaway from this story is this: thanks to the accessibility afforded by open access publishing, *Oral Literature in Africa* has now been accessed and downloaded more in Africa than in any other continent—something unimaginable when it was first published half a century ago. This publication demonstrates how scholarship can flourish when publishing has ethical knowledge dissemination at its centre, as opposed to profit. The goal of the World Oral Literature series is to make publications like *Oral Literature in Africa* more widely available, particularly to the communities whose cultures and languages are the focus, and to explore innovative and culturally appropriate ways of disseminating oral narratives through new forms of networked media.
 
