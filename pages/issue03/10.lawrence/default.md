@@ -37,9 +37,9 @@ The proliferation in research publishing is a response to the huge investment in
 
 Drilling down beyond the sector level, what kinds of organizations and companies are involved in producing research publications in Australia? Figure 1 maps the various types of organizations engaged in publishing across the R&D system in Australia with examples to give a sense of the scale and diversity of participants. I take a broad definition of organisations based on ABS classifications to cover legal entities that may be public, private, or not-for-profit. Although this model shows the variety of organizations involved, it is important to note that it also simplifies the landscape, leaving out many hybrid institutions and collaborative centres and networks working across multiple sectors that are often significant research publishers.
 
-Figure 1: Types of research publishing organizations across four sectors of the R&D system in Australia
 
-![Text Description automatically generated with medium confidence](./MARKDOWNS/lawrence/media/image1.png){width="5.877083333333333in" height="4.444444444444445in"}
+
+![Publishing organizations across four sectors](image1.png "Figure 1: Types of research publishing organizations across four sectors of the R&D system in Australia"){ }
 
 As Figure 1 shows, within each sector there are diverse categories of organization ranging from small charities to global consulting firms, think tanks to government agencies. How best to describe the outputs of this complex evidence ecosystem? This requires new language for defining and classifying research publishing. Publications produced by organizations not considered to be publishers are often referred to as unpublished, non-published, or grey literature (Farace and Schopfel 2010; Mahood et al 2014). Even reports from the World Health Organisation (WHO) or UNESCO may be described this way. This language may have been suitable prior to the internet, but it makes little sense today when the internet provides a global publishing platform for any kind of media producer. Without appropriate terminology for this diverse publishing ecosystem, it is overlooked and often not managed effectively and efficiently with appropriate standards and infrastructure to ensure resources are discoverable and accessible. Therefore, we need to review our understanding of what publishing means and clarify the terms used in order to provide a model for the system as a whole.
 
@@ -185,9 +185,8 @@ The publishing of market intelligence products and services or market research p
 
 Figure 2 illustrates how these overlapping elements relate to each other and combine to constitute the research communication system.
 
-Figure 2. A model of research publishing typologies
 
-![Diagram Description automatically generated](./MARKDOWNS/lawrence/media/image2.png){width="4.504861111111111in" height="3.8048611111111112in"}
+![Research publishing typology](image2.png "Figure 2. A model of research publishing typologies"){ }
 
 The distinctions between these categories can be blurry, and there are many overlaps, hybrids, and anomalies that do not fit easily into this typology, and practices that fall under more than one heading. The WHO, for example, is an international NGO that publishes a huge range of materials in-house—its online repository, IRIS, lists over 15,000 items, including reports, technical documents, bulletins, guidelines, and factsheets—it has a dedicated data platform, and nine peer-reviewed academic journals that are fully indexed in commercial academic databases. Using the research publishing terminology outlined here, we can say that WHO operates as an organization-based research publisher, a non-profit academic publisher, and also has work published via commercial academic publishers. While overlaps and border crossings are inevitable—and welcome—I believe that these categories are more useful than referring to grey, black, or white literature for describing and understanding the different ways publications are produced and circulate in society. I hope that this approach might provide a more systematic way to describe the bibliodiversity that exists and then move towards new ways to effectively manage this diversity in the public interest.
 
