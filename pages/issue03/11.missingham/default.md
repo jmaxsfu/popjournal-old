@@ -31,9 +31,7 @@ The established practice for dissemination of theses has been for a very small n
 
 This article takes the metaphor of Queen Boadicea (pronounced as bow·duh·see·uh) and her leadership in a series of battles that contributed to the expulsion of the Romans from Britain (Hingley and Unwin 2006). As a cultural icon, she represents the rallying of people to overthrow the yoke of tyranny. Her military campaign was a protest against the destruction brought by the Romans including the rape of her daughters after the death of her husband, King Prasutagus, who had sought to protect his family through forming an alliance with the Romans. It was also a protest against the slavery imposed on the Celts by the Romans. The rebellion characterized the importance of the freedom of the people and the need for personal liberty. Open scholarship is fundamentally a concept that aims to provide scholars with the freedom and responsibility for their research outputs, with the dissemination role of libraries creating a stage for the new battle. As Boadicea emerges from the London fog in ethereal battle, so theses had come to their time to emerge from the dark shelves of libraries and emerge into the new scholarly world.
 
-![00_main.jpg](./MARKDOWNS/missingham/media/image1.jpeg){width="3.3205238407699036in" height="2.0520833333333335in"}
-
-Image 1. Postcard of Thomas Thornycroft's statue Boadicea and Her Daughters. C. (Anon 1907)
+![Thomas Thornycroft's Boadicea](image1.jpeg "Image 1. Postcard of Thomas Thornycroft's statue <i>Boadicea and Her Daughters</i>. C. (Anon 1907)"){ }
 
 ## Communication of Research: An Evolution
 
@@ -72,9 +70,8 @@ Theses are increasingly being made available in digital form through digitizatio
 
 The majority of universities have commenced retrospective digitization of theses, see chart 1. Some, such as Edith Cowan University and the Australian National University, have digitized all of the theses of their university.
 
-[\[CHART\]]{.chart}
+![Australian and New Zealand university thesis digitization projects](chart1.png "Chart 1. Australian and New Zealand university thesis digitization projects")
 
-Chart 1. Australian and New Zealand university thesis digitization projects
 
 The move to digital theses and open access has been part of a strong movement within Australia. There has been no opposition from communities although concerns have been discussed with academics over the past decades.
 
@@ -92,21 +89,20 @@ Changing the behaviour of the actors within the scholarly information system is 
 
 While all Australian universities are committed to make theses openly accessible in digital form, it is still in the early days. The reality of open access for theses is that there is a high variability of theses that are openly available (see chart 2). The major factors limiting open access are the degree to which there has been retrospective digitization of theses and the processes within university libraries where some are using old processes that do not allow open access efficiently. The chart records the percentage of theses in each university that are openly available in digital form. The gap, or percentage that are not open, are theses which are only available in print. Some theses are digitized and not openly available (this is a very small proportion).
 
-[\[CHART\]]{.chart}
+![Percentage of Australian theses openly accessible](chart2.png "Chart 2. Percentage of Australian theses openly accessible (2018)")
 
-Chart 2. Percentage of Australian theses openly accessible (2018)
 
 The more research-intensive universities tend to have a lower proportion of theses that are available openly, primarily due to availability of resources for digitization projects.
 
-[\[CHART\]]{.chart}
+![Percentage of theses openly accessible](chart3.png "Chart 3. Australian research universities (Group of Eight) percentage of theses openly accessible.")
 
-Chart 3. Australian research universities (Group of Eight) percentage of theses openly accessible.
+
 
 Taking the metaphor of Queen Boadicea, the road to change is complex and progress has been highly varied meeting opposition along the journey. Theses have been a significant resource within library collections in the days of print, to a degree the fundamental flagstones of research on a path that has been little trod. With the transformation of the scholarly ecosystem to digital and open access, making these resources visible has arguably enabled the establishment of a foothold on the battleground of scholarship.
 
-![Picture](./MARKDOWNS/missingham/media/image2.jpeg){width="3.59375in" height="2.769169947506562in"}
+![province map of Roman Britain A.D. 60-61](map1.jpeg "Map 1. Anon. *The province map of Roman Britain A.D. 60-61: The Boudican revolt*. ")
 
-Map 1. Anon. *The province map of Roma Britain A.D. 60-61: The Boudican revolt*. (Anon n.d.)
+
 
 ## Impact
 
@@ -116,15 +112,14 @@ Digital theses are made available through institutional repositories in universi
 
 The comparison of readership of theses before and after digitization and open access at the Australian National University is telling. The average reading of theses before digitization was low: 0 per year. The average readership grew after digital access was enabled. Full digitization resulted in a significant increase in use—the entire collection experienced an average of 239 downloads per thesis in 2019. Proportionally, the number of theses in the research collection is small, but the impact is enormous. Theses represent approximately 12% of the collection (Australian National University 2021); however, more than 40% of the files downloaded from the repository are theses, demonstrating that there is a significant appetite for deep research content. This is illustrated in chart 4.
 
-[\[CHART\]]{.chart}
+![Downloads and views of theses and non-theses](chart4.png "Chart 4. Downloads and views of theses and non-theses in the Research collection in the ANU Research repository in 2020.")
 
-Chart 4. Downloads and views of theses and non-theses in the Research collection in the ANU Research repository in 2020.
 
 Digital access also results in significant international reach (chart 5).
 
-[\[CHART\]]{.chart}
+![Downloads of theses](chart5.png "Chart 5. Australian National University downloads of theses 2020 by country")
 
-Chart 5. Australian National University downloads of theses 2020 by country
+
 
 Statistics from 2020 also revealed the humanities and social science theses were more significantly read than science theses as demonstrated in Table 3.
 
@@ -157,9 +152,8 @@ There has been a significant change to the impact of theses in terms of increase
 
 A true transformation of the thesis into an actively engaged research output contributing to a world-wide ecosystem gives the opportunity to rethink both the value of the thesis and how university processes can more effectively result in openly accessible theses. The complexities of processes within universities are legendary and have at times contributed to delays in the deposit of theses. At the Australian National University, a mapping of customer journey identified many roadblocks and disconnected systems.
 
-![](./MARKDOWNS/missingham/media/image3.emf){width="6.268055555555556in" height="3.5284722222222222in"}
+![Mapping the PhD student journey](image2.jpeg "Image 2. Mapping the PhD student journey.")
 
-Image 2. Mapping the PhD student journey.
 
 A major project to improve PhD students’ progress has resulted in an integrated workflow that ensures students are able to clearly work through their research journey. The resulting system also ensures that the thesis is automatically deposited in the repository. A detailed video outlines the rapid improvement event held to scope the project (Australian National University 2017). Rethinking the nature of thesis production and dissemination provides a concrete way to better join the thesis to the scholarly landscape.
 
@@ -167,9 +161,9 @@ While universities use a range of processes to create openly accessible theses, 
 
 ## Barriers to Joining the Battle
 
-![File:Boadicea, Brecon, by John Thomas.jpg](./MARKDOWNS/missingham/media/image4.jpeg){width="1.576576990376203in" height="2.9147200349956255in"}
+![Statue of Boadicea and her daughters, Brecon](image3.jpeg "Image 3. Statue of Boadicea (Boudica) and her daughters, Captains Walk, Brecon (Thomas 2018)")
 
-Image 3. Statue of Boadicea (Boudica) and her daughters, Captains Walk, Brecon (Thomas 2018)
+
 
 The road to the open fields of new scholarly communication is complex with researchers raising concerns about the impact on future publishing, economics, and the control of knowledge. This part of the journey has seen difficult battles where research has been vital to removing the fog around many issues.
 
@@ -187,9 +181,8 @@ A study of academics at the Australian National University has addressed the myt
 
 Signficantly the income received by academic authors is very low, regardless of the format of publication (chart 6).
 
-[\[CHART\]]{.chart}
+[ANU payment received by authors](chart6.png "Chart 6. Australian National University academics: payment received by authors")
 
-Chart 6. Australian National University academics: payment received by authors
 
 In summary, research has identified that making theses available via open access does not prevent future publishing with scholarly publishers and that income from publishing for academics is very low. Scholars retain control of their knowledge through being able to obtain embargoes should there be commercial requirements, such as a patent, or should there be sensitivities about data, for example if there is content that needs to be restricted for Indigenous cultural rights issues. For theses, the concept of pay-to-publish is significant as authors may receive some revenue from subscription services such as ProQuest Digital Theses and a major concern about open access publishing of theses is that it will reduce future revenue.
 
@@ -209,9 +202,7 @@ To conclude, history records Boadicea’s words to her army as:
 
 Liberating theses from their ancestral home in library vaults promises similarly to overcome ignorance, together with the opportunity through open access, to enable communities to benefit overcoming the boundaries of paywalls. While significant work remains occur to digitise and make all theses accessible, particular in large research libraries, the battle has commenced although the war, like that of Boadicea, has yet to be won.
 
-![C:\\Users\\u1428539\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\EEB66390.tmp](./MARKDOWNS/missingham/media/image5.png){width="3.4030205599300087in" height="3.7916666666666665in"}
-
-Image 3. John Opie’s Boadicea Haranguing the Britons (called Boudicca) (Boadicea (Sharp 1983)
+![John Opie’s Boadicea Haranguing the Britons](image4.png "Image 4. John Opie’s <i>Boadicea Haranguing the Britons (called Boudicca, or Boadicea)</i> (Sharp 1983)")
 
 <div class="refs" markdown="1">
 

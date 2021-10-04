@@ -17,7 +17,7 @@ abstract: "Research publishing involves the production, use and management of re
 ---
 
 
-
+![Book covers](covers.png)
 
 Research publishing involves the production, use, and management of research in a variety of genres and formats by commercial and non-profit academic publishers, and by many other organizations in government, civil society, university, and industry sectors. Although often considered primarily in terms of academic journals and books, many other genres, including research reports, conference papers, policy briefs, discussion papers, literature reviews, data sets, and visualisations, are regularly produced as to disseminate research findings. Research reports and papers produced by diverse organizations outside the formal publishing system play a critical role in research and development (R&D), innovation, and public policy, yet they are often overlooked (MacDonald et al. 2016). This is reflected in the terms used to describe them, such as “grey literature,” “unpublished literature,” or “non-traditional research outputs.” Peer-reviewed academic journals and, to a lesser extent, books produced by commercial academic publishers have come to dominate scholarly communication to the point where other genres are excluded or ignored in both analysis and practice. This is partly due to the lack of adequate terminology to describe various publishing practices. In this paper I provide an overview of the diverse genres and producers involved in publishing research and suggest new terminology that may allow a holistic, systems-oriented approach to analysing research publishing, which takes into account the spectrum of formal and informal, commercial and non-commercial publishing economies.
 
