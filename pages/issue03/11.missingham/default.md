@@ -124,7 +124,7 @@ Digital access also results in significant international reach (chart 5).
 Statistics from 2020 also revealed the humanities and social science theses were more significantly read than science theses as demonstrated in Table 3.
 
 
-<div class="bordertable" markdown="1">
+<div class="bordertable alternating" markdown="1">
 
 
 | Item Name | File | Downloads | 

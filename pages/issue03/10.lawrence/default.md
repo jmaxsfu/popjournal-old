@@ -84,15 +84,15 @@ I would argue that while useful in certain contexts, none of these terms can be 
 <table cellspacing="0" cellpadding="0" class="t1">
   <tbody>
     <tr>
-      <td valign="top" class="td1">
+      <th valign="top" class="td1">
         <p class="p2"><b>Research publishing category</b></p>
-      </td>
-      <td valign="top" class="td1">
+      </th>
+      <th valign="top" class="td1">
         <p class="p2"><b>Subcategories</b></p>
-      </td>
-      <td valign="top" class="td1">
+      </th>
+      <th valign="top" class="td1">
         <p class="p2"><b>Main formats/genres produced</b></p>
-      </td>
+      </th>
     </tr>
     <tr>
       <td valign="top" class="td1">

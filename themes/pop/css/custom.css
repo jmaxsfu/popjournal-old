@@ -399,7 +399,9 @@ table {
 }
 th {
     text-align: left;
-    font-size: 115%; font-weight: 600;
+    font-size: 100%; font-weight: 400;
+    padding: 0 0.2rem;
+
 }
 td, th { vertical-align: top; }
 
@@ -412,6 +414,9 @@ div.bordertable table td {
     border: 1pt grey solid;
     padding: 0 0.2rem;
 }
+
+div.bordertable table tr:nth-child(odd) {background: #ddd}
+div.bordertable table th {background: #333; color:  #eee}
 
 /* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
 IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
