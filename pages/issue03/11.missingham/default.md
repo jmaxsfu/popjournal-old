@@ -284,5 +284,5 @@ Wulf, Karin and Seth Denbo. 2019. “A Brief History of History Responding to Op
 
 </div>
 
-[^1]: Australian University required hardcopy and digital deposit.
+[^1]: Only one university required hardcopy and digital deposit.
 
