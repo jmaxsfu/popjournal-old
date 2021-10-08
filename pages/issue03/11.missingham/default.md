@@ -21,7 +21,7 @@ abstract: "Theses are an extraordinarily significant part of the scholarly ecosy
 
 Universities have a vital role in contributing to the knowledge of communities and individuals. While the history of universities in western civilization traces to the Middle Ages (Hunt 2008), the concept of a knowledge product in the form of a thesis is a nineteenth-century development. Doctorates (PhDs or Doctors of Philosophy) were introduced in Great Britain in 1917 and have since become ‘‘academic passport with international reciprocity’’ (Noble 1994, 120).
 
-The nature of the PhD and production of the thesis has been a topic of international discourse. As the diversity of PhDs has increased, for example with thesis by publication and industry programs, debate has focused on the nature of the PhD, the needs of stakeholders, effect on employment, and the nature of PhD research in the economy (well summarized in Park 2007). Overall the significant increase in expectations of employers and students is framed within changing expectations of the transmission of knowledge (McCarthy and Wienk 2012). Traditional boundaries around research and theses are merging with industry requirements.
+The nature of the PhD and production of the thesis has been a topic of international discourse. As the diversity of PhDs has increased, for example with thesis by publication and industry programs, debate has focused on the nature of the PhD, the needs of stakeholders, effect on employment, and the nature of PhD research in the economy (well summarized in Park 2007). Overall the significant increase in expectations of employers and students is framed within changing expectations of the transmission of knowledge (McCarthy and Wienk 2019). Traditional boundaries around research and theses are merging with industry requirements.
 
 The pinnacle in the PhD journey is the creation of an original contribution to knowledge. This is, however, a focused journey: “A PhD is a stepping stone into a research career. All you need to do is to demonstrate your capacity for independent, critical thinking. That’s all you need to do. A PhD is three years of solid work, not a Nobel Prize” (Mullins and Kiley 2002, 386).
 
@@ -248,7 +248,7 @@ King, Donald W. and Frances M. Alvarado-Albertorio. 2008. “Pricing and Other M
 
 Maron, Nancy L., Mulhern, Christine, Rossman, Daniel and Kimberly Schmelzinge. 2016. *The Costs of Publishing Monographs: Toward a Transparent Methodology*. New York, IthakaS+R. [https://sr.ithaka.org/publications/the-costs-of-publishing-monographs/](https://sr.ithaka.org/publications/the-costs-of-publishing-monographs/)
 
-McCarthy, Paul X. and Maaike Wienk. 2012. *Advancing Australia’s Knowledge Economy: Who Are the Top PhD Employers?* Melbourne: Australian Mathematical Sciences Institute & CSIRO Data61 Australian Mathematical Sciences Institute. [https://s3-ap-southeast-2.amazonaws.com/production-ribit-wordpress/wordpress/wp-content/uploads/2019/Advancing_Australia%E2%80%[99s_Knowledge_Economy.pdf]()?utm_source=user_employer&utm_medium=email&utm_campaign=20190501_REPORT%20DOWNLOAD&utm_content=blog](https://s3-ap-southeast-2.amazonaws.com/production-ribit-wordpress/wordpress/wp-content/uploads/2019/Advancing_Australia%E2%80%[99s_Knowledge_Economy.pdf]()?utm_source=user_employer&utm_medium=email&utm_campaign=20190501_REPORT%20DOWNLOAD&utm_content=blog)
+McCarthy, Paul X. and Maaike Wienk. 2019. *Advancing Australia’s Knowledge Economy: Who Are the Top PhD Employers?* Melbourne: Australian Mathematical Sciences Institute & CSIRO Data61 Australian Mathematical Sciences Institute. [https://amsi.org.au/wp-content/uploads/2019/04/advancing_australias_knowledge_economy.pdf](https://amsi.org.au/wp-content/uploads/2019/04/advancing_australias_knowledge_economy.pdf)
 
 McMillan, Gail, Ramirez, Marisa L., Dalton, Joan, Read, Max and Nancy H. Seamans. 2011 “An Investigation of ETDs as Prior Publications: Findings from the 2011 NDLTD Publishers ’ Survey”. Paper presented at the 14th International Symposium on Electronic Theses and Dissertations, Cape Town, South Africa. S.l.: NLDT conference. [https://vtechworks.lib.vt.edu/handle/10919/11338](https://vtechworks.lib.vt.edu/handle/10919/11338)
 
@@ -262,21 +262,23 @@ National Health and Medical Research Council. 2017. *Open Access Policy*. Canber
 
 Noble, Keith Allan. 1994. *Changing Doctoral Degrees: An International Perspective.* Buckingham: SRHE and Open University Press.
 
-Park, Chris. 2007. *Redefining the Doctorate*. London: Higher Education Academy. [https://www2.le.ac.uk/departments/doctoralcollege/about/external/publications/redefining-the-[doctorate.pdf]()](https://www2.le.ac.uk/departments/doctoralcollege/about/external/publications/redefining-the-[doctorate.pdf]())
+Park, Chris. 2007. *Redefining the Doctorate*. London: Higher Education Academy. [https://eprints.lancs.ac.uk/id/eprint/435/1/RedefiningTheDoctorate.pdf](https://eprints.lancs.ac.uk/id/eprint/435/1/RedefiningTheDoctorate.pdf)
 
-Pinfield, Stephen , Wakeling, Simon, Bawden, David and Lyn Robinson. (2020) *Open Access in Theory and Practice: the Theory-Practice Relationship and Openness.* Milton Park, Abingdon, Oxon; New York, NY: Routledge. [https://library.oapen.org/bitstream/handle/20.500.12657/39922/[9780367227852_text.pdf]();jsessionid=75A82D1C858950439B6CCFCBA703A1A4?sequence=1](https://library.oapen.org/bitstream/handle/20.500.12657/39922/[9780367227852_text.pdf]();jsessionid=75A82D1C858950439B6CCFCBA703A1A4?sequence=1)
+Pinfield, Stephen, Simon Wakeling, David Bawden, and Lyn Robinson. (2020) *Open Access in Theory and Practice: the Theory-Practice Relationship and Openness.* Milton Park, Abingdon, Oxon; New York, NY: Routledge. [https://library.oapen.org/handle/20.500.12657/39922](https://library.oapen.org/handle/20.500.12657/39922)
 
 Plan S. 2020. *Making Full and Immediate Open Access a Reality.* Strasbourg, France: Plan S. [https://www.coalition-s.org/](https://www.coalition-s.org/)
 
-Ramirez, Marisa L., Dalton, Joan T., McMillan, Gail, Read, Max and Nancy H. Seamans. 2013. “Do Open Access Electronic Theses and Dissertations Diminish Publishing Opportunities in the Social Sciences and Humanities? Findings from a 2011 Survey of Academic Publishers”. *College & Research Libraries,* 74(4): 368–380. [https://crl.acrl.org/index.php/crl/article/view/16317](https://crl.acrl.org/index.php/crl/article/view/16317)
+Ramirez, Marisa L., Joan T. Dalton, Gail McMillan, Max Read, and Nancy H. Seamans. 2013. “Do Open Access Electronic Theses and Dissertations Diminish Publishing Opportunities in the Social Sciences and Humanities? Findings from a 2011 Survey of Academic Publishers”. *College & Research Libraries,* 74(4): 368–380. [https://crl.acrl.org/index.php/crl/article/view/16317](https://crl.acrl.org/index.php/crl/article/view/16317)
 
 Sharp, William. 1983. *Boadicea Haranguing the Britons (called Boudicca (Boadicea))*. Line engraving after John Opie. [https://www.npg.org.uk/collections/search/portrait/mw56792/Boadicea-Haranguing-the-Britons-called-Boudicca-Boadicea](https://www.npg.org.uk/collections/search/portrait/mw56792/Boadicea-Haranguing-the-Britons-called-Boudicca-Boadicea)
 
-Smart, Scott, Watkinson, Charles, Dunham, Gary and Nicholas Fitzgerald. 2016. “Determining the Financial Cost of Scholarly Book Publishing”. *Journal of electronic publishing Economics of Publishing special issue*. 19 (1). [https://quod.lib.umich.edu/j/jep/3336451.0019.102?view=text;rgn=main](https://quod.lib.umich.edu/j/jep/3336451.0019.102?view=text;rgn=main)
+Smart, Scott, Charles Watkinson, Gary Dunham, and Nicholas Fitzgerald. 2016. “Determining the Financial Cost of Scholarly Book Publishing”. *Journal of electronic publishing Economics of Publishing special issue*. 19 (1). [https://quod.lib.umich.edu/j/jep/3336451.0019.102?view=text;rgn=main](https://quod.lib.umich.edu/j/jep/3336451.0019.102?view=text;rgn=main)
 
 Straumshein, Carl. 2014. “Arguments Over Open Access”. *Inside Higher Ed*. [https://www.insidehighered.com/news/2014/01/06/historians-clash-over-open-access-movement](https://www.insidehighered.com/news/2014/01/06/historians-clash-over-open-access-movement)
 
-Thomas, John. 2018. *Statue of Boadicea (Boudica) and her daughters, Captains Walk, Brecon.* Image taken by 14GTR. S.l.: Wikimedia. [https://commons.wikimedia.org/wiki/File:Boadicea,_Brecon,_by_John_Thomas.jpg](https://commons.wikimedia.org/wiki/File:Boadicea,_Brecon,_by_John_Thomas.jpg)
+Thomas, John. 2018. *Statue of Boadicea (Boudica) and her daughters, Captains Walk, Brecon.* Image taken by 14GTR. S.l.: Wikimedia. 
+[https://en.wikipedia.org/wiki/File:Boadicea,_Brecon,_by_John_Thomas.jpg](https://en.wikipedia.org/wiki/File:Boadicea,_Brecon,_by_John_Thomas.jpg)
+
 
 UK Research Excellence Framework. 2020. *REF 2021.* London: REF. [https://www.ref.ac.uk/](https://www.ref.ac.uk/)
 
