@@ -7,7 +7,7 @@ license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Amanda Lawrence'
   affil: 'RMIT University'
-  email: 'amandasarahlawrence@gmail.com'
+  email: ' amanda.lawrence@rmit.edu.au'
   orcid: '0000-0003-2194-8178'
   bio: 'Dr Amanda Lawrence is an Australian researcher and librarian specialising in open knowledge, research communication and research infrastructure for policy and practice. She is currently Research Fellow, Open Knowledge Systems at RMIT University and Senior Associate at Outside Opinion. Amanda recently completed a PhD in Media and Communications at RMIT University on research publishing and public policy, and she has a Graduate Diploma in Library and Information Management from RMIT and an Arts Degree with Honours from the University of Melbourne. She was Director of Analysis & Policy Observatory (apo.org.au), an award-winning public policy digital library, from 2006 until 2018, securing and managing several large research and infrastructure grants. Other roles include Literature Program Manager at the Asialink Centre, University of Melbourne. Amanda currently serves on the Wikimedia Australia Committee.'
 deck: ''
@@ -70,7 +70,7 @@ Another key term used to describe informal publishing practices is grey literatu
 </div>
 
 
-: Table 1. Publication classification based on the grey literature approach
+Table 1. Publication classification based on the grey literature approach
 
 While grey literature can be useful as a collective term, it also has a number of problems associated with it. The term is poorly defined and often used in conflicting ways—sometimes to refer to very specific types of publications, such as reports from think tanks—but at other times to include everything, even books and journal articles (Paez 2017). The Greynet website lists 161 formats that can be considered grey literature, including articles, reports, policy documents, legislation, databases, and software (Greynet 2020). A tweet and a WHO report may both be produced outside of commercial publishing channels, but is it really useful to call them both grey literature? This has practical implications for how research publications are used and managed, due to confusion about their status and value as research “literature” (Baxter & Hilbrecht 2019). Finally, as a term, grey literature is opaque and obscure, the semantic resonance conveying negative connotations of something shadowy or even illegal. The use of a colour scheme is also highly problematic. Is it still helpful today to use descriptors such as white and grey literature to analyze research publishing practices and business models?
 
@@ -173,7 +173,7 @@ I would argue that while useful in certain contexts, none of these terms can be 
 
 </div>
 
-: Table 2. A new typology for research publishing
+Table 2. A new typology for research publishing
 
 CAP involves the production of research publications, primarily academic journals and monographs, trade non-fiction, and professional publications for financial gain. It features major multinational companies as well as small and medium enterprises (SMEs), scholarly societies and some university presses.
 
