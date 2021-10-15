@@ -90,19 +90,19 @@ The author would like to thank all the partner facilitators who offered their ex
 <div class="refs" markdown="1">
 ## References
 
-Arbuckle, Alyssa. 2020. “How Can We Broaden and Diversify Humanities Knowledge Translation?” *Pop! Public. Open. Participatory* 2. <https://popjournal.ca/issue02/arbuckle>
+Arbuckle, Alyssa. 2020. “How Can We Broaden and Diversify Humanities Knowledge Translation?” *Pop! Public. Open. Participatory* 2. [https://popjournal.ca/issue02/arbuckle](https://popjournal.ca/issue02/arbuckle)
 
-Bartha, Miriam, Megan Carney, Sylvia Gale, Elizabeth Goodhue, and Amy Howard. 2014. “This Bridge Called My Job: Translating, Re-Valuing, and Leveraging Intermediary Administrative Work.” *Public: A Journal of Imagining America*. <https://public.imaginingamerica.org/blog/article/this-bridge-called-my-job-translating-re-valuing-and-leveraging-intermediary-administrative-work/>
+Bartha, Miriam, Megan Carney, Sylvia Gale, Elizabeth Goodhue, and Amy Howard. 2014. “This Bridge Called My Job: Translating, Re-Valuing, and Leveraging Intermediary Administrative Work.” *Public: A Journal of Imagining America*. [https://public.imaginingamerica.org/blog/article/this-bridge-called-my-job-translating-re-valuing-and-leveraging-intermediary-administrative-work/](https://public.imaginingamerica.org/blog/article/this-bridge-called-my-job-translating-re-valuing-and-leveraging-intermediary-administrative-work/)
 
 Cronin, Catherine. 2014. “Networked Learning and Identity Development in Open Online Spaces.” Proceedings of the 9th International Conference on Networked Learning, Edinburgh.
 
-Duquesne University. 2020. “Scholarship as Public Service.” Catholicism and the Common Good. Center for Catholic Faith and Culture. Accessed April 19, 2021. <https://duq.edu/about/centers-and-institutes/center-for-catholic-faith-and-culture/catholicism-and-the-common-good/scholarship-as-public-service->
+Duquesne University. 2020. “Scholarship as Public Service.” Catholicism and the Common Good. Center for Catholic Faith and Culture. Accessed April 19, 2021. [https://duq.edu/about/centers-and-institutes/center-for-catholic-faith-and-culture/catholicism-and-the-common-good/scholarship-as-public-service-](https://duq.edu/about/centers-and-institutes/center-for-catholic-faith-and-culture/catholicism-and-the-common-good/scholarship-as-public-service-)
 
 Ellison, Julie, and Timothy K. Eatman. 2008. *Scholarship in Public: Knowledge Creation and Tenure Policy in the Engaged University*. Syracuse, NY: Imagining America.
 
 Espinosa, Lorelle L. 2018. “Forward.” In *Envisioning Public Scholarship for Our Time: Models for Higher Education Researchers*, edited by Adrianna J. Kezar, Joseph Kitchen and Yianna Drivalas, ix–xi. Sterling, VA: Stylus Publishing.
 
-Fisher, Daniel. n.d. “A Typology of the Publicly Engaged Humanities.” Humanities for All. Accessed September 5, 2020. <https://humanitiesforall.org/essays/five-types-of-publicly-engaged-humanities-work-in-u-s-higher-education>
+Fisher, Daniel. n.d. “A Typology of the Publicly Engaged Humanities.” Humanities for All. Accessed September 5, 2020. [https://humanitiesforall.org/essays/five-types-of-publicly-engaged-humanities-work-in-u-s-higher-education](https://humanitiesforall.org/essays/five-types-of-publicly-engaged-humanities-work-in-u-s-higher-education)
 
 Illich, Ivan. 1971. *Deschooling Society*. New York: Harper and Row.
 
@@ -114,7 +114,7 @@ Kezar, Adrianna J., Zoë Corwin, Joseph Kitchen, and Yianna Drivalas. 2018. “P
 
 Kezar, Adrianna J., Joseph Kitchen, and Yianna Drivalas, eds. 2018. *Envisioning Public Scholarship for Our Time: Models for Higher Education Researchers*. Sterling, VA: Stylus Publishing.
 
-King, Joshua. 2019. “Multiplying Connections, Cutting Carbon: An Experiment in Multi-site, Digitally Linked, Flightless Conferencing.” *Conference Inference* (blog). December 17, 2019. <https://conferenceinference.wordpress.com/2019/12/17/multiplying-connections-cutting-carbon-an-experiment-in-multi-site-digitally-linked-flightless-conferencing-joshua-king/>
+King, Joshua. 2019. “Multiplying Connections, Cutting Carbon: An Experiment in Multi-site, Digitally Linked, Flightless Conferencing.” *Conference Inference* (blog). December 17, 2019. [https://conferenceinference.wordpress.com/2019/12/17/multiplying-connections-cutting-carbon-an-experiment-in-multi-site-digitally-linked-flightless-conferencing-joshua-king/](https://conferenceinference.wordpress.com/2019/12/17/multiplying-connections-cutting-carbon-an-experiment-in-multi-site-digitally-linked-flightless-conferencing-joshua-king/)
 
 Lanford, Michael, and William G. Tierney. 2018. “Reenvisioning Graduate and Early Career Socialization to Encourage Public Scholarship.” In *Envisioning Public Scholarship for Our Time: Models for Higher Education Researchers*, edited by Adrianna J. Kezar, Joseph Kitchen and Yianna Drivalas, 163–178. Sterling, VA: Stylus Publishing.
 
@@ -126,10 +126,10 @@ Miniard, Deidra, Joseph Kantenbacher, and Shahzeen Z Attari. 2020. “Shared Vis
 
 Shaker, Genevieve G, ed. 2015. *Faculty Work and the Public Good: Philanthropy, Engagement, and Academic Professionalism*. New York: Teacher College Press.
 
-Zabin, Serena. 2021. “What is Public Scholarship?”. Center for Community and Civic Engagement. Last Modified 10 May 2021. Accessed May 10, 2021. <https://www.carleton.edu/ccce/faculty/engaged-research-scholarship/what-is-public-scholarship/>
+Zabin, Serena. 2021. “What is Public Scholarship?”. Center for Community and Civic Engagement. Last Modified 10 May 2021. Accessed May 10, 2021. [https://www.carleton.edu/ccce/faculty/engaged-research-scholarship/what-is-public-scholarship/](https://www.carleton.edu/ccce/faculty/engaged-research-scholarship/what-is-public-scholarship/)
 
 
-Zou, Carol. 2019. “Against the Carceral Logic of the University.” *Public: A Journal of Imagining America* 5 (2). <https://public.imaginingamerica.org/blog/article/against-the-carceral-logic-of-the-university/>
+Zou, Carol. 2019. “Against the Carceral Logic of the University.” *Public: A Journal of Imagining America* 5 (2). [https://public.imaginingamerica.org/blog/article/against-the-carceral-logic-of-the-university/](https://public.imaginingamerica.org/blog/article/against-the-carceral-logic-of-the-university/)
 
 
 </div>
@@ -138,16 +138,16 @@ Zou, Carol. 2019. “Against the Carceral Logic of the University.” *Public: A
 
 [^1]: For a wider discussion of ways to value public scholarship for tenure and promotion see the publication of Imagining America’s Tenure Team Initiative, Ellison and Eatman (2008). Currently hosted at the University of California, Davis, Imagining America is a consortium of centres of higher education that value public scholarship. The Tenure Team suggests an expansion of our promotion practices in which community engagement is included in promotional documentation and decisions, community members are included in the peer review process, and public scholars are promoted to full professor.
 
-[^2]: To learn more about Alexandria Lockett’s pedagogy and see course materials, visit her portfolio at <https://www.alexandrialockett.com/>
+[^2]: To learn more about Alexandria Lockett’s pedagogy and see course materials, visit her portfolio at [https://www.alexandrialockett.com/](https://www.alexandrialockett.com/)
 
-[^3]: An example of David Morgen’s podcasting courses can be found at <https://eng101f20.davidmorgen.org/>
+[^3]: An example of David Morgen’s podcasting courses can be found at [https://eng101f20.davidmorgen.org/](https://eng101f20.davidmorgen.org/)
 
-[^4]: Joshua King’s most recent virtual conference, Ecology and Religion in Nineteenth-Century Studies can be accessed at <https://sites.baylor.edu/ecologyreligion/>.
+[^4]: Joshua King’s most recent virtual conference, Ecology and Religion in Nineteenth-Century Studies can be accessed at [https://sites.baylor.edu/ecologyreligion/](https://sites.baylor.edu/ecologyreligion/).
 
-[^5]: To learn more about the conference, visit the International Hopkins Association site: <https://hopkinspoetry.com/>. The organizers have noted that the conference involved presenters and participants from four continents and multiple time zones.
+[^5]: To learn more about the conference, visit the International Hopkins Association site: [https://hopkinspoetry.com/](https://hopkinspoetry.com/). The organizers have noted that the conference involved presenters and participants from four continents and multiple time zones.
 
 [^6]: Francis Fennell’s work on the importance of popular readings of poetry can be found at *Hopkins Quarterly* and *Renascence*.
 
-[^7]: Kayla Shipp’s public humanities projects like the Atlanta Cyclorama and innovative work on *Moby-Dick* and the poetry of Emily Dickinson can be found at <http://kaylashipp.com/work/>. To see how Peter Kindle engages in public service and studies student perception of poverty, visit <http://sites.usd.edu/peter-a-kindle-p/>.
+[^7]: Kayla Shipp’s public humanities projects like the Atlanta Cyclorama and innovative work on *Moby-Dick* and the poetry of Emily Dickinson can be found at [http://kaylashipp.com/work/](http://kaylashipp.com/work/). To see how Peter Kindle engages in public service and studies student perception of poverty, visit [http://sites.usd.edu/peter-a-kindle-p/](http://sites.usd.edu/peter-a-kindle-p/).
 
-[^8]: Rachel Kolb’s public work can be found at *The New York Times, The Atlantic, *and TEDx Stanford. To learn more about her community engagement and disability studies research visit <https://www.rachelrkolb.com/>. To read about Joseph Kantenbacher’s innovative research on climate perception, see Miniard, Kantenbacher, and Attari (2020).
+[^8]: Rachel Kolb’s public work can be found at *The New York Times, The Atlantic, *and TEDx Stanford. To learn more about her community engagement and disability studies research visit [https://www.rachelrkolb.com/](https://www.rachelrkolb.com/). To read about Joseph Kantenbacher’s innovative research on climate perception, see Miniard, Kantenbacher, and Attari (2020).
