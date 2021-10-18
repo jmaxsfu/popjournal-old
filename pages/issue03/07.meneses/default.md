@@ -6,7 +6,7 @@ license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Luis Meneses'
   affil: 'University of Victoria'
-  email: 'ldmm@uvic.amandasarahlawrence'
+  email: 'ldmm@uvic.ca'
   orcid: '0000-0001-8165-3545'
   bio: 'Luis Meneses is a Mitacs Elevate Postdoctoral Fellow and the Assistant Director (Technical Development) of the Electronic Textual Cultures Lab at the University of Victoria. He is a Fulbright scholar, and has served on the Board of the TEI Consortium and on the IEEE Technical Committee on Digital Libraries. His research interests include digital humanities, digital libraries, information retrieval and human-computer interaction. His current research focuses on the development of tools that facilitate open social scholarship.'
 - name: 'Lynne Siemens'
