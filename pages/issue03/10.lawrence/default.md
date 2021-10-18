@@ -69,8 +69,10 @@ Another key term used to describe informal publishing practices is grey literatu
 
 </div>
 
-
+<div class="tablecaption" markdown="1">
 Table 1. Publication classification based on the grey literature approach
+</div>
+
 
 While grey literature can be useful as a collective term, it also has a number of problems associated with it. The term is poorly defined and often used in conflicting ways—sometimes to refer to very specific types of publications, such as reports from think tanks—but at other times to include everything, even books and journal articles (Paez 2017). The Greynet website lists 161 formats that can be considered grey literature, including articles, reports, policy documents, legislation, databases, and software (Greynet 2020). A tweet and a WHO report may both be produced outside of commercial publishing channels, but is it really useful to call them both grey literature? This has practical implications for how research publications are used and managed, due to confusion about their status and value as research “literature” (Baxter & Hilbrecht 2019). Finally, as a term, grey literature is opaque and obscure, the semantic resonance conveying negative connotations of something shadowy or even illegal. The use of a colour scheme is also highly problematic. Is it still helpful today to use descriptors such as white and grey literature to analyze research publishing practices and business models?
 
@@ -169,11 +171,11 @@ I would argue that while useful in certain contexts, none of these terms can be 
     </tr>
   </tbody>
 </table>
-
-
 </div>
 
+<div class="tablecaption" markdown="1">
 Table 2. A new typology for research publishing
+</div>
 
 CAP involves the production of research publications, primarily academic journals and monographs, trade non-fiction, and professional publications for financial gain. It features major multinational companies as well as small and medium enterprises (SMEs), scholarly societies and some university presses.
 

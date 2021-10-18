@@ -394,29 +394,37 @@ ul li {list-style: circle;}
     content: '\f105';
 }
 
-table {
-    font-size: .8rem; 
-}
-th {
-    text-align: left;
-    font-size: 100%; font-weight: 400;
-    padding: 0 0.2rem;
 
+
+table {}
+
+td, th { 
+    vertical-align: top; text-align: left;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.9rem; line-height: 1.3rem;
 }
-td, th { vertical-align: top; }
 
 div.bordertable table {
-    font-size: 1rem; line-height: 1.4rem;
     width: 100%;
-    margin: 1.5rem 0 0 0 ;
-}
-div.bordertable table td {
-    border: 1pt grey solid;
-    padding: 0 0.2rem;
+    margin: 1.5rem 0 0 0;  /* bottom tight for caption */
+    font-family: motiva-sans; 
 }
 
-div.bordertable table tr:nth-child(odd) {background: #ddd}
-div.bordertable table th {background: #333; color:  #eee}
+div.bordertable table th { background: #333; color:  #eee; font-weight: 400;}
+div.bordertable table td { border: 1pt grey solid; }
+
+div.stripes table tr:nth-child(odd) {background: #eee}
+
+div.tablecaption {
+        font-size: .95rem; padding: 0 2rem;
+}
+
+
+table p { margin-top: .2rem; text-indent: 0; }
+
+
+
+
 
 /* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
 IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */

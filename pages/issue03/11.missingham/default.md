@@ -51,7 +51,7 @@ Digital environments are a characteristic of modern scholarly publishing and com
 
 A 2018 survey of Australian and New Zealand universities found that the digital revolution was extensive (Missingham 2018). All respondents indicated that theses must be deposited in digital form with their university library as recorded in table 1:
 
-<div class="bordertable" markdown="1">
+<div class="bordertable stripes" markdown="1">
 
 |  Country        | Respondents with mandatory digital deposit  |
 |---------------------------------------------------------------| 
@@ -60,8 +60,9 @@ A 2018 survey of Australian and New Zealand universities found that the digital 
 
 </div>
 
-Table 1. Digital deposit of theses 2018[^1]
-
+<div class="tablecaption" markdown="1">
+Table 1. Digital deposit of theses 2018<sup id="fnref1:1"><a href="#fn:1" class="footnote-ref">1</a>
+</div>
 
 
 Theses are increasingly being made available in digital form through digitization projects. In Australia clause S 51 (2) of the Copyright Act 1968 allows the libraries to copy and communicate theses including in digital form:
@@ -124,7 +125,7 @@ Digital access also results in significant international reach (chart 5).
 Statistics from 2020 also revealed the humanities and social science theses were more significantly read than science theses as demonstrated in Table 3.
 
 
-<div class="bordertable alternating" markdown="1">
+<div class="bordertable stripes" markdown="1">
 
 
 | Item Name | File | Downloads | 
@@ -142,9 +143,9 @@ Statistics from 2020 also revealed the humanities and social science theses were
 
 </div>
 
-
-
+<div class="tablecaption" markdown="1"> 
 Table 2. Downloads of theses in the ANU repository in 2020 – top 10 downloaded theses.
+</div>
 
 There has been a significant change to the impact of theses in terms of increased citations. Studies of Scopus and Web of Knowledge have explored the nature of citation of theses (Bangani 2018, Gargouri et al 2010, Ferreras-Fernández et al 2016). These studies have found an increased readership of theses is resulting in an acknowledgement of their contribution to scholarly knowledge through citations. For a world transfixed by measures of impact—such as the Australian Excellence in Research for Australia (Australian Research Council 2019) and UK Research Excellence Framework (UK REF 2020)—establishing greater impact and engagement are critical outcomes that have an impact on the recognition of researchers and institutions.
 
