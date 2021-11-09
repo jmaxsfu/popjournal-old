@@ -1,9 +1,8 @@
 ---
 title: 'Building Virtual Community through Digital Scholarship Meetups'
-doi: ''
+doi: '10.54590/pop.2021.003'
 date: 31-10-2021
 license: 'CC BY-SA 2.5 CA'
-author: 
 author: 
 - name: 'Rachel Starry'
   affil: 'University of California Riverside'

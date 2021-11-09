@@ -2,7 +2,7 @@
 title: 'Introduction'
 subtitle: 'Engaging Open Scholarship'
 license: 'CC BY-SA 2.5 CA'
-doi: ''
+doi: '10.54590/pop.2021.001'
 date: 31-10-2021
 author: 
 - name: 'Alyssa Arbuckle'

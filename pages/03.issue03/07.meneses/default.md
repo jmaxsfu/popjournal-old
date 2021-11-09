@@ -1,6 +1,6 @@
 ---
 title: 'Supporting Positive Collaboration in Digital Online Projects'
-doi: ''
+doi: '10.54590/pop.2021.007'
 date: 31-10-2021
 license: 'CC BY-SA 2.5 CA'
 author: 
