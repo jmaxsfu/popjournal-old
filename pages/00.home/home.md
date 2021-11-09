@@ -3,7 +3,7 @@ title: 'Public. Open. Participatory.'
 menu: 'Pop!'
 content:
     items:
-      '@page': '/issue02'
+      '@page': '/issue03'
     order:
       by: default
       dir: asc
@@ -12,15 +12,16 @@ content:
 ---
 
 
-# Current Issue (#2): <br />*Knowledge creation in <br />the 21st Century*
+# Current Issue (#3): <br />*Engaging Open Social Scholarship*
 
-Oct 31, 2020
+November 9, 2021
 
 ### Proceedings from two aligned conferences: 
 
-## *CAPOS 2019 – Knowledge creation in the 21st Century,* in Newcastle, December 2019 
+## *Implementing New Knowledge Environments* (INKE) Partnership, Victoria BC, Dec 8-10, 2020
 
-## *INKE 2020 "Open Scholarship for the 2020s,* in Victoria, January 2020
+## *Canadian-Australian Partnership for Open Scholarship* (CAPOS), U Newcastle, AU, Dec 9-11, 2020
+
 
 ###   &nbsp;
 
