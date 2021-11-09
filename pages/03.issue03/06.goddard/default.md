@@ -1,7 +1,7 @@
 ---
 title: 'Persistent Identifiers as Open Research Infrastructure to Reduce Administrative Burden'
 doi: '10.54590/pop.2021.006'
-date: 31-10-2021
+date: 09-11-2021
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Lisa Goddard'

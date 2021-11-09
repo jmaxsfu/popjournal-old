@@ -2,7 +2,7 @@
 title: 'Digital Theses'
 subtitle: 'A Revolution Through the Lens of Boadicea'
 doi: '10.54590/pop.2021.011'
-date: 31-10-2021
+date: 09-11-2021
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Roxanne Missingham'

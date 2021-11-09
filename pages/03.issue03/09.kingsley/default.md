@@ -1,7 +1,7 @@
 ---
 title: 'A Call to Develop Standards for Those Delivering ‘Research Practice’ Training'
 doi: '10.54590/pop.2021.009'
-date: 31-10-2021
+date: 09-11-2021
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Danny Kingsley'

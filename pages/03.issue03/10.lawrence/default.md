@@ -2,7 +2,7 @@
 title: 'Beyond the Grey Zone'
 subtitle: 'Organization Research Publishing and Bibliodiversity in the Research Communication System'
 doi: '10.54590/pop.2021.010'
-date: 31-10-2021
+date: 09-11-2021
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Amanda Lawrence'
