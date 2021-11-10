@@ -1,7 +1,7 @@
 ---
 title: 'Integrating the Social Media Engine with Large-scale Open Access Repositories'
 subtitle: 'A Discussion'
-doi: '10.48404/pop.2020.04'
+doi: '10.54590/pop.2020.004'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Luis Meneses'

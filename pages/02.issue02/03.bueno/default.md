@@ -1,7 +1,7 @@
 ---
 title: 'Scriptorium'
 subtitle: 'Creating an Open-Access Creative Writing Journal in Brazil'
-doi: '10.48404/pop.2020.03'
+doi: '10.54590/pop.2020.003'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Bernardo Bueno'

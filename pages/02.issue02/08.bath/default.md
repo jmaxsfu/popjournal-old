@@ -2,7 +2,7 @@
 title: 'Building with the Community'
 subtitle: 'Developing digital tools for engaging with the arts in Saskatchewan'
 date: 31-10-2020
-doi: '10.48404/pop.2020.08'
+doi: '10.54590/pop.2020.008'
 license: 'CC BY-SA 2.5 CA'
 author:
 - name: 'Jon Bath'

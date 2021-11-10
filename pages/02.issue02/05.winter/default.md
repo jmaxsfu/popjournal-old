@@ -1,7 +1,7 @@
 ---
 title: 'Foundations for the Canadian Humanities and Social Sciences Commons'
 subtitle: 'Exploring the Possibilities of Digital Research Communities'
-doi: '10.48404/pop.2020.05'
+doi: '10.54590/pop.2020.005'
 date: 31-10-2020
 license: 'CC BY-SA 2.5 CA'
 author: 

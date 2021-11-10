@@ -3,6 +3,7 @@ title: 'Issue Nº3'
 subtitle: "Engaging Open Social Scholarship"
 pubdate: 09-11-2021
 issuenum: 3
+template: dois
 content:
     items: '@self.children'
     order:

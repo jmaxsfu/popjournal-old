@@ -2,7 +2,7 @@
 title: 'Introduction'
 subtitle: 'Open Scholarship in the 21st Century'
 license: 'CC BY-SA 2.5 CA'
-doi: '10.48404/pop.2020.01'
+doi: '10.54590/pop.2020.001'
 date: 31-10-2020
 author: 
 - name: 'Alyssa Arbuckle'
