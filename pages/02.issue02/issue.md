@@ -3,7 +3,7 @@ title: 'Issue Nº2'
 subtitle: "Knowledge creation in the 21st Century"
 pubdate: 31-10-2020
 issuenum: 2
-template: dois
+template: issue
 content:
     items: '@self.children'
     order:
