@@ -1,6 +1,6 @@
 ---
 title: 'Public-Private Partnerships and the Digitization of the Textual and Cultural Record'
-doi: '10.48404/pop.2020.09'
+doi: '10.54590/pop.2020.009'
 license: 'CC BY-SA 2.5 CA'
 author: 
 - name: 'Tully Barnett'
