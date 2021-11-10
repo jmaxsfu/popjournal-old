@@ -1,0 +1,50 @@
+<!-- ====== This is the crossref registration metadata ======== -->
+<!-- This template gets called by saying template: dois in the 
+     issue.md metadata and constructs a CrossRef-ready XML message 
+     to register all the DOIs -->
+
+<!-- Still to be handled: 
+- first and last names
+ -->
+
+{% for art in page.collection %}
+<!-- ============== --> 
+<journal_article publication_type='full_text'>
+	<titles>
+		<title>{{art.title}}{% if art.header.subtitle %}: {{art.header.subtitle}}{% endif %}</title>
+	</titles>
+	<contributors> 
+{% for au in art.header.author %}
+{% if loop.first %}
+	 <person_name sequence='first' contributor_role='author'>
+			<given_name></given_name>
+			<surname>{{ au.name|e('html') }}</surname>
+{% if au.orcid %}      <ORCID>https://orcid.org/{{ au.orcid|e('html') }}</ORCID>{% endif %} 
+		</person_name>
+{% else %}
+	<person_name sequence='additional' contributor_role='author'>
+			<given_name></given_name>
+			<surname>{{ au.name|e('html') }}</surname>
+{% if au.orcid %}          <ORCID>https://orcid.org/{{ au.orcid|e('html') }}</ORCID>{% endif %} 
+		</person_name>    	
+		    {% endif %}
+{% endfor %}
+  </contributors>
+{% if art.header.abstract %}  <jats:abstract xml:lang='en'>
+     <jats:p>{{ art.header.abstract }}</jats:p>
+     </jats:abstract>
+{% endif %}
+	<publication_date media_type='online'>
+		<month>{{ art.date|date("m") }}</month>
+		<day>{{ art.date|date("d") }}</day>
+		<year>{{ art.date|date("Y") }}</year>
+	</publication_date>
+	<doi_data>
+		<doi>{{ art.header.doi }}</doi>
+		<resource>https://popjournal.ca{{art.url}}</resource>
+	</doi_data>
+</journal_article>
+{% endfor %} 
+
+
+
