@@ -1,0 +1,78 @@
+ @media print
+ {
+
+
+/* BASIC LAYOUT TWEAKS */
+
+.header {
+		content: url('/user/themes/pop/images/POPlogo+tag-BW.png');
+    height: 100pt;
+    border:  0;		margin:  0;
+}
+
+
+	.main-nav {display:  none;}
+  .authorblock .aubio p { display:  none;}
+
+
+	.wrapper { 
+/*		background-image: url('POPlogo+tag-BW.png');
+		background-repeat: no-repeat;
+		background-size: 300px 222px;
+*/		margin: 2rem 3rem; 
+	}
+
+	.pure-u-1, .pure-u-md-1-4, .pure-u-md-3-4, .pure-u-md-6-24 {
+		width: 100%; display: block; margin: 0; height:fit-content;
+	}
+
+  .metadata-block {
+		margin-top: 4rem;  border:  0px black solid;
+	}
+
+  .authorblock p {
+  	display:  inline;
+  }
+
+/* TYPOGRAPHIC TWEAKS */
+
+    h1.title, h1.subtitle {
+        font-size: 1.8rem; font-weight: 300; line-height: 2.25rem; 
+        margin-bottom: 0rem; margin-top: 0rem;
+        display:  inline;
+      }
+    h1.subtitle { font-style: normal; }
+    h1.subtitle:before { content: ": ";}
+
+    div.deck { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
+        margin:0em; color: #FC671F;}
+
+
+.authorblock { margin-bottom: 1rem;}
+.authorblock p { font-size: .9rem !important; }
+.authorblock p.authoremail:before { content: "–";}
+
+
+p.pubdate {margin-top:  1.5rem; }
+
+.authorblock p.author span.auname { border-bottom: 0;}
+p.pubdate span { border-bottom: 0;}
+
+section.articlecontent, .static {
+    font-weight: 400; font-size: .9rem; line-height: 1.5rem;
+    text-align: justify;
+    margin-right: 5rem;   
+ }
+
+
+.metadata-block p {
+    margin-bottom: 0rem; text-indent: 0; 
+}
+
+.footer { 
+	padding:  0 3rem;
+	border-bottom: 0 !important;
+}
+
+}
+

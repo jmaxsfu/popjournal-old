@@ -153,11 +153,12 @@ journal_article {display: none;}
 
 hr {color: #FC671F;}
 
-.footer { margin: 2.6rem 0 0 0; 
+.footer { 
+          padding: 0 7em;
           background-color: #eee;
           border-top: 2px #FC671F solid; 
           border-bottom: 7px #333 solid; 
-          clear: both;  font-size: .9rem;
+          clear: both;  font-size: .8rem;
       }
 
 h2.break {text-align: center; letter-spacing: 0.5em;}

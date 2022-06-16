@@ -61,7 +61,7 @@
 
       <p class="metahead"><span>Citation:&nbsp;</span></p>
       <p>
-      {% for au in header.author %}{% if au.orcid %}<a href="https://orcid.org/{{au.orcid}}" target="_blank">{% endif %}{{ au.name|e('html') }}{% if au.orcid %}</a>{% endif %}, {% endfor %}{{header.date|date("Y")}}. "{{header.title}}{% if header.subtitle %}: {{header.subtitle}}{% endif %}." <i>Pop! Public. Open. Participatory.</i> no. {{page.parent.header.issuenum}} ({{page.parent.header.pubdate|date("Y-m-d")}}). {{base_url_absolute}}{{page.url}}
+      {% for au in header.author %}{% if au.orcid %}<a href="https://orcid.org/{{au.orcid}}" target="_blank">{% endif %}{{ au.name|e('html') }}{% if au.orcid %}</a>{% endif %}, {% endfor %}{{header.date|date("Y")}}. "{{header.title}}{% if header.subtitle %}: {{header.subtitle}}{% endif %}." <i>Pop! Public. Open. Participatory.</i> no. {{page.parent.header.issuenum}}. <a href="https://doi.org/{{header.doi}}">https://doi.org/{{header.doi}}</a>.
       </p>
  
        {% if header.abstract %}<p class="metahead"><span>Abstract:&nbsp;</span></p>{{ header.abstract|markdown }}{% endif %}
