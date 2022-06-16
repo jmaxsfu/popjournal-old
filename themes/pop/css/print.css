@@ -36,16 +36,20 @@
 
 /* TYPOGRAPHIC TWEAKS */
 
-    h1.title, h1.subtitle {
-        font-size: 1.8rem; font-weight: 300; line-height: 2.25rem; 
-        margin-bottom: 0rem; margin-top: 0rem;
-        display:  inline;
-      }
-    h1.subtitle { font-style: normal; }
-    h1.subtitle:before { content: ": ";}
+	#breadcrumbs {
+		font-size: 0.75rem;
+	}
+	
+  h1.title, h1.subtitle {
+      font-size: 1.8rem; font-weight: 300; line-height: 2.25rem; 
+      margin-bottom: 0rem; margin-top: 0rem;
+      display:  inline;
+    }
+  h1.subtitle { font-style: normal; }
+  h1.subtitle:before { content: ": ";}
 
-    div.deck { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
-        margin:0em; color: #FC671F;}
+  div.deck { font-size: 1.3rem; font-weight: 400; line-height: 1.1em;
+      margin:0em; color: #FC671F;}
 
 
 .authorblock { margin-bottom: 1rem;}
