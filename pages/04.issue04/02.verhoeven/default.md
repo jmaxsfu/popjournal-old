@@ -14,16 +14,13 @@ deck: ''
 ---
 
 
-> Todo es puerta
+> *Todo es puerta. 
+todo es puente. 
+Everything is a door. 
+everything is a bridge*. 
 >
-> todo es puente
->
-> Everything is a door
->
-> everything is a bridge
-> 
-> Octavio Paz, *Noche en claro.*  
-> Translation by John M. Fein (2014, 51)
+>Octavio Paz, *Noche en claro.*   
+ Translation by John M. Fein (2014, 51)
 
 
 The global COVID-19 pandemic has, without a doubt, reshaped our perception of the value of closure and openness. Here in Naarm (Melbourne), the city that locked down the longest^TM^, citizens gingerly emerged from enforced curfews and travel restrictions, eyes still blinking, into a state of what was helpfully described as “clopen” (Briggs 2021).
@@ -102,9 +99,9 @@ Altfeld, Heather and Rebecca Diggs. 2019. “Sweetness and Strangeness.” *Aeon
 
 Bachelard, Gaston. 1969. *The Poetics of Space*, Boston: Beacon Press.
 
-Bahlai, Christie, Lewis. J. Bartlett, Kevin R. Burgio, Auriel M. Fournier, Carl N. Keiser, Timothée Poisot, and Kaitlin S. Whitney. 2019. “Open Science Isn’t Always Open to All Scientists.” *American Scientist*, 107 (2): 78–82. [https://doi.org/10.1511/2019.107.2.78)](https://doi.org/10.1511/2019.107.2.78)).
+Bahlai, Christie, Lewis. J. Bartlett, Kevin R. Burgio, Auriel M. Fournier, Carl N. Keiser, Timothée Poisot, and Kaitlin S. Whitney. 2019. “Open Science Isn’t Always Open to All Scientists.” *American Scientist*, 107 (2): 78–82. [https://doi.org/10.1511/2019.107.2.78](https://doi.org/10.1511/2019.107.2.78).
 
-Benjatastic. Hitler Learns Topology, YouTube, uploaded Feb 1, 2010, >https://youtu.be/SyD4p8_y8Kw>
+Benjatastic. Hitler Learns Topology, YouTube, uploaded Feb 1, 2010, <https://youtu.be/SyD4p8_y8Kw>/
 
 Boeckhout, Martin, Gerhard A. Zielhuis, and Annelien L. Bredenoord. 2018. “The FAIR Guiding Principles for Data Stewardship: Fair Enough?” *European Journal of Human Genetics* 26 (7): 931-936. [https://doi.org/10.1038/s41431-018-0160-0](https://doi.org/10.1038/s41431-018-0160-0).
 
@@ -116,7 +113,7 @@ Capello, Mary. 2011. *Swallow: Foreign bodies, their ingestion, inspiration, and
 
 Christen, Kimberly. 2012. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” *International Journal of Communication*, 6: 2870–2893. [https://ijoc.org/index.php/ijoc/article/view/1618](https://ijoc.org/index.php/ijoc/article/view/1618).
 
-Dodds, Leigh. 2020. “FAIR, Fairer, Fairest?” *Lost Boy Blog* [https://blog.ldodds.com/2020/07/30/fair-fairer-fairest/](https://blog.ldodds.com/2020/07/30/fair-fairer-fairest/).
+Dodds, Leigh. 2020. “FAIR, Fairer, Fairest?” *Lost Boy Blog*. [https://blog.ldodds.com/2020/07/30/fair-fairer-fairest/](https://blog.ldodds.com/2020/07/30/fair-fairer-fairest/).
 
 Domonoske, Camile. 2014. “Mirror, Mirror: Does 'Fairest' Mean Most Beautiful Or Most White?” *Code Switch*. [https://www.npr.org/sections/codeswitch/2014/05/16/313154674/mirror-mirror-does-fairest-mean-most-beautiful-or-most-white](https://www.npr.org/sections/codeswitch/2014/05/16/313154674/mirror-mirror-does-fairest-mean-most-beautiful-or-most-white).
 
@@ -136,7 +133,7 @@ Pasquetto, Irene V., Ashley E. Sands, and Christine L. Borgman. 2015. “Explori
 
 Research Data Alliance International Indigenous Data Sovereignty Interest Group. 2019. “CARE Principles for Indigenous Data Governance.” *The Global Indigenous Data Alliance*. [https://www.gida-global.org/care](https://www.gida-global.org/care).
 
-Thibodeau, Paul H and Boroditsky, Lera. 2011. “Metaphors We Think With: The Role of Metaphor in Reasoning”. *PLOS ONE* 6 (2) [https://doi.org/10.1371/journal.pone.0016782](https://doi.org/10.1371/journal.pone.0016782).
+Thibodeau, Paul H and Boroditsky, Lera. 2011. “Metaphors We Think With: The Role of Metaphor in Reasoning”. *PLOS ONE* 6 (2). [https://doi.org/10.1371/journal.pone.0016782](https://doi.org/10.1371/journal.pone.0016782).
 
 Verhoeven, Deb. 2016. “As Luck Would Have It: Serendipity and Solace in Digital Research Infrastructure.” *Feminist Media Histories* 2 (1): 7–28. [https://doi.org/10.1525/fmh.2016.2.1.7](https://doi.org/10.1525/fmh.2016.2.1.7)
 
