@@ -19,7 +19,7 @@ author:
   affil: 'University of Victoria'
   email: 'winterc@uvic.ca'
   orcid: '0000-0003-4810-1161'
-  bio: "'"([carolinewinter.com](http://www.carolinewinter.com/)) is a Mitacs Accelerate / INKE Partnership Postdoctoral Fellow in Open Social Scholarship at the ETCL at the University of Victoria. She holds a PhD in English literature from UVic and is pursuing an MLIS from the University of Alberta's School of Library and Information Studies. Her research interests include open scholarship, digital humanities, digital libraries and information infrastructures, British Romantic literature, women's writing, and the Gothic.""
+  bio: "([carolinewinter.com](http://www.carolinewinter.com/)) is a Mitacs Accelerate / INKE Partnership Postdoctoral Fellow in Open Social Scholarship at the ETCL at the University of Victoria. She holds a PhD in English literature from UVic and is pursuing an MLIS from the University of Alberta's School of Library and Information Studies. Her research interests include open scholarship, digital humanities, digital libraries and information infrastructures, British Romantic literature, women's writing, and the Gothic."
 - name: 'Alyssa Arbuckle'
   affil: 'University of Victoria'
   email: 'alyssaa@uvic.ca'
