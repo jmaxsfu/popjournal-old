@@ -14,12 +14,12 @@ deck: ''
 ---
 
 
-> *Todo es puerta. 
-todo es puente. 
-Everything is a door. 
-everything is a bridge*. 
->
->Octavio Paz, *Noche en claro.*   
+> *Todo es puerta. \
+todo es puente. \
+Everything is a door. \
+everything is a bridge*. \
+\
+>Octavio Paz, *Noche en claro.*   \
  Translation by John M. Fein (2014, 51)
 
 
