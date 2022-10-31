@@ -98,50 +98,50 @@ The clopen doors of scholarship precede the intellectual communities they articu
 
 ## References
 
-Altfeld, Heather and Rebecca Diggs. 2019. “Sweetness and Strangeness.” *Aeon*, <https://aeon.co/essays/metaphors-grow-the-mind-and-feed-the-soul-dont-lose-them>.
+Altfeld, Heather and Rebecca Diggs. 2019. “Sweetness and Strangeness.” *Aeon*, [https://aeon.co/essays/metaphors-grow-the-mind-and-feed-the-soul-dont-lose-them](https://aeon.co/essays/metaphors-grow-the-mind-and-feed-the-soul-dont-lose-them).
 
 Bachelard, Gaston. 1969. *The Poetics of Space*, Boston: Beacon Press.
 
-Bahlai, Christie, Lewis. J. Bartlett, Kevin R. Burgio, Auriel M. Fournier, Carl N. Keiser, Timothée Poisot, and Kaitlin S. Whitney. 2019. “Open Science Isn’t Always Open to All Scientists.” *American Scientist*, 107 (2): 78–82. <https://doi.org/10.1511/2019.107.2.78)>.
+Bahlai, Christie, Lewis. J. Bartlett, Kevin R. Burgio, Auriel M. Fournier, Carl N. Keiser, Timothée Poisot, and Kaitlin S. Whitney. 2019. “Open Science Isn’t Always Open to All Scientists.” *American Scientist*, 107 (2): 78–82. [https://doi.org/10.1511/2019.107.2.78)](https://doi.org/10.1511/2019.107.2.78)).
 
 Benjatastic. Hitler Learns Topology, YouTube, uploaded Feb 1, 2010, >https://youtu.be/SyD4p8_y8Kw>
 
-Boeckhout, Martin, Gerhard A. Zielhuis, and Annelien L. Bredenoord. 2018. “The FAIR Guiding Principles for Data Stewardship: Fair Enough?” *European Journal of Human Genetics* 26 (7): 931-936. <https://doi.org/10.1038/s41431-018-0160-0>.
+Boeckhout, Martin, Gerhard A. Zielhuis, and Annelien L. Bredenoord. 2018. “The FAIR Guiding Principles for Data Stewardship: Fair Enough?” *European Journal of Human Genetics* 26 (7): 931-936. [https://doi.org/10.1038/s41431-018-0160-0](https://doi.org/10.1038/s41431-018-0160-0).
 
-Boulton, Geoffrey, Philip Campbell, Brian Collins, Peter Elias, Wendy Hall, Graeme Laurie, Onora O’Neill, Michael Rawlins, Janet Thornton, Patrick Vallance, and Mark Walport. 2012. “Science as an Open Enterprise*.*” *Royal Society*. <https://royalsociety.org/policy/projects/science-public-enterprise/report/>.
+Boulton, Geoffrey, Philip Campbell, Brian Collins, Peter Elias, Wendy Hall, Graeme Laurie, Onora O’Neill, Michael Rawlins, Janet Thornton, Patrick Vallance, and Mark Walport. 2012. “Science as an Open Enterprise*.*” *Royal Society*. [https://royalsociety.org/policy/projects/science-public-enterprise/report/](https://royalsociety.org/policy/projects/science-public-enterprise/report/).
 
-Briggs, Casey. 2021. “State-by-state COVID vaccination rates show a growing gap on the path to opening up”, *ABC News*, Fri 27 Aug 2021, <https://www.abc.net.au/news/2021-08-27/covid-vaccine-rates-state-by-state/100410718>.
+Briggs, Casey. 2021. “State-by-state COVID vaccination rates show a growing gap on the path to opening up”, *ABC News*, Fri 27 Aug 2021, [https://www.abc.net.au/news/2021-08-27/covid-vaccine-rates-state-by-state/100410718](https://www.abc.net.au/news/2021-08-27/covid-vaccine-rates-state-by-state/100410718).
 
 Capello, Mary. 2011. *Swallow: Foreign bodies, their ingestion, inspiration, and the curious doctor who extracted them*. New York: The New Press.
 
-Christen, Kimberly. 2012. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” *International Journal of Communication*, 6: 2870–2893. <https://ijoc.org/index.php/ijoc/article/view/1618>.
+Christen, Kimberly. 2012. “Does Information Really Want to be Free? Indigenous Knowledge Systems and the Question of Openness.” *International Journal of Communication*, 6: 2870–2893. [https://ijoc.org/index.php/ijoc/article/view/1618](https://ijoc.org/index.php/ijoc/article/view/1618).
 
-Dodds, Leigh. 2020. “FAIR, Fairer, Fairest?” *Lost Boy Blog* <https://blog.ldodds.com/2020/07/30/fair-fairer-fairest/>.
+Dodds, Leigh. 2020. “FAIR, Fairer, Fairest?” *Lost Boy Blog* [https://blog.ldodds.com/2020/07/30/fair-fairer-fairest/](https://blog.ldodds.com/2020/07/30/fair-fairer-fairest/).
 
-Domonoske, Camile. 2014. “Mirror, Mirror: Does 'Fairest' Mean Most Beautiful Or Most White?” *Code Switch*. <https://www.npr.org/sections/codeswitch/2014/05/16/313154674/mirror-mirror-does-fairest-mean-most-beautiful-or-most-white>.
+Domonoske, Camile. 2014. “Mirror, Mirror: Does 'Fairest' Mean Most Beautiful Or Most White?” *Code Switch*. [https://www.npr.org/sections/codeswitch/2014/05/16/313154674/mirror-mirror-does-fairest-mean-most-beautiful-or-most-white](https://www.npr.org/sections/codeswitch/2014/05/16/313154674/mirror-mirror-does-fairest-mean-most-beautiful-or-most-white).
 
 Fein, John M. 2014. *Toward Octavio Paz: A Reading of His Major Poems, 1957–1976*. United States: University Press of Kentucky.
 
-Fox, Jesse, Katy E. Pearce, Adrienne L. Massanari, Julius Matthew Riles, Lukasz Szulc, Yerina S. Ranjit, Filippo Trevisan, Cheryll Ruth R. Soriano, Jessica Vitak, Payal Arora, Sun Joo (Grace) Ahn, Meryl Alper, Andrew Gambino, Carmen Gonzalez, Teresa Lynch, Lillie D. Williamson, and Amy L. Gonzales. 2021. “Open Science, Closed Doors? Countering Marginalization through an Agenda for Ethical, Inclusive Research in Communication.” *Journal of Communication*, 71 (5): 764–784. <https://doi.org/10.1093/joc/jqab029>.
+Fox, Jesse, Katy E. Pearce, Adrienne L. Massanari, Julius Matthew Riles, Lukasz Szulc, Yerina S. Ranjit, Filippo Trevisan, Cheryll Ruth R. Soriano, Jessica Vitak, Payal Arora, Sun Joo (Grace) Ahn, Meryl Alper, Andrew Gambino, Carmen Gonzalez, Teresa Lynch, Lillie D. Williamson, and Amy L. Gonzales. 2021. “Open Science, Closed Doors? Countering Marginalization through an Agenda for Ethical, Inclusive Research in Communication.” *Journal of Communication*, 71 (5): 764–784. [https://doi.org/10.1093/joc/jqab029](https://doi.org/10.1093/joc/jqab029).
 
 Kaern, Michael. 1994. “Georg Simmel’s The Bridge and the Door.” *Qualitative Sociology* 17 (4): 397–413.
 
-Levin, Nadine and Leonelli Sabina. 2017. “How Does One ‘Open’ Science? Questions of Value in Biological Research.” *Science, Technology, and Human Values*, 42 (2): 280–305. <https://doi.org/10.1177/0162243916672071>.
+Levin, Nadine and Leonelli Sabina. 2017. “How Does One ‘Open’ Science? Questions of Value in Biological Research.” *Science, Technology, and Human Values*, 42 (2): 280–305. [https://doi.org/10.1177/0162243916672071](https://doi.org/10.1177/0162243916672071).
 
 Levinas, Emmanuel. 1961. *Totality and Infinity: An Essay on Exteriority*. Pittsburgh: Duquesne University Press.
 
-McCartney, Anne M., Jane Anderson, Libby Liggins, Maui L. Hudson, Matthew Z. Anderson, Ben TeAika, Janis Geary, Robert Cook-Deegan, Hardip R. Patel and Adam M. Phillippy. 2022. “Balancing Openness with Indigenous Data Sovereignty: An Opportunity to Leave No one Behind in the Journey to Sequence All of Life.” *Proceedings of the National Academy of Sciences* 119 (4). <https://doi.org/10.1073/pnas.2115860119>.
+McCartney, Anne M., Jane Anderson, Libby Liggins, Maui L. Hudson, Matthew Z. Anderson, Ben TeAika, Janis Geary, Robert Cook-Deegan, Hardip R. Patel and Adam M. Phillippy. 2022. “Balancing Openness with Indigenous Data Sovereignty: An Opportunity to Leave No one Behind in the Journey to Sequence All of Life.” *Proceedings of the National Academy of Sciences* 119 (4). [https://doi.org/10.1073/pnas.2115860119](https://doi.org/10.1073/pnas.2115860119).
 
-Pasquetto, Irene V., Ashley E. Sands, and Christine L. Borgman. 2015. “Exploring Openness in Data and Science: What is ‘Open,’ to Whom, When, and Why?” *Proceedings of the Association for Information Science and Technology*, 52 (1): 1–2. <https://doi.org/10.1002/pra2.2015.1450520100141>.
+Pasquetto, Irene V., Ashley E. Sands, and Christine L. Borgman. 2015. “Exploring Openness in Data and Science: What is ‘Open,’ to Whom, When, and Why?” *Proceedings of the Association for Information Science and Technology*, 52 (1): 1–2. [https://doi.org/10.1002/pra2.2015.1450520100141](https://doi.org/10.1002/pra2.2015.1450520100141).
 
-Research Data Alliance International Indigenous Data Sovereignty Interest Group. 2019. “CARE Principles for Indigenous Data Governance.” *The Global Indigenous Data Alliance*. <https://www.gida-global.org/care>.
+Research Data Alliance International Indigenous Data Sovereignty Interest Group. 2019. “CARE Principles for Indigenous Data Governance.” *The Global Indigenous Data Alliance*. [https://www.gida-global.org/care](https://www.gida-global.org/care).
 
-Thibodeau, Paul H and Boroditsky, Lera. 2011. “Metaphors We Think With: The Role of Metaphor in Reasoning”. *PLOS ONE* 6 (2) <https://doi.org/10.1371/journal.pone.0016782>.
+Thibodeau, Paul H and Boroditsky, Lera. 2011. “Metaphors We Think With: The Role of Metaphor in Reasoning”. *PLOS ONE* 6 (2) [https://doi.org/10.1371/journal.pone.0016782](https://doi.org/10.1371/journal.pone.0016782).
 
-Verhoeven, Deb. 2016. “As Luck Would Have It: Serendipity and Solace in Digital Research Infrastructure.” *Feminist Media Histories* 2 (1): 7–28. <https://doi.org/10.1525/fmh.2016.2.1.7>
+Verhoeven, Deb. 2016. “As Luck Would Have It: Serendipity and Solace in Digital Research Infrastructure.” *Feminist Media Histories* 2 (1): 7–28. [https://doi.org/10.1525/fmh.2016.2.1.7](https://doi.org/10.1525/fmh.2016.2.1.7)
 
 Wierzbicka, Anna. 2006. *English: Meaning and Culture.* Oxford: Oxford University Press.
 
-Wilkinson, Mark, Dumontier, Michel, Aalbersberg, IJsbrand et al. The FAIR Guiding Principles for scientific data management and stewardship. *Sci Data* 3, 160018 (2016). <https://doi.org/10.1038/sdata.2016.18>.
+Wilkinson, Mark, Dumontier, Michel, Aalbersberg, IJsbrand et al. The FAIR Guiding Principles for scientific data management and stewardship. *Sci Data* 3, 160018 (2016). [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 
 </div> 
