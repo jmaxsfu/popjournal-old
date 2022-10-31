@@ -24,7 +24,7 @@ Translation by John M. Fein (2014, 51)
 
 ## {.foo}
 
-The global COVID-19 pandemic has, without a doubt, reshaped our perception of the value of closure and openness. Here in Naarm (Melbourne), the city that locked down the longest^TM^, citizens gingerly emerged from enforced curfews and travel restrictions, eyes still blinking, into a state of what was helpfully described as “clopen” (Briggs 2021).
+The global COVID-19 pandemic has, without a doubt, reshaped our perception of the value of closure and openness. Here in Naarm (Melbourne), the city that locked down the longest<sup>TM</sup>, citizens gingerly emerged from enforced curfews and travel restrictions, eyes still blinking, into a state of what was helpfully described as “clopen” (Briggs 2021).
 
 The word “clopen” has meant different things at different times and in different contexts, but it is typically a reference to the overlapping of openings and closings, a state of both/neither open and/nor closed. In the field of topology, for example, the existence of “clopen sets” concedes that being closed does not necessarily imply a set is not open. In this discipline, the definition of clopen rests on the idea that closure is not the opposite of openness, a conceptually testing perspective that has inspired its own *Downfall* parody (Benjatastic 2010).
 
