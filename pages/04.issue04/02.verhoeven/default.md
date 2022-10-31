@@ -14,13 +14,13 @@ deck: ''
 ---
 
 
-> *Todo es puerta. \
-todo es puente. \
-Everything is a door. \
-everything is a bridge*. \
-\
->Octavio Paz, *Noche en claro.*   \
- Translation by John M. Fein (2014, 51)
+> *Todo es puerta.   
+> todo es puente.    
+> Everything is a door.   
+> everything is a bridge*.   
+>   
+> Octavio Paz, *Noche en claro.*    
+> Translation by John M. Fein (2014, 51)
 
 
 The global COVID-19 pandemic has, without a doubt, reshaped our perception of the value of closure and openness. Here in Naarm (Melbourne), the city that locked down the longest^TM^, citizens gingerly emerged from enforced curfews and travel restrictions, eyes still blinking, into a state of what was helpfully described as “clopen” (Briggs 2021).
