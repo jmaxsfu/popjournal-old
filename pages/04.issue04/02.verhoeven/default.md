@@ -18,7 +18,7 @@ deck: ''
 > todo es puente.    
 > Everything is a door.   
 > everything is a bridge*.   
-
+>     
 > Octavio Paz, *Noche en claro.*    
 > Translation by John M. Fein (2014, 51)
 
@@ -101,7 +101,7 @@ Bachelard, Gaston. 1969. *The Poetics of Space*, Boston: Beacon Press.
 
 Bahlai, Christie, Lewis. J. Bartlett, Kevin R. Burgio, Auriel M. Fournier, Carl N. Keiser, Timothée Poisot, and Kaitlin S. Whitney. 2019. “Open Science Isn’t Always Open to All Scientists.” *American Scientist*, 107 (2): 78–82. [https://doi.org/10.1511/2019.107.2.78](https://doi.org/10.1511/2019.107.2.78).
 
-Benjatastic. Hitler Learns Topology, YouTube, uploaded Feb 1, 2010, <https://youtu.be/SyD4p8_y8Kw>.
+Benjatastic. Hitler Learns Topology, YouTube, uploaded Feb 1, 2010, <https://www.youtube.com/watch?v=C-eJW0gEm5w>.
 
 Boeckhout, Martin, Gerhard A. Zielhuis, and Annelien L. Bredenoord. 2018. “The FAIR Guiding Principles for Data Stewardship: Fair Enough?” *European Journal of Human Genetics* 26 (7): 931-936. [https://doi.org/10.1038/s41431-018-0160-0](https://doi.org/10.1038/s41431-018-0160-0).
 
