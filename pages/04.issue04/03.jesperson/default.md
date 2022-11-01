@@ -49,7 +49,7 @@ The Canadian HSS Commons is committed to being open and accessible and creating 
 
 In response to these questions and to community feedback, we consider how such technologies could benefit humanities and social sciences research by creating new possibilities for scalability, collaboration, and the recognition of research contributions. We conclude that the Canadian HSS Commons could consider adopting these technologies as part of its larger efforts to facilitate the publication and mobilization of research once some concerns about identification, governance, and the financial implications of blockchain and Web3 are adequately addressed.
 
-## Canadian HSS Commons Update
+## Canadian HSS Commons update
 
 On the Commons website, users can create customized profiles and access the platform via Single Sign-On authentication (including through ORCID, a persistent identifier system for authors). Once signed in, they can upload items to the Commons’s repository and take advantage of its many research-sharing, communication, and project management tools, such as those documented in previous studies of the Commons, its key features, its affordances for research data management and open scholarship, and related intellectual contexts.[^3]
 
@@ -61,7 +61,7 @@ The first event in the *Launching a Digital Commons* series took place during th
 
 In terms of next steps, the Canadian HSS Commons team will improve all areas of the site in response to feedback we continue to receive from our partners and from members of our larger communities. We will also strengthen new and existing relationships with Canadian scholarly societies, working with them to imagine how the Commons can responsibly scale up—and scale across disciplines—in Canada and internationally.
 
-## The Future of Digital Knowledge Commons? Web3 and Blockchain
+## The future of digital knowledge commons? Web3 and blockchain
 
 Increasingly, conversations about the future of digital research infrastructure include references to blockchain and Web3 and how these emerging technologies might play a developmental or structural role moving forward. These iterations of digital networks are growing in popularity and have been recognized for their scalability and ability to create spaces for community participation. For instance, during his keynote address at the Compute Canada Federation HSS Series, Nizar Ladak (2022), the CEO of the Digital Research Alliance of Canada, identified blockchain advancements as one of the most notable recent trends in open technology. Indeed, Web3 and blockchain have great potential for tracking, verifying, and providing credit for distributed labour such as research publication, peer review, and other activities tied to digital scholarship; because blockchain eliminates the need for third parties, it ensures people maintain ownership of their data and contributions. Developments in these areas could positively impact research in the humanities and social sciences. Questions remain, however, about what blockchain is and how it might transform the digital research infrastructure landscape in the years to come. More specifically, in the context of our ongoing work on the Canadian HSS Commons, we are interested in exploring how digital knowledge commons might leverage blockchain and Web3 developments to better respond to the evolving needs of research communities at the national level.
 
