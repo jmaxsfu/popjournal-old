@@ -82,7 +82,7 @@ This special issue draws together diverse contributions that reflect a range of 
 
 ## References
 
-Arbuckle, Alyssa, Alex Christie, and Lynne Siemens, with Aaron Mauro and the Implementing New Knowledge Environments Research Group, eds. 2016. Special Issue, *Scholarly and Research Communication* 7 (2). Proceedings of the INKE-hosted gathering “New Knowledge Models: Sustaining Partnerships to Transform Scholarly Production,” 19 January 2016, Whistler, BC, Canada. [http://src-online.ca/index.php/src/issue/view/24](http://src-online.ca/index.php/src/issue/view/24)
+Arbuckle, Alyssa, Alex Christie, and Lynne Siemens, with Aaron Mauro and the Implementing New Knowledge Environments Research Group, eds. 2016. Special Issue, *Scholarly and Research Communication* 7 (2). Proceedings of the INKE-hosted gathering “New Knowledge Models: Sustaining Partnerships to Transform Scholarly Production,” 19 January 2016, Whistler, BC, Canada. [https://src-online.ca/index.php/src/issue/view/24](https://src-online.ca/index.php/src/issue/view/24)
 
 Arbuckle, Alyssa, Constance Crompton, and Aaron Mauro, eds. 2014. Special Issue, *Scholarly and Research Communication* 5 (4). Proceedings of the INKE-hosted gathering “Building Partnerships to Transform Scholarly Production,” 5–6 February 2014, Whistler, BC, Canada. [https://src-online.ca/index.php/src/issue/view/18](https://src-online.ca/index.php/src/issue/view/18)
 
@@ -90,7 +90,7 @@ Arbuckle, Alyssa, Rachel Hendery, Luis Meneses, and Ray Siemens, eds. 2020. Spec
 
 Arbuckle, Alyssa, Graham Jensen, Tully Barnett, and Ray Siemens, eds. 2021. Special Issue, *Pop! Public. Open. Participatory* 3. Proceedings of the INKE and CAPOS-hosted gathering “Engaging Open Social Scholarship,” 8–10 December 2020, online. [https://popjournal.ca/issue03](https://popjournal.ca/issue03)
 
-Arbuckle, Alyssa, Aaron Mauro, and Lynne Siemens, eds. 2015. Special Issue, *Scholarly and Research Communication* 6 (2), 6 (3), 6 (4). Proceedings of the INKE-hosted gatherings “Research Foundations for Understanding Books and Reading in the Digital Age: Emerging Reading, Writing, and Research Practices,” 8 December 2014, Sydney, NSW, Australia, and “Sustaining Partnerships to Transform Scholarly Production,” 27 January 2015, Whistler, BC, Canada. [http://src-online.ca/index.php/src/issue/view/20](http://src-online.ca/index.php/src/issue/view/20)
+Arbuckle, Alyssa, Aaron Mauro, and Lynne Siemens, eds. 2015. Special Issue, *Scholarly and Research Communication* 6 (2), 6 (3), 6 (4). Proceedings of the INKE-hosted gatherings “Research Foundations for Understanding Books and Reading in the Digital Age: Emerging Reading, Writing, and Research Practices,” 8 December 2014, Sydney, NSW, Australia, and “Sustaining Partnerships to Transform Scholarly Production,” 27 January 2015, Whistler, BC, Canada. [https://src-online.ca/index.php/src/issue/view/20](https://src-online.ca/index.php/src/issue/view/20)
 
 Arbuckle, Alyssa, Luis Meneses, and Ray Siemens, eds. 2019. Special Issue, *Pop! Public. Open. Participatory* 1. Proceedings of the INKE-hosted gathering “Understanding and Enacting Open Scholarship,” 16–17 January 2019, Victoria, BC, Canada. [https://popjournal.ca/issue01](https://popjournal.ca/issue01)
 
@@ -114,13 +114,13 @@ Farnel, Sharon, Denise Koufogiannakis, Ian Bigelow, Anne Carr-Wiggin, Debbie Fei
 
 Gaudry, Adam J. P. 2011. “Insurgent Research.” *Wicazo Sa Review* 26 (1): 113–36. [https://doi.org/10.1353/wic.2011.0006](https://doi.org/10.1353/wic.2011.0006).
 
-Goudarzi, Saman, Katrina Pugh, Vanessa Rhinesmith, Heather Staines, and Kaitlin Thaney. 2021. “Designing a Preparedness Model for the Future of Open Scholarship.” Zenodo. [http://doi.org/10.5281/zenodo.5218968](http://doi.org/10.5281/zenodo.5218968).
+Goudarzi, Saman, Katrina Pugh, Vanessa Rhinesmith, Heather Staines, and Kaitlin Thaney. 2021. “Designing a Preparedness Model for the Future of Open Scholarship.” Zenodo. [https://doi.org/10.5281/zenodo.5218968](https://doi.org/10.5281/zenodo.5218968).
 
 Gouvernement du Québec. 2021. “The Fonds de Recherche Du Québec Support Open Science by Joining COAlition S.” *Gouvernement Du Québec* (blog). June 21, 2021. [https://www.scientifique-en-chef.gouv.qc.ca/en/nouvelles/the-fonds-de-recherche-du-quebec-support-open-science-by-joining-coalition-s/](https://www.scientifique-en-chef.gouv.qc.ca/en/nouvelles/the-fonds-de-recherche-du-quebec-support-open-science-by-joining-coalition-s/).
 
 Government of Canada. 2021. “Tri-Agency Research Data Management Policy.” Innovation, Science and Economic Development Canada. March 15, 2021. [https://science.gc.ca/eic/site/063.nsf/eng/h_97610.html](https://science.gc.ca/eic/site/063.nsf/eng/h_97610.html).
 
-Huculak, J. Matthew. 2019. “The Methodologies of Open Social Scholarship.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 3 (1): 1.[http://doi.org/10.5334/kula.61](http://doi.org/10.5334/kula.61)
+Huculak, J. Matthew. 2019. “The Methodologies of Open Social Scholarship.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 3 (1): 1.[https://doi.org/10.5334/kula.61](https://doi.org/10.5334/kula.61)
 
 INKE Partnership. n.d. “About INKE.” [https://inke.ca/about-inke/](https://inke.ca/about-inke/).
 
