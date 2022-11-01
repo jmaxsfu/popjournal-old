@@ -118,21 +118,14 @@ We obtained this license in separate agreements for the project from the communi
 
 In summary, adopting the CC BY-NC-SA 4.0 license along with the way the JVMG knowledge graph only builds on parts of the source databases enabled us to address all the concerns of the participating communities while also matching the needs of the project. Table 2 offers an overview of the ways license compatibility was achieved for the various databases that the knowledge graph currently builds on. For two databases with no available license information and for one with a non-compatible open license individual license agreements were signed by the community representatives granting the use of the selected database parts under a CC BY-NC-SA 4.0 license. Two data sources had less restrictive CC licenses in place, which allow for the integration of their data into our chosen CC license. Finally, one data source has an identical license to the one we adopted and thus is also fully compatible with our knowledge graph.
 
-  -------------------------------------------------- ----------------------- -------------------------------------------------------------------------------------------------------------------
-  **Data source**                                    **License**             **Compatibility with the CC BY-NC-SA 4.0 license**
-
-  **Anime Characters Database**                      None                    CC BY-NC-SA 4.0 license provided for the JVMG project by **individual agreement** for the parts used in each case
-
-  **AnimeClick**                                                             None
-
-  **The Visual Novel Database**                                              ODbL
-
-  **Media-Arts Database**                            CC BY 4.0               **yes**
-
-  **Wikidata**                                       CC0                     **yes**
-
-  **AniDB** (publicly available anime titles only)   CC BY-NC-SA 4.0         **identical**
-  -------------------------------------------------- ----------------------- -------------------------------------------------------------------------------------------------------------------
+| **Data source**                                   | **License**          | **Compatibility with the CC BY-NC-SA 4.0 license**                                                                |
+|---------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Anime Characters Database**                     | None                 | CC BY-NC-SA 4.0 license provided for the JVMG project by **individual agreement** for the parts used in each case
+| **AnimeClick**                                    |                      | None. |
+| **The Visual Novel Database**                     |                      | ODbL. |
+| **Media-Arts Database**                           | CC BY 4.0            | **yes**  |
+| **Wikidata**                                      | CC0                  |  **yes**  |
+| **AniDB** (publicly available anime titles only)  | CC BY-NC-SA 4.0      |  **identical**  |
 
 **Table 2:** License compatibility with the databases the JVMG knowledge graph builds on
 
