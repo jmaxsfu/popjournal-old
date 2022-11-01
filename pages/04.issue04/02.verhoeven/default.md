@@ -15,13 +15,13 @@ deck: ''
 
 ![Door with sign that says 'Pullsh'](pullsh.jpg "")
 
-> *Todo es puerta.   
-> todo es puente.    
-> Everything is a door.   
-> everything is a bridge*.   
+>     *Todo es puerta.   
+>.    todo es puente.    
+>     Everything is a door.   
+>     everything is a bridge*.   
 
-Octavio Paz, *Noche en claro.*    
-Translation by John M. Fein (2014, 51)
+> Octavio Paz, *Noche en claro.*    
+> Translation by John M. Fein (2014, 51)
 
 ## {.foo}
 
@@ -59,7 +59,7 @@ Re-appraising the value of open scholarship itself opens many questions about th
 
 > “Metaphor exists – and relies upon – the complex, emotionally resonant, arresting connections we make. These linkages, between ourselves and the world, require a degree of primary experience, as well as sensitivity to the nature and details of that experience.”
 
-Heather Altfeld and Rebecca Diggs (2019)
+> Heather Altfeld and Rebecca Diggs (2019)
 
 Open scholarship gestures rhetorically towards but is not the same as an open mind, an open book, an open door (oh if I just had a dollar for every beckoning of “open access” on every academic publishing “portal”). And yet these optimistic metaphors give license to—in a sense simultaneously “open up” and frame—the way we conceive, design, and practice open scholarship. In what ways, then, can a counter-intuitive approach to the material, conceptual, experiential, and emotional dimensions of doors also reveal something about the way we might reimagine open scholarship?
 
