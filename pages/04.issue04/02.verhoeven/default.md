@@ -19,7 +19,7 @@ deck: ''
 >  todo es puente.    
 >  Everything is a door.   
 >  everything is a bridge*.   
-> – Octavio Paz, *Noche en claro.* Translation by John M. Fein (2014, 51)
+> – Octavio Paz, *Noche en claro,* trans by John M. Fein (2014, 51)
 
 ## {.foo}
 
