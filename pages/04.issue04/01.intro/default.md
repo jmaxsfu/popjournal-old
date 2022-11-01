@@ -57,19 +57,19 @@ In addition, conference presenters shared recordings of their lightning talks pr
 
 -   John Maxwell: [“The Care-ful Reviewer: Peer Review as if People Mattered”](https://echo360.ca/media/5d2489b8-5411-4e40-9108-bd1eefd38181/public)
 
--   [Graham Jensen and Talya Jesperson:](https://echo360.ca/media/5d2489b8-5411-4e40-9108-bd1eefd38181/public) [“New Pastures: Expanding the Canadian Humanities and Social Sciences Commons”](https://echo360.ca/media/4eb9b153-7ed1-4c3d-afba-d39d1e77fbd1/public)
+-   Graham Jensen and Talya Jesperson: [“New Pastures: Expanding the Canadian Humanities and Social Sciences Commons”](https://echo360.ca/media/4eb9b153-7ed1-4c3d-afba-d39d1e77fbd1/public)
 
 -   Paul Arthur (Edith Cowan U), Nikos Koutras (Edith Cowan U), and Lydia Hearn (Edith Cowan U): [“Open Digital Scholarship for Creative Industries: A Review through the Lens of Copyright Governance”](https://echo360.ca/media/c4ea8fb3-7906-40e2-8e35-3e8dbbbfa7c4/public)
 
 -   Jon Saklofske: [“Open Social Pedagogy: Modelling Foundational OSS Values in the University Classroom”](https://echo360.ca/media/5f3f5be3-7079-4295-8040-5739656384ff/public)
 
--   [Magnus Pfeffer, Zoltan Kacsuk, Simone Schroff, and Martin Roth:](https://echo360.ca/media/5f3f5be3-7079-4295-8040-5739656384ff/public) [“Harmonizing Open Licenses among Online Databases of Enthusiast Communities](https://jvmg.iuk.hdm-stuttgart.de/wp-content/uploads/sites/3/2022/01/Pfeffer_et_al_Harmonizing_Open_Licenses_among_Online_Databases_of_Enthusiast_Communities.mp4)”
+-   Magnus Pfeffer, Zoltan Kacsuk, Simone Schroff, and Martin Roth: [“Harmonizing Open Licenses among Online Databases of Enthusiast Communities](https://jvmg.iuk.hdm-stuttgart.de/wp-content/uploads/sites/3/2022/01/Pfeffer_et_al_Harmonizing_Open_Licenses_among_Online_Databases_of_Enthusiast_Communities.mp4)”
 
 -   Kelsey Dufresne and Micah Vandegrift: [“The Digital, the Multimodal, & the Fermentable: Public Knowledge Sharing with Fermentology”](https://echo360.ca/media/4e1b63f9-9ed6-471c-a2c0-5f9ed6126103/public)
 
--   [Anke Finger and Virgina Kuhn:](https://echo360.ca/media/4e1b63f9-9ed6-471c-a2c0-5f9ed6126103/public) [“Shaping the Digital Dissertation: Knowledge Production in the Arts and Humanities”](https://echo360.ca/media/02a28b6e-05a4-4b01-9906-e39258a73f17/public)
+-   Anke Finger and Virgina Kuhn: [“Shaping the Digital Dissertation: Knowledge Production in the Arts and Humanities”](https://echo360.ca/media/02a28b6e-05a4-4b01-9906-e39258a73f17/public)
 
--   [Luis Meneses:](https://echo360.ca/media/02a28b6e-05a4-4b01-9906-e39258a73f17/public) [“Maintaining Open Digital Scholarship Infrastructures in the Arts and Humanities”](https://echo360.ca/media/f9c9a3ad-aae9-4017-ac39-fab7bf53c23a/public)
+-   Luis Meneses: [“Maintaining Open Digital Scholarship Infrastructures in the Arts and Humanities”](https://echo360.ca/media/f9c9a3ad-aae9-4017-ac39-fab7bf53c23a/public)
 
 -   Graham Jensen: [“Designing Digital Commons to Support Open Social Scholarship”](https://echo360.ca/media/c83eac9a-a707-438f-8cf6-f02b86f9e24e/public)
 
@@ -80,60 +80,60 @@ This special issue draws together diverse contributions that reflect a range of 
 
 <div class="refs" markdown="1">
 
-**Works Cited**
+## References
 
-Arbuckle, Alyssa, Alex Christie, and Lynne Siemens, with Aaron Mauro and the Implementing New Knowledge Environments Research Group, eds. [2016.](http://src-online.ca/index.php/src/issue/view/24) Special Issue, *Scholarly and Research Communication* 7 (2). Proceedings of the INKE-hosted gathering “New Knowledge Models: Sustaining Partnerships to Transform Scholarly Production,” 19 January 2016, Whistler, BC, Canada. <http://src-online.ca/index.php/src/issue/view/24>
+Arbuckle, Alyssa, Alex Christie, and Lynne Siemens, with Aaron Mauro and the Implementing New Knowledge Environments Research Group, eds. 2016. Special Issue, *Scholarly and Research Communication* 7 (2). Proceedings of the INKE-hosted gathering “New Knowledge Models: Sustaining Partnerships to Transform Scholarly Production,” 19 January 2016, Whistler, BC, Canada. [http://src-online.ca/index.php/src/issue/view/24](http://src-online.ca/index.php/src/issue/view/24)
 
-Arbuckle, Alyssa, Constance Crompton, and Aaron Mauro, eds. 2014. Special Issue, *Scholarly and Research Communication* 5 (4). Proceedings of the INKE-hosted gathering “Building Partnerships to Transform Scholarly Production,” 5–6 February 2014, Whistler, BC, Canada. <https://src-online.ca/index.php/src/issue/view/18>
+Arbuckle, Alyssa, Constance Crompton, and Aaron Mauro, eds. 2014. Special Issue, *Scholarly and Research Communication* 5 (4). Proceedings of the INKE-hosted gathering “Building Partnerships to Transform Scholarly Production,” 5–6 February 2014, Whistler, BC, Canada. [https://src-online.ca/index.php/src/issue/view/18](https://src-online.ca/index.php/src/issue/view/18)
 
-Arbuckle, Alyssa, Rachel Hendery, Luis Meneses, and Ray Siemens, eds. 2020. Special Issue, *Pop! Public. Open. Participatory* 2. Combined proceedings of the INKE-hosted gathering “Open Scholarship for the 2020s,” 14–15 January 2020, Victoria, BC, Canada, and the CAPOS-hosted gathering “Knowledge Creation in the 21st Century,” 6–7 December 2019, Newcastle, NSW, Australia. <https://popjournal.ca/issue02>
+Arbuckle, Alyssa, Rachel Hendery, Luis Meneses, and Ray Siemens, eds. 2020. Special Issue, *Pop! Public. Open. Participatory* 2. Combined proceedings of the INKE-hosted gathering “Open Scholarship for the 2020s,” 14–15 January 2020, Victoria, BC, Canada, and the CAPOS-hosted gathering “Knowledge Creation in the 21st Century,” 6–7 December 2019, Newcastle, NSW, Australia. [https://popjournal.ca/issue02](https://popjournal.ca/issue02)
 
-Arbuckle, Alyssa, Graham Jensen, Tully Barnett, and Ray Siemens, eds. 2021. Special Issue, *Pop! Public. Open. Participatory* 3. Proceedings of the INKE and CAPOS-hosted gathering “Engaging Open Social Scholarship,” 8–10 December 2020, online. <https://popjournal.ca/issue03>
+Arbuckle, Alyssa, Graham Jensen, Tully Barnett, and Ray Siemens, eds. 2021. Special Issue, *Pop! Public. Open. Participatory* 3. Proceedings of the INKE and CAPOS-hosted gathering “Engaging Open Social Scholarship,” 8–10 December 2020, online. [https://popjournal.ca/issue03](https://popjournal.ca/issue03)
 
-Arbuckle, Alyssa, Aaron Mauro, and Lynne Siemens, eds. 2015. Special Issue, *Scholarly and Research Communication* 6 (2), 6 (3), 6 (4). Proceedings of the INKE-hosted gatherings “Research Foundations for Understanding Books and Reading in the Digital Age: Emerging Reading, Writing, and Research Practices,” 8 December 2014, Sydney, NSW, Australia, and “Sustaining Partnerships to Transform Scholarly Production,” 27 January 2015, Whistler, BC, Canada. <http://src-online.ca/index.php/src/issue/view/20>
+Arbuckle, Alyssa, Aaron Mauro, and Lynne Siemens, eds. 2015. Special Issue, *Scholarly and Research Communication* 6 (2), 6 (3), 6 (4). Proceedings of the INKE-hosted gatherings “Research Foundations for Understanding Books and Reading in the Digital Age: Emerging Reading, Writing, and Research Practices,” 8 December 2014, Sydney, NSW, Australia, and “Sustaining Partnerships to Transform Scholarly Production,” 27 January 2015, Whistler, BC, Canada. [http://src-online.ca/index.php/src/issue/view/20](http://src-online.ca/index.php/src/issue/view/20)
 
-Arbuckle, Alyssa, Luis Meneses, and Ray Siemens, eds. 2019. Special Issue, *Pop! Public. Open. Participatory* 1. Proceedings of the INKE-hosted gathering “Understanding and Enacting Open Scholarship,” 16–17 January 2019, Victoria, BC, Canada. <https://popjournal.ca/issue01>
+Arbuckle, Alyssa, Luis Meneses, and Ray Siemens, eds. 2019. Special Issue, *Pop! Public. Open. Participatory* 1. Proceedings of the INKE-hosted gathering “Understanding and Enacting Open Scholarship,” 16–17 January 2019, Victoria, BC, Canada. [https://popjournal.ca/issue01](https://popjournal.ca/issue01)
 
-Barbour, Ginny. 2020. “Science Publishing Has Opened Up During the Coronavirus Pandemic. It Won’t Be Easy to Keep it That Way.” *The Conversation,* 27 July 2020. <https://theconversation.com/science-publishing-has-opened-up-during-the-coronavirus-pandemic-it-wont-be-easy-to-keep-it-that-way-142984>.
+Barbour, Ginny. 2020. “Science Publishing Has Opened Up During the Coronavirus Pandemic. It Won’t Be Easy to Keep it That Way.” *The Conversation,* 27 July 2020. [https://theconversation.com/science-publishing-has-opened-up-during-the-coronavirus-pandemic-it-wont-be-easy-to-keep-it-that-way-142984](https://theconversation.com/science-publishing-has-opened-up-during-the-coronavirus-pandemic-it-wont-be-easy-to-keep-it-that-way-142984).
 
-Blair, Julie, and Desmond Wong. 2017. “Moving in the Circle: Indigenous Solidarity for Canadian Libraries.” *Partnership: The Canadian Journal of Library and Information Practice and Research* 12 (2). <https://doi.org/10.21083/partnership.v12i2.3781>.
+Blair, Julie, and Desmond Wong. 2017. “Moving in the Circle: Indigenous Solidarity for Canadian Libraries.” *Partnership: The Canadian Journal of Library and Information Practice and Research* 12 (2). [https://doi.org/10.21083/partnership.v12i2.3781](https://doi.org/10.21083/partnership.v12i2.3781).
 
-Bryant, Rebecca, Brian Lavoie, and Constance Malpas. 2017. “The Realities of Research Data Management Part One: A Tour of the Research Data Management (RDM) Service Space.” <https://doi.org/10.25333/C3PG8J>.
+Bryant, Rebecca, Brian Lavoie, and Constance Malpas. 2017. “The Realities of Research Data Management Part One: A Tour of the Research Data Management (RDM) Service Space.” [https://doi.org/10.25333/C3PG8J](https://doi.org/10.25333/C3PG8J).
 
 Burke, Peter. 2000. *A Social History of Knowledge: From Gutenberg to Diderot*. Cambridge, UK: Polity Press.
 
 ———. 2012. *A Social History of Knowledge II: From the Encyclopédie to Wikipedia.* Cambridge, UK: Polity Press.
 
-Chan, Leslie, Budd Hall, Florence Piron, Rajesh Tandon, and Lorna Williams. 2020. “Open Science Beyond Open Access: For and With Communities. A Step Towards the Decolonization of Knowledge.” The Canadian Commission for UNESCO’s IdeaLab. <https://en.ccunesco.ca/-/media/Files/Unesco/Resources/2020/07/OpenScienceDecolonizingKnowledge.pdf>.
+Chan, Leslie, Budd Hall, Florence Piron, Rajesh Tandon, and Lorna Williams. 2020. “Open Science Beyond Open Access: For and With Communities. A Step Towards the Decolonization of Knowledge.” The Canadian Commission for UNESCO’s IdeaLab. [https://en.ccunesco.ca/-/media/Files/Unesco/Resources/2020/07/OpenScienceDecolonizingKnowledge.pdf](https://en.ccunesco.ca/-/media/Files/Unesco/Resources/2020/07/OpenScienceDecolonizingKnowledge.pdf).
 
-Cooper, Alexandra, Carol Perry, Andrea Szwajcer, Minglu Wang, and Shahira Khair. 2020. “Institutional Research Data Management Services Capacity Survey: Executive Summary.” <https://doi.org/10.14288/1.0388722>.
+Cooper, Alexandra, Carol Perry, Andrea Szwajcer, Minglu Wang, and Shahira Khair. 2020. “Institutional Research Data Management Services Capacity Survey: Executive Summary.” [https://doi.org/10.14288/1.0388722](https://doi.org/10.14288/1.0388722).
 
 Eve, Martin Paul, and Jonathan Gray, eds. 2020. *Reassembling Scholarly Communications: Histories, Infrastructures, and Global Politics of Open Access.* Cambridge, MA: MIT Press.
 
 Farnel, Sharon, Denise Koufogiannakis, Ian Bigelow, Anne Carr-Wiggin, Debbie Feisst, Kayla Lar-Son, and Sheila Laroque. 2018. “Unsettling Our Practices: Decolonizing Description at the University of Alberta Libraries.” *The International Journal of Information, Diversity, & Inclusion* 2 (1/2): 98–101.
 
-Gaudry, Adam J. P. 2011. “Insurgent Research.” *Wicazo Sa Review* 26 (1): 113–36. <https://doi.org/10.1353/wic.2011.0006>.
+Gaudry, Adam J. P. 2011. “Insurgent Research.” *Wicazo Sa Review* 26 (1): 113–36. [https://doi.org/10.1353/wic.2011.0006](https://doi.org/10.1353/wic.2011.0006).
 
-Goudarzi, Saman, Katrina Pugh, Vanessa Rhinesmith, Heather Staines, and Kaitlin Thaney. 2021. “Designing a Preparedness Model for the Future of Open Scholarship.” Zenodo. <http://doi.org/10.5281/zenodo.5218968>.
+Goudarzi, Saman, Katrina Pugh, Vanessa Rhinesmith, Heather Staines, and Kaitlin Thaney. 2021. “Designing a Preparedness Model for the Future of Open Scholarship.” Zenodo. [http://doi.org/10.5281/zenodo.5218968](http://doi.org/10.5281/zenodo.5218968).
 
-Gouvernement du Québec. 2021. “The Fonds de Recherche Du Québec Support Open Science by Joining COAlition S.” *Gouvernement Du Québec* (blog). June 21, 2021. <https://www.scientifique-en-chef.gouv.qc.ca/en/nouvelles/the-fonds-de-recherche-du-quebec-support-open-science-by-joining-coalition-s/>.
+Gouvernement du Québec. 2021. “The Fonds de Recherche Du Québec Support Open Science by Joining COAlition S.” *Gouvernement Du Québec* (blog). June 21, 2021. [https://www.scientifique-en-chef.gouv.qc.ca/en/nouvelles/the-fonds-de-recherche-du-quebec-support-open-science-by-joining-coalition-s/](https://www.scientifique-en-chef.gouv.qc.ca/en/nouvelles/the-fonds-de-recherche-du-quebec-support-open-science-by-joining-coalition-s/).
 
-Government of Canada. 2021. “Tri-Agency Research Data Management Policy.” Innovation, Science and Economic Development Canada. March 15, 2021. <https://science.gc.ca/eic/site/063.nsf/eng/h_97610.html>.
+Government of Canada. 2021. “Tri-Agency Research Data Management Policy.” Innovation, Science and Economic Development Canada. March 15, 2021. [https://science.gc.ca/eic/site/063.nsf/eng/h_97610.html](https://science.gc.ca/eic/site/063.nsf/eng/h_97610.html).
 
-Huculak, J. Matthew. 2019. “The Methodologies of Open Social Scholarship.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 3 (1): 1.<http://doi.org/10.5334/kula.61>
+Huculak, J. Matthew. 2019. “The Methodologies of Open Social Scholarship.” *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 3 (1): 1.[http://doi.org/10.5334/kula.61](http://doi.org/10.5334/kula.61)
 
-INKE Partnership. n.d. “About INKE.” <https://inke.ca/about-inke/>.
+INKE Partnership. n.d. “About INKE.” [https://inke.ca/about-inke/](https://inke.ca/about-inke/).
 
 Meneses, Luis, Alyssa Arbuckle, and Ray Siemens, eds. 2019. Special Issue, *KULA: Knowledge Creation, Dissemination, and Preservation Studies* 3(1). Proceedings of the INKE-hosted gathering “Beyond Open: Implementing Social Scholarship,” 10–11 January 2018, Victoria, BC, Canada.
 
-UNESCO. 2021. “UNESCO Recommendation on Open Science.” SC-PCB-SPP/2021/OS/UROS. Paris. <https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en>.
+UNESCO. 2021. “UNESCO Recommendation on Open Science.” SC-PCB-SPP/2021/OS/UROS. Paris. [https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en](https://unesdoc.unesco.org/ark:/48223/pf0000379949.locale=en).
 
 
 </div> 
 
 [^1]: For the proceedings from previous gatherings see Arbuckle, Jensen, Barnett, and Siemens 2021; Arbuckle, Hendery, Meneses, and Siemens 2020; Arbuckle, Meneses, and Siemens 2019; Meneses, Arbuckle, and Siemens 2019; Huculak 2019; Arbuckle, Christie, Siemens, et al. 2016; Arbuckle, Mauro, and Siemens 2015; Arbuckle, Crompton, and Mauro 2014.
 
-[^2]: See <https://inke.ca/canadian-australian-partnership-for-open-scholarship/> for more information on CAPOS.
+[^2]: See [https://inke.ca/canadian-australian-partnership-for-open-scholarship/](https://inke.ca/canadian-australian-partnership-for-open-scholarship/) for more information on CAPOS.
 
 [^3]: See [c-ski.ca](https://c-ski.ca/).
 

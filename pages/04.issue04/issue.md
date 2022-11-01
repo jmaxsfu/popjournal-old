@@ -14,7 +14,7 @@ content:
 visible: false
 ---
 
-### {}
+### 
 
 ### Proceedings of the Implementing New Knowledge Environments (INKE) Partnership and Canadian-Australian Partnership for Open Scholarship (CAPOS)-hosted conference: *Putting Open Social Scholarship into Practice*, December 2021
 
