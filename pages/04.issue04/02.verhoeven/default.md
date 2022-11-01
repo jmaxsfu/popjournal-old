@@ -13,6 +13,7 @@ abstract: 'The global COVID-19 pandemic has, without a doubt, reshaped our perce
 deck: ''
 ---
 
+![Door with sign that says 'Pullsh'](pullsh.jpg "")
 
 > *Todo es puerta.   
 > todo es puente.    
