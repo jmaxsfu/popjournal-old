@@ -95,7 +95,7 @@ This is further complicated by the fact that a database can be within the scope 
 | ------------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 |                                                              | **EU**                                         | **Japan**                                    | **US/Canada**                                | **Other**                                    | 
 | **Database content elements**                                | Copyright except for facts and information     | Copyright except for facts and information   | Copyright except for facts and information   | Copyright except for facts and information   | 
-| **Database field labels**[^21]                               | Copyright                                      | Copyright                                    | Copyright                                    | Copyright                                    | 
+| **Database field labels** [^21]                              | Copyright                                      | Copyright                                    | Copyright                                    | Copyright                                    | 
 | **Original database structure**                              | Copyright                                      | Copyright                                    | Copyright                                    | Copyright                                    | 
 | **Work of compilation if non-original database structure**   | Sui generis database rights                    | No protection                                | No protection                                | No protection                                | 
 
@@ -233,5 +233,6 @@ WIPO Copyright Treaty. 1996. [https://wipolex.wipo.int/en/text/295166](https://w
 
 [^21]: Can be copyrighted, but only if they meet the national/regional originality standard.
 
-[^22]: See for example [https://mediagraph.link/graph/acdb](https://mediagraph.link/graph/acdb. For more information on CC REL see: [https://wiki.creativecommons.org/wiki/CcREL](https://wiki.creativecommons.org/wiki/CcREL.
-[^23]: 
+[^22]: See for example [https://mediagraph.link/graph/acdb](https://mediagraph.link/graph/acdb). For more information on CC REL see: [https://wiki.creativecommons.org/wiki/CcREL](https://wiki.creativecommons.org/wiki/CcREL).
+
+
