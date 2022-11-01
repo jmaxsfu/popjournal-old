@@ -89,19 +89,18 @@ However, and this brings us to the fourth element in our list, the work of compi
 
 This is further complicated by the fact that a database can be within the scope of contractual legal protection. This is the case for the Open Database License (ODbL), which is a license that manages the copyright and additional database rights mentioned above. As a result, the default law does still apply, but the database right holder has decided on certain aspects they do not wish to enforce or at least not in a particular way. In other words, these licenses dictate the shape the law takes in this particular instance. Table 1 summarizes the different forms of non-contractual legal protection enjoyed by various features of databases with a focus on the jurisdictions most relevant for the JVMG project.
 
-  ------------------------------------------------------------ ---------------------------------------------- -------------------------------------------- -------------------------------------------- --------------------------------------------
-  **Database element**                                         **Non-contractual type of legal protection**                                                                                             
+| **Database element**                                         | **Non-contractual type of legal protection**   |                                              |                                              |                                              |
+| ------------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+|                                                              | **EU**                                         | **Japan**                                    | **US/Canada**                                | **Other**                                    | 
+|                                                              |                                                |                                              |                                              |                                              |
+| **Database content elements**                                | Copyright except for facts and information     | Copyright except for facts and information   | Copyright except for facts and information   | Copyright except for facts and information   | 
+|                                                              |                                                |                                              |                                              |                                              |
+| **Database field labels**[^21]                               | Copyright                                      | Copyright                                    | Copyright                                    | Copyright                                    | 
+|                                                              |                                                |                                              |                                              |                                              |
+| **Original database structure**                              | Copyright                                      | Copyright                                    | Copyright                                    | Copyright                                    | 
+|                                                              |                                                |                                              |                                              |                                              |
+| **Work of compilation if non-original database structure**   | Sui generis database rights                    | No protection                                | No protection                                | No protection                                | 
 
-                                                               **EU**                                         **Japan**                                    **US/Canada**                                **Other**
-
-  **Database content elements**                                Copyright except for facts and information     Copyright except for facts and information   Copyright except for facts and information   Copyright except for facts and information
-
-  **Database field labels**[^21]                               Copyright                                      Copyright                                    Copyright                                    Copyright
-
-  **Original database structure**                              Copyright                                      Copyright                                    Copyright                                    Copyright
-
-  **Work of compilation if non-original database structure**   Sui generis database rights                    No protection                                No protection                                No protection
-  ------------------------------------------------------------ ---------------------------------------------- -------------------------------------------- -------------------------------------------- --------------------------------------------
 
 **Table 1:** Non-contractual types of legal protection afforded to various elements of databases
 
