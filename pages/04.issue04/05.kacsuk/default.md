@@ -120,12 +120,12 @@ In summary, adopting the CC BY-NC-SA 4.0 license along with the way the JVMG kno
 
 | **Data source**                                   | **License**          | **Compatibility with the CC BY-NC-SA 4.0 license**                                                                |
 |---------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Anime Characters Database**                     | None                 | CC BY-NC-SA 4.0 license provided for the JVMG project by **individual agreement** for the parts used in each case
-| **AnimeClick**                                    |                      | None. |
-| **The Visual Novel Database**                     |                      | ODbL. |
-| **Media-Arts Database**                           | CC BY 4.0            | **yes**  |
-| **Wikidata**                                      | CC0                  |  **yes**  |
-| **AniDB** (publicly available anime titles only)  | CC BY-NC-SA 4.0      |  **identical**  |
+| **Anime Characters Database**                     | None                 | CC BY-NC-SA 4.0 license provided for the JVMG project by **individual agreement** for the parts used in each case |
+| **AnimeClick**                                    |                      | None.                                                                                                             |
+| **The Visual Novel Database**                     |                      | ODbL.                                                                                                             |
+| **Media-Arts Database**                           | CC BY 4.0            | **yes**                                                                                                           |
+| **Wikidata**                                      | CC0                  |  **yes**                                                                                                          |
+| **AniDB** (publicly available anime titles only)  | CC BY-NC-SA 4.0      |  **identical**                                                                                                    |
 
 **Table 2:** License compatibility with the databases the JVMG knowledge graph builds on
 
