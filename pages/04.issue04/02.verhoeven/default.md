@@ -89,6 +89,9 @@ At this most existential level, attention to clopenness insists that scholarship
 
 The clopen doors of scholarship precede the intellectual communities they articulate, delineate, relegate, and filter. Universally open doors are an admirable aspiration but inadequately appreciate the conceptual, social, political, and institutional role of closure in the work of open scholarly infrastructure. To put this plainly: a fully open (or a fully closed) scholarship would be a world without doors. An unhinged world.
 
+
+!["Sign: If any of you know how to fix broken hinges my door is always open"](hinges.jpg "")
+
 <div class="refs" markdown="1">
 
 
