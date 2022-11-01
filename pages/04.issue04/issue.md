@@ -1,7 +1,7 @@
 ---
 title: 'Issue Nº4'
-subtitle: "Engaging Open Social Scholarship"
-pubdate: 31-10-2024
+subtitle: "Putting Open Social Scholarship into Practice"
+pubdate: 01-11-2022
 issuenum: 4
 template: issue
 content:
@@ -15,11 +15,11 @@ visible: false
 ---
 ###
 
-### Proceedings the Canadian-Australian open scholarship conference:
+### Proceedings of the Canadian-Australian open scholarship conference:
 
 ### *Putting Open Social Scholarship into Practice* 
 
-### December 2020
+### Proceedings of the Implementing New Knowledge Environments (INKE) Partnership and Canadian-Australian Partnership for Open Scholarship (CAPOS)-hosted conference: *Putting Open Social Scholarship into Practice*, December 2021
 
 ### &nbsp;
 
