@@ -5,7 +5,7 @@ license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2022.005'
 date: 31-10-2022
 author: 
-- name: 'Zoltan Kacsuk'
+- name: 'Zoltán Kacsuk'
   affil: 'Hochschule der Medien Stuttgart'
   email: 'kacsuk@hdm-stuttgart.de'
   orcid: '0000-0002-6733-3294'
