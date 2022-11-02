@@ -3,7 +3,7 @@ title: 'Issue Nº4'
 subtitle: "Putting Open Social Scholarship into Practice"
 pubdate: 01-11-2022
 issuenum: 4
-template: dois
+template: issue
 content:
     items: '@self.children'
     order:
