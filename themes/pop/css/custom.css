@@ -424,7 +424,7 @@ div.tablecaption {
 table p { margin-top: .2rem; text-indent: 0; }
 
 
-p<sup {font-size: 60%;}  /*Just to tweak it a little smaller*/
+p>sup {font-size: 60%;}  /*Just to tweak it a little smaller*/
 
 
 /* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
