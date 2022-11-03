@@ -169,7 +169,7 @@ h2.break {text-align: center; letter-spacing: 0.5em;}
 .articlelink {
     /*border: 1px orange solid;*/
     display: block; float: left;  text-overflow: wrap;
-    font-size: 2.4rem; font-weight: 300; line-height: 1.2em; 
+    font-size: 2.0rem; font-weight: 300; line-height: 1.4em; 
     margin-top: 1rem;
 }
 @media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
@@ -208,8 +208,9 @@ h6 {
     font-weight: 400;
     color: #454B4D;
     margin-top: 1em; margin-bottom: 0;
-    line-height: 1.1em;
+    line-height: 1.3em;
 }
+
 
 h1 {font-size: 4rem; font-weight: 400; line-height: 4.5rem;}
 
