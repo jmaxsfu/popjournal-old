@@ -170,13 +170,18 @@ h2.break {text-align: center; letter-spacing: 0.5em;}
     /*border: 1px orange solid;*/
     display: block; float: left;  text-overflow: wrap;
     font-size: 2.0rem; font-weight: 300; line-height: 1.4em; 
-    margin-top: 1rem;
+    margin-top: 1rem; 
 }
 @media  (max-width: 640px) {     /* SMALLER TITLES ON MOBILE */
   .articlelink {
     font-size: 1.6rem; line-height: 1.2em;
   }
 }
+
+.articlelink:last-child {
+    margin-bottom: 2rem;
+}
+
 .articlelink .authorname {
     display: block;
     text-transform: uppercase; font-size: 1rem; letter-spacing: .09em;
