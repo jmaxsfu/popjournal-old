@@ -3,7 +3,7 @@ title: 'The Care-ful Reviewer'
 subtitle: 'Peer Review as if People Mattered'
 license: 'CC BY-SA 2.5 CA'
 doi: '10.54590/pop.2022.004'
-date: 31-10-2022
+date: 09-11-2022
 author: 
 - name: 'John W Maxwell'
   affil: 'Simon Fraser University'
