@@ -426,6 +426,8 @@ table p { margin-top: .2rem; text-indent: 0; }
 
 sup {font-size: 60%;}  /*Just to tweak it a little smaller*/
 
+.footnote-ref {font-weight: bold;}
+
 
 /* THE CSS IN THE BREADCRUMBS PLUGIN HAS BEEN DISABLED
 IN ORDER THAT THE FOLLOWING TAKES PRECEDENCE */
