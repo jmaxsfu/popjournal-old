@@ -257,11 +257,6 @@ Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996
 Giannopoulou, Alexandra. 2018. "Understanding Open Data Regulation: An Analysis of the Licensing Landscape." In *Open Data Exposed*, edited by Bastiaan van Loenen, Glenn Vancauwenberghe, and Joep Crompvoet. The Hague: TMC Asser Press, 1–21 (page numbers
 for online version: [https://dare.uva.nl/search?identifier=5666ac49-fff1-4400-ab72-6fbb382dccb8](https://dare.uva.nl/search?identifier=5666ac49-fff1-4400-ab72-6fbb382dccb8)). 
 
-Giannopoulou, Alexandra. 2018. "Understanding Open Data Regulation: An Analysis of
-the Licensing Landscape." In Open Data Exposed, edited by Bastiaan van
-Loenen, Glenn Vancauwenberghe, and Joep Crompvoets, 1–21 (page numbers
-for UvA-DARE version: https://dare.uva.nl/search?identifier=5666ac49-fff1-4400-
-ab72-6fbb382dccb8). The Hague: TMC Asser Press.
 
 Governatori, Guido, Antonino Rotolo, Serena Villata, and Fabien Gandon. 2013. “One license to compose them all: A Deontic Logic Approach to Data Licensing on the Web of Data.” In *ISWC - 12th International Semantic Web Conference - 2013*, edited by Harith Alani et al., 151–166. Berlin and Heidelberg: Springer. [https://doi.org/10.1007/978-3-642-41335-3_10](https://doi.org/10.1007/978-3-642-41335-3_10).
 
