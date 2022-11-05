@@ -21,7 +21,7 @@ author:
   orcid: '0000-0002-2359-3916'
   bio: 'Simone Schroff is a lecturer at the University of Plymouth and Co- Director of the Cultural Heritage Exchange (CHEx). Her research focuses on how copyright is used in practice by right holders and users, including open access and business models.'
 - name: 'Martin Roth'
-  affil: 'Ritsumeikan University'
+  affil: 'Ritsumeikan University; Hochschule der Medien Stuttgart'
   email: ''
   orcid: '0000-0002-0838-1034'
   bio: 'Martin Roth is an associate professor at Ritsumeikan University and a research fellow at Stuttgart Media University. He works on videogames and digital culture, with a regional focus on Japan. For more information, please visit http://www.asobiba.de/martin/'
@@ -91,22 +91,71 @@ This is further complicated by the fact that a database can be within the scope 
 
 <div class="bordertable" markdown="1">
 
-| **Database element**                                         | **Non-contractual type of legal protection**   |                                              |                                              |                                              |
-| ------------------------------------------------------------ | ---------------------------------------------- | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-|                                                              | **EU**                                         | **Japan**                                    | **US/Canada**                                | **Other**                                    | 
-| **Database content elements**                                | Copyright except for facts and information     | Copyright except for facts and information   | Copyright except for facts and information   | Copyright except for facts and information   | 
-| **Database field labels**[^21]                               | Copyright                                      | Copyright                                    | Copyright                                    | Copyright                                    | 
-| **Original database structure**                              | Copyright                                      | Copyright                                    | Copyright                                    | Copyright                                    | 
-| **Work of compilation if non-original database structure**   | Sui generis database rights                    | No protection                                | No protection                                | No protection                                | 
+<table style="width:99%; ">
+<colgroup>
+<col style="width: 24%">
+<col style="width: 19%">
+<col style="width: 18%">
+<col style="width: 18%">
+<col style="width: 18%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td  rowspan="2" style="text-align: left;"><strong>Database element</strong></td>
+<td colspan="4" style="text-align: left;"><strong>Non-contractual type of legal
+protection</strong></td>
 
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>EU</strong></td>
+<td><strong>Japan</strong></td>
+<td><strong>US/Canada</strong></td>
+<td><strong>Other</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Database content
+elements</strong></td>
+<td style="text-align: left;">Copyright except for facts and
+information</td>
+<td>Copyright except for facts and information</td>
+<td>Copyright except for facts and information</td>
+<td>Copyright except for facts and information</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Database field labels †</strong></td>
+<td style="text-align: left;">Copyright</td>
+<td>Copyright</td>
+<td>Copyright</td>
+<td>Copyright</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Original database
+structure</strong></td>
+<td style="text-align: left;">Copyright</td>
+<td>Copyright</td>
+<td>Copyright</td>
+<td>Copyright</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Work of compilation if
+non-original database structure</strong></td>
+<td style="text-align: left;">Sui generis database rights</td>
+<td>No protection</td>
+<td>No protection</td>
+<td>No protection</td>
+</tr>
+</tbody>
+</table>
 </div>
+
 <div class="tablecaption" markdown="1">
 
-**Table 1:** Non-contractual types of legal protection afforded to various elements of databases
+**Table 1:** Non-contractual types of legal protection afforded to various elements of databases   
+**†** *Can be copyrighted, but only if they meet the national/regional originality standard.*
 
 </div>
 
-**Licensing practices of online enthusiast communities**
+## Licensing practices of online enthusiast communities
 
 Turning now to the actual licensing practices of online enthusiast communities, we encountered two main approaches: either the lack of any clear license information, or the adoption of one of the common open license variants from Creative Commons or Open Data Commons. However, even databases that have clear license information often suffer from various problems caused by the complex nature and interplay between copyright and database rights, as explained above. There were two main examples that we encountered.
 
@@ -126,23 +175,63 @@ In summary, adopting the CC BY-NC-SA 4.0 license along with the way the JVMG kno
 
 <div class="bordertable" markdown="1">
 
-| **Data source**                                   | **License**          | **Compatibility with the CC BY-NC-SA 4.0 license**                                                                |
-|---------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Anime Characters Database**                     | None                 | CC BY-NC-SA 4.0 license provided for the JVMG project by **individual agreement** for the parts used in each case |
-| **AnimeClick**                                    |                      | None.                                                                                                             |
-| **The Visual Novel Database**                     |                      | ODbL.                                                                                                             |
-| **Media-Arts Database**                           | CC BY 4.0            | **yes**                                                                                                           |
-| **Wikidata**                                      | CC0                  |  **yes**                                                                                                          |
-| **AniDB** (publicly available anime titles only)  | CC BY-NC-SA 4.0      |  **identical**                                                                                                    |
-
+<table style="width:99%;">
+<colgroup>
+<col style="width: 26%">
+<col style="width: 32%">
+<col style="width: 40%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;" ><strong>Data source</strong></td>
+<td style="text-align: left;"><strong>License</strong></td>
+<td style="text-align: left;"><strong>Compatibility with the CC BY-NC-SA
+4.0 license</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Anime Characters
+Database</strong></td>
+<td style="text-align: left;">None</td>
+<td rowspan="3" style="text-align: left; background-color: #d9ead3;">CC BY-NC-SA 4.0 license provided for the
+JVMG project by <strong>individual agreement</strong> for the parts used
+in each case</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>AnimeClick</strong></td>
+<td style="text-align: left;">None</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>The Visual Novel
+Database</strong></td>
+<td style="text-align: left;">ODbL</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Media-Arts Database</strong></td>
+<td style="text-align: left;">CC BY 4.0</td>
+<td style="text-align: left; background-color: #d9ead3;""><strong>yes</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Wikidata</strong></td>
+<td style="text-align: left;">CC0</td>
+<td style="text-align: left; background-color: #d9ead3;""><strong>yes</strong></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>AniDB</strong> (publicly available
+anime titles only)</td>
+<td style="text-align: left;">CC BY-NC-SA 4.0</td>
+<td style="text-align: left; background-color: #d9ead3;""><strong>identical</strong></td>
+</tr>
+</tbody>
+</table>
 </div>
+
 <div class="tablecaption" markdown="1">
 
 **Table 2:** License compatibility with the databases the JVMG knowledge graph builds on
 
 </div>
 
-We would also like to highlight that following the already cited best practice recommendations (Heath and Bizer 2011, Marshall et al. 2012) we have also included the license information for the JVMG knowledge graph in all our subgraph descriptions using the Creative Commons Rights Expression Language (CC REL).[^22]
+We would also like to highlight that following the already cited best practice recommendations (Heath and Bizer 2011, Marshall et al. 2012) we have also included the license information for the JVMG knowledge graph in all our subgraph descriptions using the Creative Commons Rights Expression Language (CC REL).[^21]
 
 ## Closing remarks
 
@@ -165,7 +254,14 @@ Derclaye, Estelle. 2014. “The Database Directive.” In *EU Copyright Law: A C
 
 Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases (Database Directive). *OJ L* 77 (27.3.1996): 20–28. [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31996L0009](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31996L0009).
 
-Giannopoulou, Alexandra. 2018. "Understanding Open Data Regulation: An Analysis of the Licensing Landscape." In *Open Data Exposed*, edited by Bastiaan van Loenen, Glenn Vancauwenberghe, and Joep Crompvoet. The Hague: TMC Asser Press, 1–21. [https://dare.uva.nl/search?identifier=5666ac49-fff1-4400-ab72-6fbb382dccb8](https://dare.uva.nl/search?identifier=5666ac49-fff1-4400-ab72-6fbb382dccb8). .
+Giannopoulou, Alexandra. 2018. "Understanding Open Data Regulation: An Analysis of the Licensing Landscape." In *Open Data Exposed*, edited by Bastiaan van Loenen, Glenn Vancauwenberghe, and Joep Crompvoet. The Hague: TMC Asser Press, 1–21 (page numbers
+for online version: [https://dare.uva.nl/search?identifier=5666ac49-fff1-4400-ab72-6fbb382dccb8](https://dare.uva.nl/search?identifier=5666ac49-fff1-4400-ab72-6fbb382dccb8)). 
+
+Giannopoulou, Alexandra. 2018. "Understanding Open Data Regulation: An Analysis of
+the Licensing Landscape." In Open Data Exposed, edited by Bastiaan van
+Loenen, Glenn Vancauwenberghe, and Joep Crompvoets, 1–21 (page numbers
+for UvA-DARE version: https://dare.uva.nl/search?identifier=5666ac49-fff1-4400-
+ab72-6fbb382dccb8). The Hague: TMC Asser Press.
 
 Governatori, Guido, Antonino Rotolo, Serena Villata, and Fabien Gandon. 2013. “One license to compose them all: A Deontic Logic Approach to Data Licensing on the Web of Data.” In *ISWC - 12th International Semantic Web Conference - 2013*, edited by Harith Alani et al., 151–166. Berlin and Heidelberg: Springer. [https://doi.org/10.1007/978-3-642-41335-3_10](https://doi.org/10.1007/978-3-642-41335-3_10).
 
@@ -199,7 +295,7 @@ WIPO Copyright Treaty. 1996. [https://wipolex.wipo.int/en/text/295166](https://w
 
 [^4]: For a detailed introduction to knowledge graphs see Hogan et al. (2021). It is important to note that a knowledge graph is still a database from a legal perspective.
 
-[^5]: CC stands for Creative Commons, an organization dedicated to offering alternatives to copyright with a range of available licenses (see [https://creativecommons.org/](https://creativecommons.org/). These licenses are often identified by the types of obligations and prohibitions they entail. In the above example BY stands for Attribution, meaning the need to clearly identify the original author(s); NC is the abbreviation for Non-Commercial, pointing to the fact that rights are not granted for commercial uses of the work being licensed; and, finally, SA means Share-Alike, adding the obligation that any derivative works have to be licensed under the same or a compatible license.
+[^5]: CC stands for Creative Commons, an organization dedicated to offering alternatives to copyright with a range of available licenses (see [https://creativecommons.org/](https://creativecommons.org/)). These licenses are often identified by the types of obligations and prohibitions they entail. In the above example BY stands for Attribution, meaning the need to clearly identify the original author(s); NC is the abbreviation for Non-Commercial, pointing to the fact that rights are not granted for commercial uses of the work being licensed; and, finally, SA means Share-Alike, adding the obligation that any derivative works have to be licensed under the same or a compatible license.
 
 [^6]: For a full list of the communities that participated in the workshop see: [https://jvmg.iuk.hdm-stuttgart.de/2019/07/17/workshop-report/](https://jvmg.iuk.hdm-stuttgart.de/2019/07/17/workshop-report/).
 
@@ -231,8 +327,6 @@ WIPO Copyright Treaty. 1996. [https://wipolex.wipo.int/en/text/295166](https://w
 
 [^20]: Not all databases are afforded this type of legal protection in the EU however, as “courts from some Member States have ruled against the possibility of public bodies asserting sui generis database rights.” (Giannopoulou 2018, 5)
 
-[^21]: Can be copyrighted, but only if they meet the national/regional originality standard.
-
-[^22]: See for example [https://mediagraph.link/graph/acdb](https://mediagraph.link/graph/acdb). For more information on CC REL see: [https://wiki.creativecommons.org/wiki/CcREL](https://wiki.creativecommons.org/wiki/CcREL).
+[^21]: See for example [https://mediagraph.link/graph/acdb](https://mediagraph.link/graph/acdb). For more information on CC REL see: [https://wiki.creativecommons.org/wiki/CcREL](https://wiki.creativecommons.org/wiki/CcREL).
 
 

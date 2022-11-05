@@ -423,7 +423,8 @@ div.bordertable table td { border: 1pt grey solid; }
 div.stripes table tr:nth-child(odd) {background: #eee}
 
 div.tablecaption {
-        font-size: .95rem; padding: 0 2rem;
+    font-size: .9rem; padding: 0 0rem; 
+    margin-top: -0.4rem; line-height: 1.3rem;
 }
 
 
