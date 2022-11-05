@@ -13,7 +13,9 @@ abstract: 'The global COVID-19 pandemic has, without a doubt, reshaped our perce
 deck: ''
 ---
 
-![Door with sign that says 'Pullsh'](pullsh.jpg "")
+![Door with sign that says 'Pullsh'](pullsh.jpg "image: https://twitter.com/CursedArchitect")
+
+
 
 > *Todo es puerta.   
 >  todo es puente.    
@@ -23,7 +25,7 @@ deck: ''
 
 ## {.foo}
 
-The global COVID-19 pandemic has, without a doubt, reshaped our perception of the value of closure and openness. Here in Naarm (Melbourne), the city that locked down the longest<sup>TM</sup>, citizens gingerly emerged from enforced curfews and travel restrictions, eyes still blinking, into a state of what was helpfully described as “clopen” (Briggs 2021).
+The global COVID-19 pandemic has, without a doubt, reshaped our perception of the value of closure and openness. Here in Naarm (Melbourne), the city that locked down the longest, citizens gingerly emerged from enforced curfews and travel restrictions, eyes still blinking, into a state of what was helpfully described as “clopen” (Briggs 2021).
 
 The word “clopen” has meant different things at different times and in different contexts, but it is typically a reference to the overlapping of openings and closings, a state of both/neither open and/nor closed. In the field of topology, for example, the existence of “clopen sets” concedes that being closed does not necessarily imply a set is not open. In this discipline, the definition of clopen rests on the idea that closure is not the opposite of openness, a conceptually testing perspective that has inspired its own *Downfall* parody (Benjatastic 2010).
 
@@ -63,7 +65,7 @@ George Simmel, in a 1909 essay comparing bridges and doors, argues that whereas 
 
 > With respect to the relation “separateness-unification” the bridge emphasizes the latter, and it makes obvious the distance between its resting points, and makes it measureable. By so doing, it also overcomes this distance at the same time. The door, however, in a stricter and more obvious manner demonstrates that the acts of separating and relating are but two sides of the same act... The door cancels the separation of the inside from the outside because it constitutes a link between the space of the human and everything which is outside of it. Exactly because the door can be opened, its being shut gives a feeling of being shut out, that is stronger than the feeling emanating from just a solid wall. (Simmel in Kaern 1994, 409)
 
-For Simmel, the door emphasizes an indivisible dual action or function—it both separates and connects, it limits, and, at the same time, it tantalizes with offers of freedom and the possibility of undirected movement. This relational quality is equally symbolic and functional. Simmel also recognizes the power of aesthetic architectures and the way the material structure of doors themselves, and he affords different conceptual frameworks, social relationships, and acts to manage and maintain authority:
+For Simmel, the door emphasizes an indivisible dual action or function—it both separates and connects, it limits, and, at the same time, it tantalizes with offers of freedom and the possibility of undirected movement. This relational quality is equally symbolic and functional. Simmel also recognizes the power of aesthetic architectures and the way the material structure of doors afford different conceptual frameworks, social relationships, and acts to manage and maintain authority:
 
 > The door is the line of demarcation where the limited and the limitless meet, but not in the dead geometrical form of merely a partition wall, but rather as the permanent possibility of continuous alternation.\
 > The bridge as the line between two points, strictly prescribes safety and direction. From the door, however, life flows out of the limitedness of the isolated being-by-yourself, and it flows into the unlimited number of directions in which paths can lead. (Simmel in Kaern 1994, 410)
@@ -89,7 +91,7 @@ At this most existential level, attention to clopenness insists that scholarship
 The clopen doors of scholarship precede the intellectual communities they articulate, delineate, relegate, and filter. Universally open doors are an admirable aspiration but inadequately appreciate the conceptual, social, political, and institutional role of closure in the work of open scholarly infrastructure. To put this plainly: a fully open (or a fully closed) scholarship would be a world without doors. An unhinged world.
 
 
-!["Sign: If any of you know how to fix broken hinges my door is always open"](hinges.jpg "")
+!["Sign: If any of you know how to fix broken hinges my door is always open"](hinges.jpg "image: VinceTheSignGuy")
 
 <div class="refs" markdown="1">
 
@@ -143,3 +145,5 @@ Wierzbicka, Anna. 2006. *English: Meaning and Culture.* Oxford: Oxford Universit
 Wilkinson, Mark, Dumontier, Michel, Aalbersberg, IJsbrand et al. The FAIR Guiding Principles for scientific data management and stewardship. *Sci Data* 3, 160018 (2016). [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18).
 
 </div> 
+
+
