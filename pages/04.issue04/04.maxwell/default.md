@@ -142,7 +142,7 @@ The list could be elaborated further without too much trouble, to include consid
 
 ## Toward a model of Care-ful Peer Review 
 
-> But all of this, as I hope you hear, is not about our publications, or about our publishing systems, but about us — about how we relate to one another, about how we engage with one another as we discuss our work. And thus all of it is within our power to improve — especially if we act as a community of practice, with an emphasis on community. ( Fitzpatrick 2019)  
+> But all of this, as I hope you hear, is not about our publications, or about our publishing systems, but about us — about how we relate to one another, about how we engage with one another as we discuss our work. And thus all of it is within our power to improve — especially if we act as a community of practice, with an emphasis on community. (Fitzpatrick 2019)  
 
 Kathleen Fitzpatrick's writings are ever inspirational, but her invocation of "community of practice" here is worth dwelling on for a moment, as it brings to mind the insights made by Jean Lave and Etienne Wenger in their 1991 book, *Situated Learning: Legitimate Peripheral Participation*, which is about the dynamics of communities of practice. The book's subtitle is an awkward mouthful, but "legitimate peripheral participation" is a critical idea in Lave & Wenger's theory of communities of practice, and it is helpful in our discussion of care in scholarly publishing, editing, and reviewing. Lave & Wenger's insight is that communities of practice are not populated by static entities. Rather, practitioners in communities are *on their way* to something, they are *becoming* something. In their model, all participation is in some way peripheral, and no matter how peripheral, it is still *legitimate*. They write: 
 
@@ -163,7 +163,7 @@ It is easy enough to think of disciplinary boundary policing as a core function 
 
 ## Instead of agents in field, how about a garden?  
 
-![INKE Proceedings Review, circa 2018](INKE-peer_review.jpg "Scholars sitting in pairs in a garden talking")
+![Scholars sitting in pairs in a garden talking](INKE-peer_review.jpg "INKE Proceedings Review, circa 2018")
 
 Here is an idealized yet actual image of peer review practice, from back in the *before-times:* in a lovely garden, we would gather, working *in pairs* in conversation, and with a suitable nod at least to the ideals of anonymous review[^noteverything] we would consider each article and where we thought it was going, and write voluminous commentary and critique to the authors. This was good; never before or again have I received better and more generous review comments; nor have I ever written more engaged review comments. Consider the contrast to what is undoubtedly the norm now, in which an automated system mediates between an editor and a pool of possible reviewers, emailing assigned reviewers about deadlines (perhaps multiple times!), capturing reviews as so many fields in a fill-able form, and automatically routing these comments back to editors and authors. This is a very different figure of scholarly practice. 
 
@@ -179,6 +179,7 @@ But the example of groups like the Radical Open Access Collective and the Schola
 
 If we can imagine open scholarship as having broader audiences than the strictly disciplinary ones, then we can imagine peer review as a developmental mediation, between author and reader, between work and discourse, between scholarship and its audience(s). Because a peer reviewer has a deeper, context- and content-level engagement with the material, the author, and, ideally, the reader downstream---who, we must remember, is always/already an author themselves, on their way in or out or across our community. These are the relationships that we have an opportunity to nurture and foreground.  
 
+<div class="refs" markdown="1">
 
 ## Bibliography  
 
@@ -186,7 +187,7 @@ Adema, Jannake, and Samuel A. Moore. 2017. “The Radical Open Access Collective
 
 Agate, Nicky, Rebecca Kennison, Stacy Konkiel, Christopher P. Long, Jason Rhody, Simone Sacchi, and Penelope Weber. 2020. “The Transformative Power of Values-Enacted Scholarship.” *Humanities and Social Sciences Communications 7* (1): 1–12. [https://doi.org/10.1057/s41599-020-00647-z](https://doi.org/10.1057/s41599-020-00647-z).
 
-Butchard, Dorothy, Simon Rowberry, Claire Squires, and Gillian Tasker. 2017. “Peer Review in Practice.” [https://doi.org/10.14324/111.9781911307679.15](https://doi.org/10.14324/111.9781911307679.15).
+Butchard, Dorothy, Simon Rowberry, Claire Squires, and Gillian Tasker. 2017. “Peer Review in Practice.” *Academic Book of the Future*. London: UCLPress [https://doi.org/10.14324/111.9781911307679.15](https://doi.org/10.14324/111.9781911307679.15).
 
 Cox, Ailsa. 2021. “The Silence of Peer Review.” In *Strategies of Silence.* Routledge. [https://doi.org/10.4324/9781003030911](https://doi.org/10.4324/9781003030911).
 
@@ -198,9 +199,9 @@ Fitzpatrick, Kathleen. 2010. “Peer‐to‐peer Review and the Future of Schola
 
 ———. 2019. *Generous Thinking: A Radical Approach to Saving the University*. Baltimore: Johns Hopkins University Press.
 
-———. 2021. “Opening Up Peer Review.” Kathleen Fitzpatrick. blog post. June 11, 2021. [https://kfitz.info/opening-up-peer-review/](https://kfitz.info/opening-up-peer-review/).
+———. 2021. “Opening Up Peer Review.” *Kathleen Fitzpatrick*. blog post. June 11, 2021. [https://kfitz.info/opening-up-peer-review/](https://kfitz.info/opening-up-peer-review/).
 
-Fyfe, Aileen, Kelly Coate, Stephen Curry, Stuart Lawson, Noah Moxham, and Camilla Mørk Røstvik. 2017. “Untangling Academic Publishing: A History of the Relationship between Commercial Interests, Academic Prestige and the Circulation of Research,” May. [https://doi.org/10.5281/zenodo.546100](https://doi.org/10.5281/zenodo.546100).
+Fyfe, Aileen, Kelly Coate, Stephen Curry, Stuart Lawson, Noah Moxham, and Camilla Mørk Røstvik. 2017. “Untangling Academic Publishing: A History of the Relationship between Commercial Interests, Academic Prestige and the Circulation of Research.” Zenodo. [https://doi.org/10.5281/zenodo.546100](https://doi.org/10.5281/zenodo.546100).
 
 Guédon, Jean-Claude. 2001. *In Oldenburgś Long Shadow: Librarians, Research Scientists, Publishers, and the Control of Scientific Publishing.* Washington, D.C: Association of Research Libraries. [http://www.arl.org/arl/proceedings/138/guedon.html](http://www.arl.org/arl/proceedings/138/guedon.html).
 
@@ -236,7 +237,7 @@ Niles, Meredith T., Lesley A. Schimanski, Erin C. McKiernan, and Juan Pablo Alpe
 Nowviskie, Bethany. 2015. “On Capacity and Care.” *Bethany Nowviskie*. October 4, 2015. [https://nowviskie.org/2015/on-capacity-and-care/](https://nowviskie.org/2015/on-capacity-and-care/).
 
 Pontille, David, and Didier Torny. 2014. “The Blind Shall See! The 
-Question of Anonymity in Journal Peer Review.” *Ada New Media*, April. [https://adanewmedia.org/2014/04/issue4-pontilletorny/](https://adanewmedia.org/2014/04/issue4-pontilletorny/).
+Question of Anonymity in Journal Peer Review.” *Ada New Media*. [https://adanewmedia.org/2014/04/issue4-pontilletorny/](https://adanewmedia.org/2014/04/issue4-pontilletorny/).
 
 Royal Society. 2015. “The Future of Scholarly Scientific Communication: Conference.” London: The Royal Society. [https://royalsociety.org/-/media/events/2015/04/FSSC1/FSSC-Report.pdf?la=en-GB](https://royalsociety.org/-/media/events/2015/04/FSSC1/FSSC-Report.pdf?la=en-GB).
 
@@ -248,6 +249,7 @@ Tennant, Jonathan P., and Tony Ross-Hellauer. 2020. “The Limitations to Our Un
 
 Tronto, Joan C. 1993. *Moral Boundaries: A Political Argument for an Ethic of Care.* New York: Routledge. [https://doi.org/10.4324/9781003070672](https://doi.org/10.4324/9781003070672).
 
+</div>
 
 [^ack]: Enormous thanks to Beatrice Glickman, whose formative peer review of this article contributed greatly to the argument and its articulation.
 
