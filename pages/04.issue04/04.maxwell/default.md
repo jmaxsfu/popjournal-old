@@ -183,7 +183,7 @@ If we can imagine open scholarship as having broader audiences than the strictly
 
 ## Bibliography  
 
-Adema, Jannake, and Samuel A. Moore. 2017. “The Radical Open Access Collective: Building Alliances for a Progressive, Scholar-Led Commons.” *Impact of Social Sciences* (blog). October 27, 2017. [https://blogs.lse.ac.uk/impactofsocialsciences/2017/10/27/the-radical-open-access-collective-building-alliances-for-a-progressive-scholar-led-commons/](https://blogs.lse.ac.uk/impactofsocialsciences/2017/10/27/the-radical-open-access-collective-building-alliances-for-a-progressive-scholar-led-commons/).
+Adema, Janneke, and Samuel A. Moore. 2017. “The Radical Open Access Collective: Building Alliances for a Progressive, Scholar-Led Commons.” *Impact of Social Sciences* (blog). October 27, 2017. [https://blogs.lse.ac.uk/impactofsocialsciences/2017/10/27/the-radical-open-access-collective-building-alliances-for-a-progressive-scholar-led-commons/](https://blogs.lse.ac.uk/impactofsocialsciences/2017/10/27/the-radical-open-access-collective-building-alliances-for-a-progressive-scholar-led-commons/).
 
 Agate, Nicky, Rebecca Kennison, Stacy Konkiel, Christopher P. Long, Jason Rhody, Simone Sacchi, and Penelope Weber. 2020. “The Transformative Power of Values-Enacted Scholarship.” *Humanities and Social Sciences Communications 7* (1): 1–12. [https://doi.org/10.1057/s41599-020-00647-z](https://doi.org/10.1057/s41599-020-00647-z).
 
