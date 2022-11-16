@@ -12,7 +12,9 @@ content:
 ---
 
 
-# Current Issue (#4): <br />*Putting Open Social Scholarship into Practice*
+# Current Issue (#4): 
+
+## *Putting Open Social Scholarship into Practice*
 
 November 15, 2022
 
